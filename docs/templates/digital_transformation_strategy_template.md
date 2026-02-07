@@ -15,7 +15,7 @@
 
 title: "Digital Transformation Strategy Template"
 
-[**➡️ View Template File**](/industry-specializations/information-technology/digital-transformation/digital_transformation_strategy_template.md)
+[**➡️ View Template File**](/templates/all/digital_transformation_strategy_template.md)
 
 ## 📈 Quality Score
 

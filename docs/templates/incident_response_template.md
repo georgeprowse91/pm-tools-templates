@@ -15,7 +15,7 @@
 
 title: "Incident Response Template"
 
-[**➡️ View Template File**](/industry-specializations/information-technology/cybersecurity/incident_response_template.md)
+[**➡️ View Template File**](/templates/all/incident_response_template.md)
 
 ## 📈 Quality Score
 

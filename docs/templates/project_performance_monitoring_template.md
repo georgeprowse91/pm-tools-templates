@@ -15,7 +15,7 @@
 
 title: "Project Performance Monitoring Template"
 
-[**➡️ View Template File**](/templates/traditional/Traditional/Process_Groups/Monitoring_and_Controlling/project_performance_monitoring_template.md)
+[**➡️ View Template File**](/templates/all/project_performance_monitoring_template.md)
 
 ## 📈 Quality Score
 

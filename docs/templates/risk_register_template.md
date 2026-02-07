@@ -15,7 +15,7 @@
 
 title: "Risk Register Template"
 
-[**➡️ View Template File**](/templates/traditional/Traditional/Templates/risk_register_template.md)
+[**➡️ View Template File**](/templates/all/risk_register_template.md)
 
 ## 📈 Quality Score
 

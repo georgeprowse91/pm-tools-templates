@@ -15,7 +15,7 @@
 
 title: "Safe Metrics Reporting Template"
 
-[**➡️ View Template File**](/methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_metrics_reporting_template.md)
+[**➡️ View Template File**](/templates/all/safe_metrics_reporting_template.md)
 
 ## 📈 Quality Score
 

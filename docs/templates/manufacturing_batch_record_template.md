@@ -15,7 +15,7 @@
 
 title: "Manufacturing Batch Record Template"
 
-[**➡️ View Template File**](/industry-specializations/healthcare-pharmaceutical/manufacturing/manufacturing_batch_record_template.md)
+[**➡️ View Template File**](/templates/all/manufacturing_batch_record_template.md)
 
 ## 📈 Quality Score
 

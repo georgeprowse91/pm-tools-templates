@@ -15,7 +15,7 @@
 
 title: "Release Management Template"
 
-[**➡️ View Template File**](/methodology-frameworks/emerging-methods/devops/release_management_template.md)
+[**➡️ View Template File**](/templates/all/release_management_template.md)
 
 ## 📈 Quality Score
 

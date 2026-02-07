@@ -15,7 +15,7 @@
 
 title: "Process Validation Protocol Template"
 
-[**➡️ View Template File**](/industry-specializations/healthcare-pharmaceutical/regulatory/process_validation_protocol_template.md)
+[**➡️ View Template File**](/templates/all/process_validation_protocol_template.md)
 
 ## 📈 Quality Score
 

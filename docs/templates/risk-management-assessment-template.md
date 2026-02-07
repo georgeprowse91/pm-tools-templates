@@ -15,7 +15,7 @@
 
 title: "Risk Management Assessment Template"
 
-[**➡️ View Template File**](/project-assessment-suite/risk-management-assessment-template.md)
+[**➡️ View Template File**](/templates/all/risk-management-assessment-template.md)
 
 ## 📈 Quality Score
 

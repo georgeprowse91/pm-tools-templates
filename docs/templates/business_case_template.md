@@ -15,7 +15,7 @@
 
 title: "Business Case Template"
 
-[**➡️ View Template File**](/templates/traditional/Traditional/Templates/business_case_template.md)
+[**➡️ View Template File**](/templates/all/business_case_template.md)
 
 ## 📈 Quality Score
 

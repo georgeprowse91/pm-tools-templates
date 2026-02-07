@@ -15,7 +15,7 @@
 
 title: "Skills Matrix Template"
 
-[**➡️ View Template File**](/project-lifecycle/02-planning/resource-planning/skills-matrix-template.md)
+[**➡️ View Template File**](/templates/all/skills-matrix-template.md)
 
 ## 📈 Quality Score
 

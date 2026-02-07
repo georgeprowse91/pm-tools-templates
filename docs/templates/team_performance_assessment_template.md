@@ -15,7 +15,7 @@
 
 title: "Team Performance Assessment Template"
 
-[**➡️ View Template File**](/templates/traditional/Traditional/Process_Groups/Executing/team_performance_assessment_template.md)
+[**➡️ View Template File**](/templates/all/team_performance_assessment_template.md)
 
 ## 📈 Quality Score
 

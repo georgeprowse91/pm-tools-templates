@@ -15,7 +15,7 @@
 
 title: "Traditional Project Charter Template"
 
-[**➡️ View Template File**](/project-lifecycle/01-initiation/project-charter/traditional-project-charter-template.md)
+[**➡️ View Template File**](/templates/all/traditional-project-charter-template.md)
 
 ## 📈 Quality Score
 

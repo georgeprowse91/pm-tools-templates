@@ -15,7 +15,7 @@
 
 title: "Status Report Template"
 
-[**➡️ View Template File**](/templates/traditional/Traditional/Templates/status_report_template.md)
+[**➡️ View Template File**](/templates/all/status_report_template.md)
 
 ## 📈 Quality Score
 

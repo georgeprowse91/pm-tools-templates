@@ -15,7 +15,7 @@
 
 title: "Data Center Design Template"
 
-[**➡️ View Template File**](/industry-specializations/information-technology/infrastructure/data_center_design_template.md)
+[**➡️ View Template File**](/templates/all/data_center_design_template.md)
 
 ## 📈 Quality Score
 

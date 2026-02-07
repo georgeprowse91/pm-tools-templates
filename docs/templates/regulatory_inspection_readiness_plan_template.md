@@ -15,7 +15,7 @@
 
 title: "Regulatory Inspection Readiness Plan Template"
 
-[**➡️ View Template File**](/industry-specializations/healthcare-pharmaceutical/regulatory/regulatory_inspection_readiness_plan_template.md)
+[**➡️ View Template File**](/templates/all/regulatory_inspection_readiness_plan_template.md)
 
 ## 📈 Quality Score
 

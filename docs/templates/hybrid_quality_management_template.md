@@ -15,7 +15,7 @@
 
 title: "Hybrid Quality Management Template"
 
-[**➡️ View Template File**](/templates/hybrid/Hybrid/Templates/hybrid_quality_management_template.md)
+[**➡️ View Template File**](/templates/all/hybrid_quality_management_template.md)
 
 ## 📈 Quality Score
 

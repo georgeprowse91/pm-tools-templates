@@ -15,7 +15,7 @@
 
 title: "Purchase Order Template"
 
-[**➡️ View Template File**](/templates/traditional/Traditional/Templates/purchase_order_template.md)
+[**➡️ View Template File**](/templates/all/purchase_order_template.md)
 
 ## 📈 Quality Score
 

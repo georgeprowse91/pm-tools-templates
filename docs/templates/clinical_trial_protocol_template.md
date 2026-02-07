@@ -15,7 +15,7 @@
 
 title: "Clinical Trial Protocol Template"
 
-[**➡️ View Template File**](/industry-specializations/healthcare-pharmaceutical/clinical-trials/clinical_trial_protocol_template.md)
+[**➡️ View Template File**](/templates/all/clinical_trial_protocol_template.md)
 
 ## 📈 Quality Score
 

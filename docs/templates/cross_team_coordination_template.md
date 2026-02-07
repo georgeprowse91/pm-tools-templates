@@ -15,7 +15,7 @@
 
 title: "Cross Team Coordination Template"
 
-[**➡️ View Template File**](/methodology-frameworks/agile-scrum/scaling-frameworks/less/cross_team_coordination_template.md)
+[**➡️ View Template File**](/templates/all/cross_team_coordination_template.md)
 
 ## 📈 Quality Score
 

@@ -15,7 +15,7 @@
 
 title: "Less Retrospective Template"
 
-[**➡️ View Template File**](/methodology-frameworks/agile-scrum/scaling-frameworks/less/less_retrospective_template.md)
+[**➡️ View Template File**](/templates/all/less_retrospective_template.md)
 
 ## 📈 Quality Score
 

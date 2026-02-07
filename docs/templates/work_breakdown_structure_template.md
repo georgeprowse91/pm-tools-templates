@@ -15,7 +15,7 @@
 
 title: "Work Breakdown Structure Template"
 
-[**➡️ View Template File**](/templates/traditional/Traditional/Process_Groups/Planning/work_breakdown_structure_template.md)
+[**➡️ View Template File**](/templates/all/work_breakdown_structure_template.md)
 
 ## 📈 Quality Score
 

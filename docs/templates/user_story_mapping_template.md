@@ -15,7 +15,7 @@
 
 title: "User Story Mapping Template"
 
-[**➡️ View Template File**](/industry-specializations/information-technology/software-development/user_story_mapping_template.md)
+[**➡️ View Template File**](/templates/all/user_story_mapping_template.md)
 
 ## 📈 Quality Score
 

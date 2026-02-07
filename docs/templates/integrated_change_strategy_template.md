@@ -15,7 +15,7 @@
 
 title: "Integrated Change Strategy Template"
 
-[**➡️ View Template File**](/templates/hybrid/Hybrid/Templates/integrated_change_strategy_template.md)
+[**➡️ View Template File**](/templates/all/integrated_change_strategy_template.md)
 
 ## 📈 Quality Score
 

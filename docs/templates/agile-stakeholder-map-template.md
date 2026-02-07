@@ -15,7 +15,7 @@
 
 title: "Agile Stakeholder Map Template"
 
-[**➡️ View Template File**](/project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template.md)
+[**➡️ View Template File**](/templates/all/agile-stakeholder-map-template.md)
 
 ## 📈 Quality Score
 

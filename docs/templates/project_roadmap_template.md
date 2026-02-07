@@ -15,7 +15,7 @@
 
 title: "Project Roadmap Template"
 
-[**➡️ View Template File**](/templates/traditional/Traditional/Templates/project_roadmap_template.md)
+[**➡️ View Template File**](/templates/all/project_roadmap_template.md)
 
 ## 📈 Quality Score
 

@@ -15,7 +15,7 @@
 
 title: "Infrastructure As Code Template"
 
-[**➡️ View Template File**](/methodology-frameworks/emerging-methods/devops/infrastructure_as_code_template.md)
+[**➡️ View Template File**](/templates/all/infrastructure_as_code_template.md)
 
 ## 📈 Quality Score
 

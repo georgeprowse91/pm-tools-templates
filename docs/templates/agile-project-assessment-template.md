@@ -15,7 +15,7 @@
 
 title: "Agile Project Assessment Template"
 
-[**➡️ View Template File**](/project-assessment-suite/agile-project-assessment-template.md)
+[**➡️ View Template File**](/templates/all/agile-project-assessment-template.md)
 
 ## 📈 Quality Score
 

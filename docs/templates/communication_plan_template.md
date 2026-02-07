@@ -15,7 +15,7 @@
 
 title: "Communication Plan Template"
 
-[**➡️ View Template File**](/templates/traditional/Traditional/Templates/communication_plan_template.md)
+[**➡️ View Template File**](/templates/all/communication_plan_template.md)
 
 ## 📈 Quality Score
 
