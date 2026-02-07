@@ -1475,7 +1475,7 @@ q4_initiatives:
 - [Release Management Workflow](./release_management_template.md)
 - [DevOps Monitoring and Alerting](./monitoring_alerting_template.md)
 - [Infrastructure as Code](./infrastructure_as_code_template.md)
-- [Security Engineer Toolkit](../../role-based-toolkits/security-engineer/README.md)
+- [Security Engineer Toolkit](../../templates/role-based/security-engineer/README.md)
 
 ---
 

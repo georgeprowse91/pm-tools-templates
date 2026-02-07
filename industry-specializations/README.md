@@ -225,7 +225,7 @@ Implement: Industry frameworks → Proven approaches for your sector's unique ch
 - [`/Traditional/`](../Traditional/) - Traditional framework with industry adaptations
 - [`/Agile/`](../Agile/) - Agile practices for industry-specific contexts
 - [`/Hybrid/`](../Hybrid/) - Hybrid approaches for complex industry requirements
-- [`/role-based-toolkits/`](../role-based-toolkits/) - Role-specific tools across industries
+- [`/templates/role-based/`](../templates/role-based/) - Role-specific tools across industries
 
 ### **External Industry Resources:**
 - **Financial Services** - [FFIEC](https://ffiec.gov/), [FINRA](https://finra.org/), [SEC](https://sec.gov/)

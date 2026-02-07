@@ -85,8 +85,8 @@ The templates are organized by methodology and use case:
 ```mermaid
 graph TD
     A[pm-tools-templates] --> B[📁 templates/]
-    A --> C[📁 project-lifecycle/]
-    A --> D[📁 role-based-toolkits/]
+    A --> C[📁 templates/project-lifecycle/]
+    A --> D[📁 templates/role-based/]
     A --> E[📁 industry-specializations/]
     A --> F[📁 methodology-frameworks/]
     A --> G[📁 integration-guides/]

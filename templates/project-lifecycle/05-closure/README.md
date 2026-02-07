@@ -231,7 +231,7 @@ The closure phase marks the formal conclusion of the project lifecycle, focusing
 3. **[Change Control](../04-monitoring-control/change-control/)** - Final scope and change documentation
 
 ### Organizational Integration
-1. **[Portfolio Management](../../business-stakeholder-suite/portfolio-oversight/)** - Project value realization reporting
+1. **[Portfolio Management](../../templates/business-stakeholder/portfolio-oversight/)** - Project value realization reporting
 2. **[Change Management](../../organizational-frameworks/change-management/)** - Organizational change completion
 3. **[Continuous Improvement](../../methodology-frameworks/emerging-methods/lean-startup/)** - Learning integration and application
 

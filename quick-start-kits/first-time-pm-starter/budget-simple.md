@@ -14,5 +14,5 @@ Basic budget tracking template for new project managers.
 
 ---
 Related Resources:
-- [Budget Planning](../../project-lifecycle/02-planning/budget-planning/)
-- [Financial Governance](../../business-stakeholder-suite/financial-governance/)
+- [Budget Planning](../../templates/project-lifecycle/02-planning/budget-planning/)
+- [Financial Governance](../../templates/business-stakeholder/financial-governance/)

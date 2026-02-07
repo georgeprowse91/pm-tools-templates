@@ -13,7 +13,7 @@ Assumptions
 Constraints
 - Backward compatibility for canonical paths.
 Dependencies
-- ROADMAP.md and backlog/roadmap-product-backlog.md linkage
+- ROADMAP.md and templates/backlog/roadmap-product-backlog.md linkage
 
 3. Risks and Mitigations
 - Overextension across themes → WIP limits per quarter
@@ -42,4 +42,3 @@ Dependencies
 
 10. Stakeholders and Communications
 - Stakeholder updates via status reports and weekly triage automation
-

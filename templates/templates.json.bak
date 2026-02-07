@@ -3,7 +3,7 @@
   "totalTemplates": 139,
   "templates": [
     {
-      "path": "business-stakeholder-suite/financial-governance/enhanced-business-cases/advanced-business-case-template.md",
+      "path": "templates/business-stakeholder/financial-governance/enhanced-business-cases/advanced-business-case-template.md",
       "title": "Advanced Business Case Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -38,7 +38,7 @@
           "similarity": 83
         },
         {
-          "path": "business-stakeholder-suite/financial-governance/enhanced-business-cases/evm-dashboard-template.md",
+          "path": "templates/business-stakeholder/financial-governance/enhanced-business-cases/evm-dashboard-template.md",
           "title": "Evm Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -65,7 +65,7 @@
           "similarity": 80
         },
         {
-          "path": "business-stakeholder-suite/financial-governance/budget-dashboard-template.md",
+          "path": "templates/business-stakeholder/financial-governance/budget-dashboard-template.md",
           "title": "Budget Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -79,7 +79,7 @@
           "similarity": 79
         },
         {
-          "path": "role-based-toolkits/project-manager/essential-templates/budget-template.md",
+          "path": "templates/role-based/project-manager/essential-templates/budget-template.md",
           "title": "Budget Template",
           "methodology": "universal",
           "tags": [
@@ -131,7 +131,7 @@
           "similarity": 92
         },
         {
-          "path": "project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template.md",
           "title": "Agile Stakeholder Map Template",
           "methodology": "universal",
           "tags": [
@@ -146,7 +146,7 @@
           "similarity": 83
         },
         {
-          "path": "role-based-toolkits/product-owner/okr-template.md",
+          "path": "templates/role-based/product-owner/okr-template.md",
           "title": "Okr Template",
           "methodology": "universal",
           "tags": [
@@ -174,7 +174,7 @@
           "similarity": 81
         },
         {
-          "path": "role-based-toolkits/project-manager/essential-templates/meeting-templates.md",
+          "path": "templates/role-based/project-manager/essential-templates/meeting-templates.md",
           "title": "Meeting Templates",
           "methodology": "universal",
           "tags": [
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "path": "project-lifecycle/02-planning/project-management-plan/agile-release-plan-template.md",
+      "path": "templates/project-lifecycle/02-planning/project-management-plan/agile-release-plan-template.md",
       "title": "Agile Release Plan Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -214,7 +214,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "project-lifecycle/02-planning/risk-management/agile-risk-board-template.md",
+          "path": "templates/project-lifecycle/02-planning/risk-management/agile-risk-board-template.md",
           "title": "Agile Risk Board Template",
           "methodology": "universal",
           "tags": [
@@ -271,7 +271,7 @@
           "similarity": 93
         },
         {
-          "path": "project-lifecycle/02-planning/resource-planning/resource-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/resource-planning/resource-management-plan-template.md",
           "title": "Resource Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -287,7 +287,7 @@
       ]
     },
     {
-      "path": "project-lifecycle/02-planning/risk-management/agile-risk-board-template.md",
+      "path": "templates/project-lifecycle/02-planning/risk-management/agile-risk-board-template.md",
       "title": "Agile Risk Board Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -311,7 +311,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "project-lifecycle/02-planning/project-management-plan/agile-release-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/project-management-plan/agile-release-plan-template.md",
           "title": "Agile Release Plan Template",
           "methodology": "universal",
           "tags": [
@@ -368,7 +368,7 @@
           "similarity": 93
         },
         {
-          "path": "project-lifecycle/02-planning/resource-planning/resource-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/resource-planning/resource-management-plan-template.md",
           "title": "Resource Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -384,7 +384,7 @@
       ]
     },
     {
-      "path": "project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template.md",
+      "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template.md",
       "title": "Agile Stakeholder Map Template",
       "methodology": "universal",
       "complexity": "intermediate",
@@ -408,7 +408,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "project-lifecycle/02-planning/project-management-plan/traditional-project-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/project-management-plan/traditional-project-management-plan-template.md",
           "title": "Traditional Project Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -452,7 +452,7 @@
           "similarity": 83
         },
         {
-          "path": "project-lifecycle/01-initiation/project-charter/agile-team-charter-template.md",
+          "path": "templates/project-lifecycle/01-initiation/project-charter/agile-team-charter-template.md",
           "title": "Agile Team Charter Template",
           "methodology": "universal",
           "tags": [
@@ -464,7 +464,7 @@
           "similarity": 79
         },
         {
-          "path": "project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template.md",
           "title": "Stakeholder Register Template",
           "methodology": "universal",
           "tags": [
@@ -478,7 +478,7 @@
       ]
     },
     {
-      "path": "project-lifecycle/01-initiation/project-charter/agile-team-charter-template.md",
+      "path": "templates/project-lifecycle/01-initiation/project-charter/agile-team-charter-template.md",
       "title": "Agile Team Charter Template",
       "methodology": "universal",
       "complexity": "intermediate",
@@ -499,7 +499,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template.md",
           "title": "Stakeholder Register Template",
           "methodology": "universal",
           "tags": [
@@ -511,7 +511,7 @@
           "similarity": 80
         },
         {
-          "path": "project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template.md",
           "title": "Agile Stakeholder Map Template",
           "methodology": "universal",
           "tags": [
@@ -540,7 +540,7 @@
           "similarity": 73
         },
         {
-          "path": "project-lifecycle/02-planning/project-management-plan/traditional-project-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/project-management-plan/traditional-project-management-plan-template.md",
           "title": "Traditional Project Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -556,7 +556,7 @@
           "similarity": 67
         },
         {
-          "path": "role-based-toolkits/product-owner/okr-template.md",
+          "path": "templates/role-based/product-owner/okr-template.md",
           "title": "Okr Template",
           "methodology": "universal",
           "tags": [
@@ -590,7 +590,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "role-based-toolkits/project-manager/essential-templates/timesheet-tracking-template.md",
+          "path": "templates/role-based/project-manager/essential-templates/timesheet-tracking-template.md",
           "title": "Timesheet Tracking Template",
           "methodology": "universal",
           "tags": [
@@ -599,7 +599,7 @@
           "similarity": 90
         },
         {
-          "path": "role-based-toolkits/product-owner/user-story-template.md",
+          "path": "templates/role-based/product-owner/user-story-template.md",
           "title": "User Story Template",
           "methodology": "universal",
           "tags": [
@@ -609,7 +609,7 @@
           "similarity": 75
         },
         {
-          "path": "project-lifecycle/01-initiation/project-charter/hybrid-project-charter-template.md",
+          "path": "templates/project-lifecycle/01-initiation/project-charter/hybrid-project-charter-template.md",
           "title": "Hybrid Project Charter Template",
           "methodology": "universal",
           "tags": [
@@ -631,7 +631,7 @@
           "similarity": 67
         },
         {
-          "path": "business-stakeholder-suite/executive-dashboards/tableau-integration/executive-dashboard-template.md",
+          "path": "templates/business-stakeholder/executive-dashboards/tableau-integration/executive-dashboard-template.md",
           "title": "Executive Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -715,7 +715,7 @@
           "similarity": 94
         },
         {
-          "path": "role-based-toolkits/scrum-master/agile-ceremonies/sprint-planning-template.md",
+          "path": "templates/role-based/scrum-master/agile-ceremonies/sprint-planning-template.md",
           "title": "Sprint Planning Template",
           "methodology": "agile",
           "tags": [
@@ -768,7 +768,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "role-based-toolkits/product-owner/product-vision-template.md",
+          "path": "templates/role-based/product-owner/product-vision-template.md",
           "title": "Product Vision Template",
           "methodology": "universal",
           "tags": [
@@ -780,7 +780,7 @@
           "similarity": 90
         },
         {
-          "path": "project-lifecycle/02-planning/risk-management/enterprise-risk-assessment-template.md",
+          "path": "templates/project-lifecycle/02-planning/risk-management/enterprise-risk-assessment-template.md",
           "title": "Enterprise Risk Assessment Template",
           "methodology": "universal",
           "tags": [
@@ -819,7 +819,7 @@
           "similarity": 83
         },
         {
-          "path": "role-based-toolkits/product-owner/backlog-management-template.md",
+          "path": "templates/role-based/product-owner/backlog-management-template.md",
           "title": "Backlog Management Template",
           "methodology": "universal",
           "tags": [
@@ -834,7 +834,7 @@
       ]
     },
     {
-      "path": "role-based-toolkits/product-owner/backlog-management-template.md",
+      "path": "templates/role-based/product-owner/backlog-management-template.md",
       "title": "Backlog Management Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -856,7 +856,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "project-lifecycle/04-monitoring-control/progress-tracking/project-dashboard-template.md",
+          "path": "templates/project-lifecycle/04-monitoring-control/progress-tracking/project-dashboard-template.md",
           "title": "Project Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -882,7 +882,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/04-monitoring-control/progress-tracking/status-report-template.md",
+          "path": "templates/project-lifecycle/04-monitoring-control/progress-tracking/status-report-template.md",
           "title": "Status Report Template",
           "methodology": "universal",
           "tags": [
@@ -895,7 +895,7 @@
           "similarity": 100
         },
         {
-          "path": "role-based-toolkits/project-manager/essential-templates/meeting-templates.md",
+          "path": "templates/role-based/project-manager/essential-templates/meeting-templates.md",
           "title": "Meeting Templates",
           "methodology": "universal",
           "tags": [
@@ -909,7 +909,7 @@
           "similarity": 92
         },
         {
-          "path": "role-based-toolkits/product-owner/product-vision-template.md",
+          "path": "templates/role-based/product-owner/product-vision-template.md",
           "title": "Product Vision Template",
           "methodology": "universal",
           "tags": [
@@ -923,7 +923,7 @@
       ]
     },
     {
-      "path": "role-based-toolkits/scrum-master/agile-ceremonies/backlog-refinement-template.md",
+      "path": "templates/role-based/scrum-master/agile-ceremonies/backlog-refinement-template.md",
       "title": "Backlog Refinement Template",
       "methodology": "agile",
       "complexity": "advanced",
@@ -946,7 +946,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "role-based-toolkits/scrum-master/agile-ceremonies/sprint-planning-template.md",
+          "path": "templates/role-based/scrum-master/agile-ceremonies/sprint-planning-template.md",
           "title": "Sprint Planning Template",
           "methodology": "agile",
           "tags": [
@@ -976,7 +976,7 @@
           "similarity": 86
         },
         {
-          "path": "role-based-toolkits/scrum-master/agile-ceremonies/sprint-retrospective-template.md",
+          "path": "templates/role-based/scrum-master/agile-ceremonies/sprint-retrospective-template.md",
           "title": "Sprint Retrospective Template",
           "methodology": "agile",
           "tags": [
@@ -1106,7 +1106,7 @@
       ]
     },
     {
-      "path": "business-stakeholder-suite/financial-governance/budget-dashboard-template.md",
+      "path": "templates/business-stakeholder/financial-governance/budget-dashboard-template.md",
       "title": "Budget Dashboard Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -1129,7 +1129,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "business-stakeholder-suite/financial-governance/enhanced-business-cases/evm-dashboard-template.md",
+          "path": "templates/business-stakeholder/financial-governance/enhanced-business-cases/evm-dashboard-template.md",
           "title": "Evm Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -1159,7 +1159,7 @@
           "similarity": 86
         },
         {
-          "path": "business-stakeholder-suite/executive-dashboards/powerbi-integration/executive-dashboard-template.md",
+          "path": "templates/business-stakeholder/executive-dashboards/powerbi-integration/executive-dashboard-template.md",
           "title": "Executive Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -1200,7 +1200,7 @@
       ]
     },
     {
-      "path": "role-based-toolkits/project-manager/essential-templates/budget-template.md",
+      "path": "templates/role-based/project-manager/essential-templates/budget-template.md",
       "title": "Budget Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -1253,7 +1253,7 @@
           "similarity": 93
         },
         {
-          "path": "project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
           "title": "Enterprise Stakeholder Analysis Template",
           "methodology": "universal",
           "tags": [
@@ -1397,7 +1397,7 @@
       ]
     },
     {
-      "path": "project-lifecycle/02-planning/business-requirements/business_requirements_document_template.md",
+      "path": "templates/project-lifecycle/02-planning/business-requirements/business_requirements_document_template.md",
       "title": "Business Requirements Document Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -1431,7 +1431,7 @@
           "similarity": 90
         },
         {
-          "path": "business-stakeholder-suite/executive-dashboards/Word/Executive-Report-Templates.md",
+          "path": "templates/business-stakeholder/executive-dashboards/Word/Executive-Report-Templates.md",
           "title": "Executive Report Templates",
           "methodology": "universal",
           "tags": [
@@ -1455,7 +1455,7 @@
           "similarity": 88
         },
         {
-          "path": "role-based-toolkits/project-manager/essential-templates/budget-template.md",
+          "path": "templates/role-based/project-manager/essential-templates/budget-template.md",
           "title": "Budget Template",
           "methodology": "universal",
           "tags": [
@@ -1842,7 +1842,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/02-planning/resource-planning/resource-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/resource-planning/resource-management-plan-template.md",
           "title": "Resource Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -1856,7 +1856,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/02-planning/risk-management/risk-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/risk-management/risk-management-plan-template.md",
           "title": "Risk Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -1870,7 +1870,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/02-planning/resource-planning/team-charter-template.md",
+          "path": "templates/project-lifecycle/02-planning/resource-planning/team-charter-template.md",
           "title": "Team Charter Template",
           "methodology": "universal",
           "tags": [
@@ -2185,7 +2185,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "business-stakeholder-suite/financial-governance/enhanced-business-cases/evm-dashboard-template.md",
+          "path": "templates/business-stakeholder/financial-governance/enhanced-business-cases/evm-dashboard-template.md",
           "title": "Evm Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -2243,7 +2243,7 @@
           "similarity": 93
         },
         {
-          "path": "project-lifecycle/02-planning/resource-planning/resource-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/resource-planning/resource-management-plan-template.md",
           "title": "Resource Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -2510,7 +2510,7 @@
           "similarity": 94
         },
         {
-          "path": "role-based-toolkits/scrum-master/agile-ceremonies/sprint-planning-template.md",
+          "path": "templates/role-based/scrum-master/agile-ceremonies/sprint-planning-template.md",
           "title": "Sprint Planning Template",
           "methodology": "agile",
           "tags": [
@@ -2581,7 +2581,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
           "title": "Enterprise Stakeholder Analysis Template",
           "methodology": "universal",
           "tags": [
@@ -2665,7 +2665,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "business-stakeholder-suite/executive-dashboards/Word/Executive-Report-Templates.md",
+          "path": "templates/business-stakeholder/executive-dashboards/Word/Executive-Report-Templates.md",
           "title": "Executive Report Templates",
           "methodology": "universal",
           "tags": [
@@ -2678,7 +2678,7 @@
           "similarity": 100
         },
         {
-          "path": "role-based-toolkits/project-manager/essential-templates/budget-template.md",
+          "path": "templates/role-based/project-manager/essential-templates/budget-template.md",
           "title": "Budget Template",
           "methodology": "universal",
           "tags": [
@@ -2692,7 +2692,7 @@
           "similarity": 92
         },
         {
-          "path": "project-lifecycle/02-planning/business-requirements/business_requirements_document_template.md",
+          "path": "templates/project-lifecycle/02-planning/business-requirements/business_requirements_document_template.md",
           "title": "Business Requirements Document Template",
           "methodology": "universal",
           "tags": [
@@ -2704,7 +2704,7 @@
           "similarity": 90
         },
         {
-          "path": "business-stakeholder-suite/executive-dashboards/powerbi-integration/executive-dashboard-template.md",
+          "path": "templates/business-stakeholder/executive-dashboards/powerbi-integration/executive-dashboard-template.md",
           "title": "Executive Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -2730,7 +2730,7 @@
       ]
     },
     {
-      "path": "role-based-toolkits/scrum-master/agile-ceremonies/daily-standup-template.md",
+      "path": "templates/role-based/scrum-master/agile-ceremonies/daily-standup-template.md",
       "title": "Daily Standup Template",
       "methodology": "agile",
       "complexity": "intermediate",
@@ -2751,7 +2751,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "role-based-toolkits/scrum-master/agile-ceremonies/backlog-refinement-template.md",
+          "path": "templates/role-based/scrum-master/agile-ceremonies/backlog-refinement-template.md",
           "title": "Backlog Refinement Template",
           "methodology": "agile",
           "tags": [
@@ -2778,7 +2778,7 @@
           "similarity": 65
         },
         {
-          "path": "role-based-toolkits/scrum-master/agile-ceremonies/sprint-planning-template.md",
+          "path": "templates/role-based/scrum-master/agile-ceremonies/sprint-planning-template.md",
           "title": "Sprint Planning Template",
           "methodology": "agile",
           "tags": [
@@ -2794,7 +2794,7 @@
           "similarity": 65
         },
         {
-          "path": "role-based-toolkits/scrum-master/agile-ceremonies/sprint-review-template.md",
+          "path": "templates/role-based/scrum-master/agile-ceremonies/sprint-review-template.md",
           "title": "Sprint Review Template",
           "methodology": "agile",
           "tags": [
@@ -2951,7 +2951,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/02-planning/resource-planning/resource-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/resource-planning/resource-management-plan-template.md",
           "title": "Resource Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -2965,7 +2965,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/02-planning/risk-management/risk-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/risk-management/risk-management-plan-template.md",
           "title": "Risk Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -2979,7 +2979,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/02-planning/resource-planning/team-charter-template.md",
+          "path": "templates/project-lifecycle/02-planning/resource-planning/team-charter-template.md",
           "title": "Team Charter Template",
           "methodology": "universal",
           "tags": [
@@ -3128,7 +3128,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
           "title": "Enterprise Stakeholder Analysis Template",
           "methodology": "universal",
           "tags": [
@@ -3268,7 +3268,7 @@
       ]
     },
     {
-      "path": "project-lifecycle/02-planning/risk-management/enterprise-risk-assessment-template.md",
+      "path": "templates/project-lifecycle/02-planning/risk-management/enterprise-risk-assessment-template.md",
       "title": "Enterprise Risk Assessment Template",
       "methodology": "universal",
       "complexity": "starter",
@@ -3300,7 +3300,7 @@
           "similarity": 88
         },
         {
-          "path": "project-lifecycle/02-planning/project-management-plan/hybrid-project-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/project-management-plan/hybrid-project-management-plan-template.md",
           "title": "Hybrid Project Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -3312,7 +3312,7 @@
           "similarity": 88
         },
         {
-          "path": "project-lifecycle/02-planning/business-requirements/business_requirements_document_template.md",
+          "path": "templates/project-lifecycle/02-planning/business-requirements/business_requirements_document_template.md",
           "title": "Business Requirements Document Template",
           "methodology": "universal",
           "tags": [
@@ -3324,7 +3324,7 @@
           "similarity": 78
         },
         {
-          "path": "role-based-toolkits/product-owner/product-vision-template.md",
+          "path": "templates/role-based/product-owner/product-vision-template.md",
           "title": "Product Vision Template",
           "methodology": "universal",
           "tags": [
@@ -3336,7 +3336,7 @@
           "similarity": 78
         },
         {
-          "path": "project-lifecycle/02-planning/risk-management/risk-register-template.md",
+          "path": "templates/project-lifecycle/02-planning/risk-management/risk-register-template.md",
           "title": "Risk Register Template",
           "methodology": "universal",
           "tags": [
@@ -3350,7 +3350,7 @@
       ]
     },
     {
-      "path": "project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
+      "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
       "title": "Enterprise Stakeholder Analysis Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -3535,7 +3535,7 @@
       ]
     },
     {
-      "path": "business-stakeholder-suite/financial-governance/enhanced-business-cases/evm-dashboard-template.md",
+      "path": "templates/business-stakeholder/financial-governance/enhanced-business-cases/evm-dashboard-template.md",
       "title": "Evm Dashboard Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -3605,7 +3605,7 @@
           "similarity": 94
         },
         {
-          "path": "project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
           "title": "Enterprise Stakeholder Analysis Template",
           "methodology": "universal",
           "tags": [
@@ -3637,7 +3637,7 @@
       ]
     },
     {
-      "path": "business-stakeholder-suite/executive-dashboards/powerbi-integration/executive-dashboard-template.md",
+      "path": "templates/business-stakeholder/executive-dashboards/powerbi-integration/executive-dashboard-template.md",
       "title": "Executive Dashboard Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -3671,7 +3671,7 @@
           "similarity": 90
         },
         {
-          "path": "business-stakeholder-suite/executive-dashboards/Word/Executive-Report-Templates.md",
+          "path": "templates/business-stakeholder/executive-dashboards/Word/Executive-Report-Templates.md",
           "title": "Executive Report Templates",
           "methodology": "universal",
           "tags": [
@@ -3708,7 +3708,7 @@
           "similarity": 88
         },
         {
-          "path": "business-stakeholder-suite/financial-governance/budget-dashboard-template.md",
+          "path": "templates/business-stakeholder/financial-governance/budget-dashboard-template.md",
           "title": "Budget Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -3724,7 +3724,7 @@
       ]
     },
     {
-      "path": "business-stakeholder-suite/executive-dashboards/Word/Executive-Report-Templates.md",
+      "path": "templates/business-stakeholder/executive-dashboards/Word/Executive-Report-Templates.md",
       "title": "Executive Report Templates",
       "methodology": "universal",
       "complexity": "advanced",
@@ -3759,7 +3759,7 @@
           "similarity": 100
         },
         {
-          "path": "role-based-toolkits/project-manager/essential-templates/budget-template.md",
+          "path": "templates/role-based/project-manager/essential-templates/budget-template.md",
           "title": "Budget Template",
           "methodology": "universal",
           "tags": [
@@ -3773,7 +3773,7 @@
           "similarity": 92
         },
         {
-          "path": "project-lifecycle/02-planning/business-requirements/business_requirements_document_template.md",
+          "path": "templates/project-lifecycle/02-planning/business-requirements/business_requirements_document_template.md",
           "title": "Business Requirements Document Template",
           "methodology": "universal",
           "tags": [
@@ -3785,7 +3785,7 @@
           "similarity": 90
         },
         {
-          "path": "business-stakeholder-suite/executive-dashboards/powerbi-integration/executive-dashboard-template.md",
+          "path": "templates/business-stakeholder/executive-dashboards/powerbi-integration/executive-dashboard-template.md",
           "title": "Executive Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -3865,7 +3865,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
           "title": "Enterprise Stakeholder Analysis Template",
           "methodology": "universal",
           "tags": [
@@ -3966,7 +3966,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
           "title": "Enterprise Stakeholder Analysis Template",
           "methodology": "universal",
           "tags": [
@@ -4067,7 +4067,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
           "title": "Enterprise Stakeholder Analysis Template",
           "methodology": "universal",
           "tags": [
@@ -4163,7 +4163,7 @@
           "similarity": 75
         },
         {
-          "path": "business-stakeholder-suite/financial-governance/budget-dashboard-template.md",
+          "path": "templates/business-stakeholder/financial-governance/budget-dashboard-template.md",
           "title": "Budget Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -4305,7 +4305,7 @@
       ]
     },
     {
-      "path": "role-based-toolkits/project-manager/essential-templates/handover-template.md",
+      "path": "templates/role-based/project-manager/essential-templates/handover-template.md",
       "title": "Handover Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -4359,7 +4359,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
           "title": "Enterprise Stakeholder Analysis Template",
           "methodology": "universal",
           "tags": [
@@ -4635,7 +4635,7 @@
           "similarity": 83
         },
         {
-          "path": "project-lifecycle/02-planning/project-management-plan/hybrid-project-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/project-management-plan/hybrid-project-management-plan-template.md",
           "title": "Hybrid Project Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -4647,7 +4647,7 @@
           "similarity": 83
         },
         {
-          "path": "role-based-toolkits/product-owner/backlog-management-template.md",
+          "path": "templates/role-based/product-owner/backlog-management-template.md",
           "title": "Backlog Management Template",
           "methodology": "universal",
           "tags": [
@@ -4660,7 +4660,7 @@
           "similarity": 82
         },
         {
-          "path": "project-lifecycle/04-monitoring-control/progress-tracking/project-dashboard-template.md",
+          "path": "templates/project-lifecycle/04-monitoring-control/progress-tracking/project-dashboard-template.md",
           "title": "Project Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -4785,7 +4785,7 @@
       ]
     },
     {
-      "path": "project-lifecycle/02-planning/project-management-plan/hybrid-project-management-plan-template.md",
+      "path": "templates/project-lifecycle/02-planning/project-management-plan/hybrid-project-management-plan-template.md",
       "title": "Hybrid Project Management Plan Template",
       "methodology": "universal",
       "complexity": "starter",
@@ -4806,7 +4806,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "project-lifecycle/02-planning/risk-management/enterprise-risk-assessment-template.md",
+          "path": "templates/project-lifecycle/02-planning/risk-management/enterprise-risk-assessment-template.md",
           "title": "Enterprise Risk Assessment Template",
           "methodology": "universal",
           "tags": [
@@ -4857,7 +4857,7 @@
           "similarity": 71
         },
         {
-          "path": "project-lifecycle/02-planning/business-requirements/business_requirements_document_template.md",
+          "path": "templates/project-lifecycle/02-planning/business-requirements/business_requirements_document_template.md",
           "title": "Business Requirements Document Template",
           "methodology": "universal",
           "tags": [
@@ -5184,7 +5184,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "project-lifecycle/04-monitoring-control/issue-management/issue-log-template.md",
+          "path": "templates/project-lifecycle/04-monitoring-control/issue-management/issue-log-template.md",
           "title": "Issue Log Template",
           "methodology": "universal",
           "tags": [
@@ -5209,7 +5209,7 @@
           "similarity": 90
         },
         {
-          "path": "business-stakeholder-suite/executive-dashboards/Word/Executive-Report-Templates.md",
+          "path": "templates/business-stakeholder/executive-dashboards/Word/Executive-Report-Templates.md",
           "title": "Executive Report Templates",
           "methodology": "universal",
           "tags": [
@@ -5222,7 +5222,7 @@
           "similarity": 90
         },
         {
-          "path": "role-based-toolkits/project-manager/essential-templates/budget-template.md",
+          "path": "templates/role-based/project-manager/essential-templates/budget-template.md",
           "title": "Budget Template",
           "methodology": "universal",
           "tags": [
@@ -5285,7 +5285,7 @@
           "similarity": 80
         },
         {
-          "path": "role-based-toolkits/project-manager/essential-templates/budget-template.md",
+          "path": "templates/role-based/project-manager/essential-templates/budget-template.md",
           "title": "Budget Template",
           "methodology": "universal",
           "tags": [
@@ -5363,7 +5363,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "project-lifecycle/02-planning/business-requirements/business_requirements_document_template.md",
+          "path": "templates/project-lifecycle/02-planning/business-requirements/business_requirements_document_template.md",
           "title": "Business Requirements Document Template",
           "methodology": "universal",
           "tags": [
@@ -5375,7 +5375,7 @@
           "similarity": 88
         },
         {
-          "path": "business-stakeholder-suite/executive-dashboards/powerbi-integration/executive-dashboard-template.md",
+          "path": "templates/business-stakeholder/executive-dashboards/powerbi-integration/executive-dashboard-template.md",
           "title": "Executive Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -5413,7 +5413,7 @@
           "similarity": 80
         },
         {
-          "path": "business-stakeholder-suite/executive-dashboards/Word/Executive-Report-Templates.md",
+          "path": "templates/business-stakeholder/executive-dashboards/Word/Executive-Report-Templates.md",
           "title": "Executive Report Templates",
           "methodology": "universal",
           "tags": [
@@ -5802,7 +5802,7 @@
           "similarity": 88
         },
         {
-          "path": "role-based-toolkits/scrum-master/agile-ceremonies/sprint-planning-template.md",
+          "path": "templates/role-based/scrum-master/agile-ceremonies/sprint-planning-template.md",
           "title": "Sprint Planning Template",
           "methodology": "agile",
           "tags": [
@@ -5890,7 +5890,7 @@
           "similarity": 94
         },
         {
-          "path": "role-based-toolkits/scrum-master/agile-ceremonies/sprint-planning-template.md",
+          "path": "templates/role-based/scrum-master/agile-ceremonies/sprint-planning-template.md",
           "title": "Sprint Planning Template",
           "methodology": "agile",
           "tags": [
@@ -6006,7 +6006,7 @@
       ]
     },
     {
-      "path": "role-based-toolkits/project-manager/essential-templates/meeting-templates.md",
+      "path": "templates/role-based/project-manager/essential-templates/meeting-templates.md",
       "title": "Meeting Templates",
       "methodology": "universal",
       "complexity": "advanced",
@@ -6059,7 +6059,7 @@
           "similarity": 93
         },
         {
-          "path": "project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
           "title": "Enterprise Stakeholder Analysis Template",
           "methodology": "universal",
           "tags": [
@@ -6336,7 +6336,7 @@
           "similarity": 93
         },
         {
-          "path": "project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
           "title": "Enterprise Stakeholder Analysis Template",
           "methodology": "universal",
           "tags": [
@@ -6383,7 +6383,7 @@
       ]
     },
     {
-      "path": "role-based-toolkits/product-owner/okr-template.md",
+      "path": "templates/role-based/product-owner/okr-template.md",
       "title": "Okr Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -6405,7 +6405,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "role-based-toolkits/project-manager/essential-templates/meeting-templates.md",
+          "path": "templates/role-based/project-manager/essential-templates/meeting-templates.md",
           "title": "Meeting Templates",
           "methodology": "universal",
           "tags": [
@@ -7036,7 +7036,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "business-stakeholder-suite/financial-governance/enhanced-business-cases/advanced-business-case-template.md",
+          "path": "templates/business-stakeholder/financial-governance/enhanced-business-cases/advanced-business-case-template.md",
           "title": "Advanced Business Case Template",
           "methodology": "universal",
           "tags": [
@@ -7049,7 +7049,7 @@
           "similarity": 50
         },
         {
-          "path": "project-lifecycle/02-planning/project-management-plan/agile-release-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/project-management-plan/agile-release-plan-template.md",
           "title": "Agile Release Plan Template",
           "methodology": "universal",
           "tags": [
@@ -7064,7 +7064,7 @@
           "similarity": 50
         },
         {
-          "path": "project-lifecycle/02-planning/risk-management/agile-risk-board-template.md",
+          "path": "templates/project-lifecycle/02-planning/risk-management/agile-risk-board-template.md",
           "title": "Agile Risk Board Template",
           "methodology": "universal",
           "tags": [
@@ -7088,7 +7088,7 @@
           "similarity": 50
         },
         {
-          "path": "role-based-toolkits/product-owner/backlog-management-template.md",
+          "path": "templates/role-based/product-owner/backlog-management-template.md",
           "title": "Backlog Management Template",
           "methodology": "universal",
           "tags": [
@@ -7265,7 +7265,7 @@
           "similarity": 90
         },
         {
-          "path": "project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
           "title": "Enterprise Stakeholder Analysis Template",
           "methodology": "universal",
           "tags": [
@@ -7578,7 +7578,7 @@
       ]
     },
     {
-      "path": "role-based-toolkits/product-owner/product-vision-template.md",
+      "path": "templates/role-based/product-owner/product-vision-template.md",
       "title": "Product Vision Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -7611,7 +7611,7 @@
           "similarity": 90
         },
         {
-          "path": "role-based-toolkits/product-owner/backlog-management-template.md",
+          "path": "templates/role-based/product-owner/backlog-management-template.md",
           "title": "Backlog Management Template",
           "methodology": "universal",
           "tags": [
@@ -7637,7 +7637,7 @@
           "similarity": 90
         },
         {
-          "path": "business-stakeholder-suite/executive-dashboards/Word/Executive-Report-Templates.md",
+          "path": "templates/business-stakeholder/executive-dashboards/Word/Executive-Report-Templates.md",
           "title": "Executive Report Templates",
           "methodology": "universal",
           "tags": [
@@ -7650,7 +7650,7 @@
           "similarity": 90
         },
         {
-          "path": "project-lifecycle/04-monitoring-control/progress-tracking/project-dashboard-template.md",
+          "path": "templates/project-lifecycle/04-monitoring-control/progress-tracking/project-dashboard-template.md",
           "title": "Project Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -8192,7 +8192,7 @@
       ]
     },
     {
-      "path": "project-lifecycle/04-monitoring-control/progress-tracking/project-dashboard-template.md",
+      "path": "templates/project-lifecycle/04-monitoring-control/progress-tracking/project-dashboard-template.md",
       "title": "Project Dashboard Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -8214,7 +8214,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "role-based-toolkits/product-owner/backlog-management-template.md",
+          "path": "templates/role-based/product-owner/backlog-management-template.md",
           "title": "Backlog Management Template",
           "methodology": "universal",
           "tags": [
@@ -8240,7 +8240,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/04-monitoring-control/progress-tracking/status-report-template.md",
+          "path": "templates/project-lifecycle/04-monitoring-control/progress-tracking/status-report-template.md",
           "title": "Status Report Template",
           "methodology": "universal",
           "tags": [
@@ -8253,7 +8253,7 @@
           "similarity": 100
         },
         {
-          "path": "role-based-toolkits/project-manager/essential-templates/meeting-templates.md",
+          "path": "templates/role-based/project-manager/essential-templates/meeting-templates.md",
           "title": "Meeting Templates",
           "methodology": "universal",
           "tags": [
@@ -8267,7 +8267,7 @@
           "similarity": 92
         },
         {
-          "path": "role-based-toolkits/product-owner/product-vision-template.md",
+          "path": "templates/role-based/product-owner/product-vision-template.md",
           "title": "Product Vision Template",
           "methodology": "universal",
           "tags": [
@@ -8442,7 +8442,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
           "title": "Enterprise Stakeholder Analysis Template",
           "methodology": "universal",
           "tags": [
@@ -9116,7 +9116,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "role-based-toolkits/product-owner/backlog-management-template.md",
+          "path": "templates/role-based/product-owner/backlog-management-template.md",
           "title": "Backlog Management Template",
           "methodology": "universal",
           "tags": [
@@ -9129,7 +9129,7 @@
           "similarity": 90
         },
         {
-          "path": "project-lifecycle/04-monitoring-control/progress-tracking/project-dashboard-template.md",
+          "path": "templates/project-lifecycle/04-monitoring-control/progress-tracking/project-dashboard-template.md",
           "title": "Project Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -9155,7 +9155,7 @@
           "similarity": 90
         },
         {
-          "path": "project-lifecycle/04-monitoring-control/progress-tracking/status-report-template.md",
+          "path": "templates/project-lifecycle/04-monitoring-control/progress-tracking/status-report-template.md",
           "title": "Status Report Template",
           "methodology": "universal",
           "tags": [
@@ -9168,7 +9168,7 @@
           "similarity": 90
         },
         {
-          "path": "business-stakeholder-suite/financial-governance/budget-dashboard-template.md",
+          "path": "templates/business-stakeholder/financial-governance/budget-dashboard-template.md",
           "title": "Budget Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -9504,7 +9504,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/02-planning/resource-planning/resource-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/resource-planning/resource-management-plan-template.md",
           "title": "Resource Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -9518,7 +9518,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/02-planning/risk-management/risk-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/risk-management/risk-management-plan-template.md",
           "title": "Risk Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -9532,7 +9532,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/02-planning/resource-planning/team-charter-template.md",
+          "path": "templates/project-lifecycle/02-planning/resource-planning/team-charter-template.md",
           "title": "Team Charter Template",
           "methodology": "universal",
           "tags": [
@@ -9602,7 +9602,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
           "title": "Enterprise Stakeholder Analysis Template",
           "methodology": "universal",
           "tags": [
@@ -9671,7 +9671,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "role-based-toolkits/product-owner/backlog-management-template.md",
+          "path": "templates/role-based/product-owner/backlog-management-template.md",
           "title": "Backlog Management Template",
           "methodology": "universal",
           "tags": [
@@ -9684,7 +9684,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/04-monitoring-control/progress-tracking/project-dashboard-template.md",
+          "path": "templates/project-lifecycle/04-monitoring-control/progress-tracking/project-dashboard-template.md",
           "title": "Project Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -9697,7 +9697,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/04-monitoring-control/progress-tracking/status-report-template.md",
+          "path": "templates/project-lifecycle/04-monitoring-control/progress-tracking/status-report-template.md",
           "title": "Status Report Template",
           "methodology": "universal",
           "tags": [
@@ -9710,7 +9710,7 @@
           "similarity": 100
         },
         {
-          "path": "role-based-toolkits/project-manager/essential-templates/meeting-templates.md",
+          "path": "templates/role-based/project-manager/essential-templates/meeting-templates.md",
           "title": "Meeting Templates",
           "methodology": "universal",
           "tags": [
@@ -9724,7 +9724,7 @@
           "similarity": 92
         },
         {
-          "path": "role-based-toolkits/product-owner/product-vision-template.md",
+          "path": "templates/role-based/product-owner/product-vision-template.md",
           "title": "Product Vision Template",
           "methodology": "universal",
           "tags": [
@@ -9857,7 +9857,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "business-stakeholder-suite/executive-dashboards/tableau-integration/executive-dashboard-template.md",
+          "path": "templates/business-stakeholder/executive-dashboards/tableau-integration/executive-dashboard-template.md",
           "title": "Executive Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -9925,7 +9925,7 @@
       ]
     },
     {
-      "path": "project-lifecycle/02-planning/resource-planning/resource-management-plan-template.md",
+      "path": "templates/project-lifecycle/02-planning/resource-planning/resource-management-plan-template.md",
       "title": "Resource Management Plan Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -9990,7 +9990,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/02-planning/risk-management/risk-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/risk-management/risk-management-plan-template.md",
           "title": "Risk Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -10004,7 +10004,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/02-planning/resource-planning/team-charter-template.md",
+          "path": "templates/project-lifecycle/02-planning/resource-planning/team-charter-template.md",
           "title": "Team Charter Template",
           "methodology": "universal",
           "tags": [
@@ -10042,7 +10042,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "role-based-toolkits/project-manager/essential-templates/budget-template.md",
+          "path": "templates/role-based/project-manager/essential-templates/budget-template.md",
           "title": "Budget Template",
           "methodology": "universal",
           "tags": [
@@ -10070,7 +10070,7 @@
           "similarity": 92
         },
         {
-          "path": "business-stakeholder-suite/executive-dashboards/tableau-integration/executive-dashboard-template.md",
+          "path": "templates/business-stakeholder/executive-dashboards/tableau-integration/executive-dashboard-template.md",
           "title": "Executive Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -10082,7 +10082,7 @@
           "similarity": 90
         },
         {
-          "path": "business-stakeholder-suite/executive-dashboards/powerbi-integration/executive-dashboard-template.md",
+          "path": "templates/business-stakeholder/executive-dashboards/powerbi-integration/executive-dashboard-template.md",
           "title": "Executive Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -10149,7 +10149,7 @@
           "similarity": 93
         },
         {
-          "path": "role-based-toolkits/project-manager/essential-templates/budget-template.md",
+          "path": "templates/role-based/project-manager/essential-templates/budget-template.md",
           "title": "Budget Template",
           "methodology": "universal",
           "tags": [
@@ -10207,7 +10207,7 @@
       ]
     },
     {
-      "path": "project-lifecycle/02-planning/risk-management/risk-management-plan-template.md",
+      "path": "templates/project-lifecycle/02-planning/risk-management/risk-management-plan-template.md",
       "title": "Risk Management Plan Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -10272,7 +10272,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/02-planning/resource-planning/resource-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/resource-planning/resource-management-plan-template.md",
           "title": "Resource Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -10286,7 +10286,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/02-planning/resource-planning/team-charter-template.md",
+          "path": "templates/project-lifecycle/02-planning/resource-planning/team-charter-template.md",
           "title": "Team Charter Template",
           "methodology": "universal",
           "tags": [
@@ -10302,10 +10302,10 @@
       ]
     },
     {
-      "path": "project-lifecycle/02-planning/risk-management/risk-register-template.md",
+      "path": "templates/project-lifecycle/02-planning/risk-management/risk-register-template.md",
       "canonical_path": "templates/traditional/Traditional/Templates/risk_register_template.md",
       "alternate_paths": [
-        "project-lifecycle/02-planning/risk-management/risk-register-template.md"
+        "templates/project-lifecycle/02-planning/risk-management/risk-register-template.md"
       ],
       "title": "Risk Register Template",
       "methodology": "universal",
@@ -10327,7 +10327,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "project-lifecycle/02-planning/resource-planning/skills-matrix-template.md",
+          "path": "templates/project-lifecycle/02-planning/resource-planning/skills-matrix-template.md",
           "title": "Skills Matrix Template",
           "methodology": "universal",
           "tags": [
@@ -10353,7 +10353,7 @@
           "similarity": 90
         },
         {
-          "path": "role-based-toolkits/project-manager/essential-templates/budget-template.md",
+          "path": "templates/role-based/project-manager/essential-templates/budget-template.md",
           "title": "Budget Template",
           "methodology": "universal",
           "tags": [
@@ -11000,7 +11000,7 @@
       ]
     },
     {
-      "path": "project-lifecycle/02-planning/resource-planning/skills-matrix-template.md",
+      "path": "templates/project-lifecycle/02-planning/resource-planning/skills-matrix-template.md",
       "title": "Skills Matrix Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -11063,7 +11063,7 @@
           "similarity": 92
         },
         {
-          "path": "role-based-toolkits/project-manager/essential-templates/meeting-templates.md",
+          "path": "templates/role-based/project-manager/essential-templates/meeting-templates.md",
           "title": "Meeting Templates",
           "methodology": "universal",
           "tags": [
@@ -11190,7 +11190,7 @@
       "path": "templates/agile/sprint_planning_template.md",
       "canonical_path": "templates/agile/sprint_planning_template.md",
       "alternate_paths": [
-        "role-based-toolkits/scrum-master/agile-ceremonies/sprint-planning-template.md",
+        "templates/role-based/scrum-master/agile-ceremonies/sprint-planning-template.md",
         "methodology-frameworks/agile-scrum/sprint-planning/sprint_planning_template.md"
       ],
       "title": "Sprint Planning Template",
@@ -11513,7 +11513,7 @@
           "similarity": 92
         },
         {
-          "path": "role-based-toolkits/product-owner/okr-template.md",
+          "path": "templates/role-based/product-owner/okr-template.md",
           "title": "Okr Template",
           "methodology": "universal",
           "tags": [
@@ -11541,7 +11541,7 @@
           "similarity": 86
         },
         {
-          "path": "role-based-toolkits/project-manager/essential-templates/meeting-templates.md",
+          "path": "templates/role-based/project-manager/essential-templates/meeting-templates.md",
           "title": "Meeting Templates",
           "methodology": "universal",
           "tags": [
@@ -11571,10 +11571,10 @@
       ]
     },
     {
-      "path": "project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template.md",
-      "canonical_path": "role-based-toolkits/project-manager/essential-templates/stakeholder-register.md",
+      "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template.md",
+      "canonical_path": "templates/role-based/project-manager/essential-templates/stakeholder-register.md",
       "alternate_paths": [
-        "project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template.md"
+        "templates/project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template.md"
       ],
       "title": "Stakeholder Register Template",
       "methodology": "universal",
@@ -11596,7 +11596,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "role-based-toolkits/product-owner/okr-template.md",
+          "path": "templates/role-based/product-owner/okr-template.md",
           "title": "Okr Template",
           "methodology": "universal",
           "tags": [
@@ -11622,7 +11622,7 @@
           "similarity": 80
         },
         {
-          "path": "project-lifecycle/01-initiation/project-charter/agile-team-charter-template.md",
+          "path": "templates/project-lifecycle/01-initiation/project-charter/agile-team-charter-template.md",
           "title": "Agile Team Charter Template",
           "methodology": "universal",
           "tags": [
@@ -11634,7 +11634,7 @@
           "similarity": 80
         },
         {
-          "path": "project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template.md",
           "title": "Agile Stakeholder Map Template",
           "methodology": "universal",
           "tags": [
@@ -11649,7 +11649,7 @@
           "similarity": 79
         },
         {
-          "path": "project-lifecycle/02-planning/project-management-plan/traditional-project-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/project-management-plan/traditional-project-management-plan-template.md",
           "title": "Traditional Project Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -11667,10 +11667,10 @@
       ]
     },
     {
-      "path": "project-lifecycle/04-monitoring-control/progress-tracking/status-report-template.md",
+      "path": "templates/project-lifecycle/04-monitoring-control/progress-tracking/status-report-template.md",
       "canonical_path": "templates/traditional/Traditional/Templates/status_report_template.md",
       "alternate_paths": [
-        "project-lifecycle/04-monitoring-control/progress-tracking/status-report-template.md"
+        "templates/project-lifecycle/04-monitoring-control/progress-tracking/status-report-template.md"
       ],
       "title": "Status Report Template",
       "methodology": "universal",
@@ -11693,7 +11693,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "role-based-toolkits/product-owner/backlog-management-template.md",
+          "path": "templates/role-based/product-owner/backlog-management-template.md",
           "title": "Backlog Management Template",
           "methodology": "universal",
           "tags": [
@@ -11706,7 +11706,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/04-monitoring-control/progress-tracking/project-dashboard-template.md",
+          "path": "templates/project-lifecycle/04-monitoring-control/progress-tracking/project-dashboard-template.md",
           "title": "Project Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -11732,7 +11732,7 @@
           "similarity": 100
         },
         {
-          "path": "role-based-toolkits/project-manager/essential-templates/meeting-templates.md",
+          "path": "templates/role-based/project-manager/essential-templates/meeting-templates.md",
           "title": "Meeting Templates",
           "methodology": "universal",
           "tags": [
@@ -11746,7 +11746,7 @@
           "similarity": 92
         },
         {
-          "path": "role-based-toolkits/product-owner/product-vision-template.md",
+          "path": "templates/role-based/product-owner/product-vision-template.md",
           "title": "Product Vision Template",
           "methodology": "universal",
           "tags": [
@@ -11760,7 +11760,7 @@
       ]
     },
     {
-      "path": "project-lifecycle/02-planning/resource-planning/team-charter-template.md",
+      "path": "templates/project-lifecycle/02-planning/resource-planning/team-charter-template.md",
       "title": "Team Charter Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -11825,7 +11825,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/02-planning/resource-planning/resource-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/resource-planning/resource-management-plan-template.md",
           "title": "Resource Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -11839,7 +11839,7 @@
           "similarity": 100
         },
         {
-          "path": "project-lifecycle/02-planning/risk-management/risk-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/risk-management/risk-management-plan-template.md",
           "title": "Risk Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -12005,7 +12005,7 @@
           "similarity": 93
         },
         {
-          "path": "project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
           "title": "Enterprise Stakeholder Analysis Template",
           "methodology": "universal",
           "tags": [
@@ -12105,7 +12105,7 @@
           "similarity": 93
         },
         {
-          "path": "project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
           "title": "Enterprise Stakeholder Analysis Template",
           "methodology": "universal",
           "tags": [
@@ -12152,7 +12152,7 @@
       ]
     },
     {
-      "path": "role-based-toolkits/project-manager/essential-templates/timesheet-tracking-template.md",
+      "path": "templates/role-based/project-manager/essential-templates/timesheet-tracking-template.md",
       "title": "Timesheet Tracking Template",
       "methodology": "universal",
       "complexity": "intermediate",
@@ -12180,7 +12180,7 @@
           "similarity": 90
         },
         {
-          "path": "role-based-toolkits/product-owner/user-story-template.md",
+          "path": "templates/role-based/product-owner/user-story-template.md",
           "title": "User Story Template",
           "methodology": "universal",
           "tags": [
@@ -12190,7 +12190,7 @@
           "similarity": 65
         },
         {
-          "path": "project-lifecycle/01-initiation/project-charter/agile-team-charter-template.md",
+          "path": "templates/project-lifecycle/01-initiation/project-charter/agile-team-charter-template.md",
           "title": "Agile Team Charter Template",
           "methodology": "universal",
           "tags": [
@@ -12202,7 +12202,7 @@
           "similarity": 63
         },
         {
-          "path": "project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template.md",
           "title": "Stakeholder Register Template",
           "methodology": "universal",
           "tags": [
@@ -12214,7 +12214,7 @@
           "similarity": 63
         },
         {
-          "path": "project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template.md",
           "title": "Agile Stakeholder Map Template",
           "methodology": "universal",
           "tags": [
@@ -12231,7 +12231,7 @@
       ]
     },
     {
-      "path": "project-lifecycle/01-initiation/project-charter/traditional-project-charter-template.md",
+      "path": "templates/project-lifecycle/01-initiation/project-charter/traditional-project-charter-template.md",
       "title": "Traditional Project Charter Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -12254,7 +12254,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "role-based-toolkits/project-manager/essential-templates/budget-template.md",
+          "path": "templates/role-based/project-manager/essential-templates/budget-template.md",
           "title": "Budget Template",
           "methodology": "universal",
           "tags": [
@@ -12268,7 +12268,7 @@
           "similarity": 86
         },
         {
-          "path": "role-based-toolkits/project-manager/essential-templates/meeting-templates.md",
+          "path": "templates/role-based/project-manager/essential-templates/meeting-templates.md",
           "title": "Meeting Templates",
           "methodology": "universal",
           "tags": [
@@ -12282,7 +12282,7 @@
           "similarity": 86
         },
         {
-          "path": "role-based-toolkits/product-owner/product-vision-template.md",
+          "path": "templates/role-based/product-owner/product-vision-template.md",
           "title": "Product Vision Template",
           "methodology": "universal",
           "tags": [
@@ -12294,7 +12294,7 @@
           "similarity": 83
         },
         {
-          "path": "project-lifecycle/02-planning/risk-management/risk-register-template.md",
+          "path": "templates/project-lifecycle/02-planning/risk-management/risk-register-template.md",
           "title": "Risk Register Template",
           "methodology": "universal",
           "tags": [
@@ -12323,7 +12323,7 @@
       ]
     },
     {
-      "path": "project-lifecycle/02-planning/project-management-plan/traditional-project-management-plan-template.md",
+      "path": "templates/project-lifecycle/02-planning/project-management-plan/traditional-project-management-plan-template.md",
       "title": "Traditional Project Management Plan Template",
       "methodology": "universal",
       "complexity": "intermediate",
@@ -12376,7 +12376,7 @@
           "similarity": 84
         },
         {
-          "path": "project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/enterprise-stakeholder-analysis-template.md",
           "title": "Enterprise Stakeholder Analysis Template",
           "methodology": "universal",
           "tags": [
@@ -12659,7 +12659,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "project-lifecycle/02-planning/resource-planning/skills-matrix-template.md",
+          "path": "templates/project-lifecycle/02-planning/resource-planning/skills-matrix-template.md",
           "title": "Skills Matrix Template",
           "methodology": "universal",
           "tags": [
@@ -12700,7 +12700,7 @@
           "similarity": 92
         },
         {
-          "path": "role-based-toolkits/project-manager/essential-templates/meeting-templates.md",
+          "path": "templates/role-based/project-manager/essential-templates/meeting-templates.md",
           "title": "Meeting Templates",
           "methodology": "universal",
           "tags": [
@@ -12750,7 +12750,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "business-stakeholder-suite/executive-dashboards/tableau-integration/executive-dashboard-template.md",
+          "path": "templates/business-stakeholder/executive-dashboards/tableau-integration/executive-dashboard-template.md",
           "title": "Executive Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -12762,7 +12762,7 @@
           "similarity": 88
         },
         {
-          "path": "role-based-toolkits/product-owner/user-story-template.md",
+          "path": "templates/role-based/product-owner/user-story-template.md",
           "title": "User Story Template",
           "methodology": "universal",
           "tags": [
@@ -12772,7 +12772,7 @@
           "similarity": 83
         },
         {
-          "path": "business-stakeholder-suite/financial-governance/enhanced-business-cases/advanced-business-case-template.md",
+          "path": "templates/business-stakeholder/financial-governance/enhanced-business-cases/advanced-business-case-template.md",
           "title": "Advanced Business Case Template",
           "methodology": "universal",
           "tags": [
@@ -12798,7 +12798,7 @@
           "similarity": 80
         },
         {
-          "path": "role-based-toolkits/project-manager/essential-templates/budget-template.md",
+          "path": "templates/role-based/project-manager/essential-templates/budget-template.md",
           "title": "Budget Template",
           "methodology": "universal",
           "tags": [
@@ -12814,7 +12814,7 @@
       ]
     },
     {
-      "path": "role-based-toolkits/product-owner/user-story-template.md",
+      "path": "templates/role-based/product-owner/user-story-template.md",
       "title": "User Story Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -12854,7 +12854,7 @@
           "similarity": 75
         },
         {
-          "path": "business-stakeholder-suite/executive-dashboards/tableau-integration/executive-dashboard-template.md",
+          "path": "templates/business-stakeholder/executive-dashboards/tableau-integration/executive-dashboard-template.md",
           "title": "Executive Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -12866,7 +12866,7 @@
           "similarity": 75
         },
         {
-          "path": "business-stakeholder-suite/executive-dashboards/powerbi-integration/executive-dashboard-template.md",
+          "path": "templates/business-stakeholder/executive-dashboards/powerbi-integration/executive-dashboard-template.md",
           "title": "Executive Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -12878,7 +12878,7 @@
           "similarity": 75
         },
         {
-          "path": "role-based-toolkits/product-owner/product-vision-template.md",
+          "path": "templates/role-based/product-owner/product-vision-template.md",
           "title": "Product Vision Template",
           "methodology": "universal",
           "tags": [

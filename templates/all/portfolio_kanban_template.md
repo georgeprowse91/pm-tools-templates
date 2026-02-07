@@ -565,7 +565,7 @@ Weight factors for epic prioritization:
 - [ART Coordination Template](./art_coordination_template.md)
 - [SAFe Metrics Dashboard Template](./metrics_dashboard_template.md)
 - [Epic Business Case Template](./epic_business_case_template.md)
-- [Portfolio Management Role Guide](../../../role-based-toolkits/portfolio-manager/README.md)
+- [Portfolio Management Role Guide](../../../templates/role-based/portfolio-manager/README.md)
 
 ---
 

@@ -225,7 +225,7 @@ Many professionals wear multiple hats. Here are common combinations:
 ## 🔗 Integration Points
 
 ### With Project Lifecycle
-Each role uses [Project Lifecycle](../project-lifecycle/) templates differently:
+Each role uses [Project Lifecycle](../templates/project-lifecycle/) templates differently:
 - **Project Managers:** Use all phases comprehensively
 - **Scrum Masters:** Adapt for iterative delivery
 - **Product Owners:** Focus on initiation and closure phases
@@ -234,7 +234,7 @@ Each role uses [Project Lifecycle](../project-lifecycle/) templates differently:
 - **Executive Sponsors:** Engage primarily at phase gates
 
 ### With Business Stakeholder Suite
-Role-specific connections to [Business Stakeholder Suite](../business-stakeholder-suite/):
+Role-specific connections to [Business Stakeholder Suite](../templates/business-stakeholder/):
 - **Project/Program Managers:** Create executive reports and dashboards
 - **Product Owners:** Contribute to strategic alignment documents
 - **Executive Sponsors:** Primary consumers of executive dashboards

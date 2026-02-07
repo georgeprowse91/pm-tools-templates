@@ -96,7 +96,7 @@ create_template_file "project-assessment-suite/assessment-report-template.md" \
 # Fix 3: Create governance tools (most referenced missing files)
 echo -e "${YELLOW}🏛️ Creating governance tools templates...${NC}"
 
-GOVERNANCE_DIR="role-based-toolkits/project-manager/governance-tools"
+GOVERNANCE_DIR="templates/role-based/project-manager/governance-tools"
 
 create_template_file "$GOVERNANCE_DIR/governance-roles.md" \
     "Governance Roles and Responsibilities" \
@@ -117,7 +117,7 @@ create_template_file "$GOVERNANCE_DIR/change-control-process.md" \
 # Fix 4: Create reporting dashboard templates
 echo -e "${YELLOW}📊 Creating reporting dashboard templates...${NC}"
 
-REPORTS_DIR="role-based-toolkits/project-manager/reporting-dashboards"
+REPORTS_DIR="templates/role-based/project-manager/reporting-dashboards"
 
 create_template_file "$REPORTS_DIR/executive-status-report.md" \
     "Executive Status Report" \
@@ -130,7 +130,7 @@ create_template_file "$REPORTS_DIR/stakeholder-update.md" \
 # Fix 5: Create stakeholder engagement templates
 echo -e "${YELLOW}👥 Creating stakeholder engagement templates...${NC}"
 
-STAKEHOLDER_DIR="role-based-toolkits/project-manager/stakeholder-engagement"
+STAKEHOLDER_DIR="templates/role-based/project-manager/stakeholder-engagement"
 
 create_template_file "$STAKEHOLDER_DIR/engagement-plan.md" \
     "Stakeholder Engagement Plan" \
@@ -160,11 +160,11 @@ create_template_file "$AGILE_DIR/success-metrics.md" \
 # Fix 7: Create essential project lifecycle templates  
 echo -e "${YELLOW}📋 Creating project lifecycle templates...${NC}"
 
-create_template_file "project-lifecycle/02-planning/project-management-plan/hybrid-project-management-plan-template.md" \
+create_template_file "templates/project-lifecycle/02-planning/project-management-plan/hybrid-project-management-plan-template.md" \
     "Hybrid Project Management Plan" \
     "Project management plan template combining traditional and agile methodologies."
 
-create_template_file "project-lifecycle/02-planning/risk-management/enterprise-risk-assessment-template.md" \
+create_template_file "templates/project-lifecycle/02-planning/risk-management/enterprise-risk-assessment-template.md" \
     "Enterprise Risk Assessment" \
     "Comprehensive risk assessment template for enterprise-level projects."
 

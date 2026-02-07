@@ -1116,7 +1116,7 @@ Time to Recovery:
 - [Release Management Workflow](./release_management_template.md)
 - [DevOps Metrics Dashboard](./devops_metrics_template.md)
 - [Infrastructure as Code Template](./infrastructure_as_code_template.md)
-- [DevOps Engineer Role Guide](../../role-based-toolkits/devops-engineer/README.md)
+- [DevOps Engineer Role Guide](../../templates/role-based/devops-engineer/README.md)
 - [Security Integration Template](./devsecops_template.md)
 
 ---

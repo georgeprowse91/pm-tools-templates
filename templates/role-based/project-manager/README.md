@@ -144,7 +144,7 @@ In agile environments, project managers may work closely with Scrum Masters or t
 ### [Executive Sponsor Toolkit](../executive-sponsor/)
 Project managers regularly report to and coordinate with executive sponsors on strategic alignment.
 
-### [Business Stakeholder Suite](../../business-stakeholder-suite/)
+### [Business Stakeholder Suite](../../templates/business-stakeholder/)
 Project managers use stakeholder communication and business reporting tools extensively.
 
 ---

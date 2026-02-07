@@ -74,4 +74,4 @@ This template provides assessment criteria specifically for traditional waterfal
 
 Related Resources:
 - [Traditional Framework](../methodology-frameworks/traditional/)
-- [Project Lifecycle](../project-lifecycle/)
+- [Project Lifecycle](../templates/project-lifecycle/)

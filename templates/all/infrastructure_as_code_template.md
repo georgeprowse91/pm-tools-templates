@@ -1883,7 +1883,7 @@ groups:
 - [Release Management Workflow](./release_management_template.md)
 - [DevOps Monitoring and Alerting](./monitoring_alerting_template.md)
 - [DevSecOps Integration](./devsecops_template.md)
-- [DevOps Engineer Toolkit](../../role-based-toolkits/devops-engineer/README.md)
+- [DevOps Engineer Toolkit](../../templates/role-based/devops-engineer/README.md)
 
 ---
 

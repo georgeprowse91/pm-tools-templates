@@ -157,9 +157,9 @@ Executive dashboards provide high-level, strategic views of project portfolios, 
 3. **[Communication Automation](../communication-automation/)** - Stakeholder updates
 
 ### Integration Points
-1. **[Project Manager Reporting](../../role-based-toolkits/project-manager/reporting-dashboards/)** - Operational dashboards
-2. **[Progress Tracking](../../project-lifecycle/04-monitoring-control/progress-tracking/)** - Project-level metrics
-3. **[Risk Management](../../project-lifecycle/02-planning/risk-management/)** - Risk indicator integration
+1. **[Project Manager Reporting](../../templates/role-based/project-manager/reporting-dashboards/)** - Operational dashboards
+2. **[Progress Tracking](../../templates/project-lifecycle/04-monitoring-control/progress-tracking/)** - Project-level metrics
+3. **[Risk Management](../../templates/project-lifecycle/02-planning/risk-management/)** - Risk indicator integration
 
 ---
 

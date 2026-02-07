@@ -15,7 +15,7 @@
 
 title: "Sprint Review Template"
 
-[**➡️ View Template File**](/role-based-toolkits/scrum-master/agile-ceremonies/sprint-review-template.md)
+[**➡️ View Template File**](/templates/role-based/scrum-master/agile-ceremonies/sprint-review-template.md)
 
 ## 📈 Quality Score
 

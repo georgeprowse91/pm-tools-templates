@@ -9,9 +9,9 @@ async function generateTemplateIndex() {
   // Find all template files
   const patterns = [
     'templates/**/*template*.md',
-    'project-lifecycle/**/*template*.md',
-    'role-based-toolkits/**/*template*.md', 
-    'business-stakeholder-suite/**/*template*.md',
+    'templates/project-lifecycle/**/*template*.md',
+    'templates/role-based/**/*template*.md', 
+    'templates/business-stakeholder/**/*template*.md',
     'industry-specializations/**/*template*.md',
     'methodology-frameworks/**/*template*.md',
     'project-assessment-suite/**/*template*.md'

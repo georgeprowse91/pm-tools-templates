@@ -141,7 +141,7 @@
 4. **Focus on communication** - Most problems are communication problems
 
 ### Resources to Use
-- **[Full Project Manager Toolkit](../../role-based-toolkits/project-manager/)** - Advanced templates
+- **[Full Project Manager Toolkit](../../templates/role-based/project-manager/)** - Advanced templates
 - **[Methodology Selector](../../docs/getting-started/methodology-selector.md)** - Choose your approach
 - **[Template Selector](../../docs/getting-started/template-selector.md)** - Find specific templates
 

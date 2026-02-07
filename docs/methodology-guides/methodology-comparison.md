@@ -517,8 +517,8 @@ Transitioning between methodologies requires careful planning and change managem
 - [Agile-Scrum Framework](../../methodology-frameworks/agile-scrum/README.md)
 - [Scaling Frameworks](../../methodology-frameworks/agile-scrum/scaling-frameworks/)
 - [Emerging Methods](../../methodology-frameworks/emerging-methods/)
-- [Project Lifecycle](../../project-lifecycle/)
-- [Role-Based Toolkits](../../role-based-toolkits/)
+- [Project Lifecycle](../../templates/project-lifecycle/)
+- [Role-Based Toolkits](../../templates/role-based/)
 
 ---
 

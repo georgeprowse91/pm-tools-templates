@@ -4,7 +4,7 @@
 This folder hosts Tableau dashboard templates tailored for executive-level insights, aimed at visualizing key performance indicators (KPIs), strategic alignment, and project execution.
 
 ### Files Located In:
-- `/business-stakeholder-suite/executive-dashboards/tableau-integration/`
+- `/templates/business-stakeholder/executive-dashboards/tableau-integration/`
 
 ## 🎯 Key Features
 - **Dynamic Visuals**: Real-time updates and interactivity

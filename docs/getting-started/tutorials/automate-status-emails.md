@@ -5,7 +5,7 @@ Prerequisites
 - Access to docs/site and role-based-toolkits templates
 
 Steps
-1. Select a status report template under role-based-toolkits/project-manager/.
+1. Select a status report template under templates/role-based/project-manager/.
 2. Configure a weekly schedule using the existing weekly-status-email workflow (reference .github/workflows/weekly-status-email.yml).
 3. Customize recipients and content blocks.
 4. Validate locally by running the site build and checking email HTML output.

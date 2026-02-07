@@ -131,8 +131,8 @@ Tools for building high-performing teams:
 - [Agile-Scrum Framework](../../methodology-frameworks/agile-scrum/) - Core methodology guidance
 
 ### External Dependencies
-- [Project Lifecycle Management](../../project-lifecycle/) - For process integration
-- [Quality Management](../../project-lifecycle/02-planning/quality-management/) - For definition of done
+- [Project Lifecycle Management](../../templates/project-lifecycle/) - For process integration
+- [Quality Management](../../templates/project-lifecycle/02-planning/quality-management/) - For definition of done
 
 ## Getting Started
 

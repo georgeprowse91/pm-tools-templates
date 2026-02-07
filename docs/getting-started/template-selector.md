@@ -65,7 +65,7 @@ Quick CLI usage (optional)
 ### Next Steps
 Once comfortable with basics:
 - [Methodology Selector](methodology-selector.md) - Choose your approach
-- [Project Manager Toolkit](../../role-based-toolkits/project-manager/) - Advanced templates
+- [Project Manager Toolkit](../../templates/role-based/project-manager/) - Advanced templates
 
 ---
 
@@ -75,37 +75,37 @@ Once comfortable with basics:
 
 **💻 Software/Technology Project**
 - Methodology: [Agile or Hybrid](methodology-selector.md#agile-hybrid-decision)
-- Templates: [Scrum Master Toolkit](../../role-based-toolkits/scrum-master/) + [Product Owner Toolkit](../../role-based-toolkits/product-owner/)
+- Templates: [Scrum Master Toolkit](../../templates/role-based/scrum-master/) + [Product Owner Toolkit](../../templates/role-based/product-owner/)
 - Specialization: [IT Templates](../../industry_templates/information_technology/)
 
 **🏗️ Traditional Project** (Construction, Manufacturing, etc.)
 - Methodology: [Traditional/Waterfall](methodology-selector.md#traditional-waterfall)
-- Templates: [Project Manager Toolkit](../../role-based-toolkits/project-manager/)
+- Templates: [Project Manager Toolkit](../../templates/role-based/project-manager/)
 - Industry: [Construction & Engineering](../../industry_templates/construction_engineering/)
 
 **🔄 Organizational Change**
 - Framework: [Change Management](../../organizational-frameworks/change-management/)
-- Templates: [Program Manager Toolkit](../../role-based-toolkits/program-manager/)
+- Templates: [Program Manager Toolkit](../../templates/role-based/program-manager/)
 - Support: [Training Programs](../../organizational-frameworks/training-programs/)
 
 **🏥 Regulated Industry** (Healthcare, Finance, etc.)
 - Compliance: [Healthcare Templates](../../industry_templates/healthcare_pharmaceutical/) or [Financial Services](../../industry_templates/financial_services/)
 - Methodology: [Hybrid Approaches](../../methodology-frameworks/hybrid-approaches/)
-- Governance: [Executive Dashboards](../../business-stakeholder-suite/executive-dashboards/)
+- Governance: [Executive Dashboards](../../templates/business-stakeholder/executive-dashboards/)
 
 ### Step 2B: What's your biggest challenge?
 
 **"My stakeholders don't understand what's happening"**
-→ Focus: [Communication Templates](../../role-based-toolkits/project-manager/stakeholder-engagement/)
-→ Executive Tools: [Business Stakeholder Suite](../../business-stakeholder-suite/)
+→ Focus: [Communication Templates](../../templates/role-based/project-manager/stakeholder-engagement/)
+→ Executive Tools: [Business Stakeholder Suite](../../templates/business-stakeholder/)
 
 **"I can't keep track of everything"**
-→ Focus: [Project Tracking Templates](../../role-based-toolkits/project-manager/tracking-monitoring/)
+→ Focus: [Project Tracking Templates](../../templates/role-based/project-manager/tracking-monitoring/)
 → Automation: [Excel Automation](../../integration_guides/excel_automation/)
 
 **"Too many meetings, not enough progress"**
 → Consider: [Agile Transformation Kit](../../quick-start-kits/agile-transformation/)
-→ Efficiency: [Scrum Master Toolkit](../../role-based-toolkits/scrum-master/)
+→ Efficiency: [Scrum Master Toolkit](../../templates/role-based/scrum-master/)
 
 **"Executive reporting is painful"**
 → Solution: [Executive Reporting Kit](../../quick-start-kits/executive-reporting/)
@@ -118,8 +118,8 @@ Once comfortable with basics:
 ### For Experienced PMs
 
 **🎯 Program Management**
-- [Program Manager Toolkit](../../role-based-toolkits/program-manager/)
-- [Portfolio Alignment](../../business-stakeholder-suite/strategic-alignment/)
+- [Program Manager Toolkit](../../templates/role-based/program-manager/)
+- [Portfolio Alignment](../../templates/business-stakeholder/strategic-alignment/)
 - [Cross-project Dependencies](../../methodology-frameworks/hybrid-approaches/)
 
 **🔧 Process Improvement**
@@ -144,19 +144,19 @@ Once comfortable with basics:
 ### For Sponsors & Executives
 
 **📊 Executive Dashboards**
-- [Portfolio Overview](../../business-stakeholder-suite/executive-dashboards/portfolio-dashboard.md)
-- [Financial Tracking](../../business-stakeholder-suite/financial-governance/budget-tracking.md)
-- [Strategic Alignment](../../business-stakeholder-suite/strategic-alignment/business-case-tracking.md)
+- [Portfolio Overview](../../templates/business-stakeholder/executive-dashboards/portfolio-dashboard.md)
+- [Financial Tracking](../../templates/business-stakeholder/financial-governance/budget-tracking.md)
+- [Strategic Alignment](../../templates/business-stakeholder/strategic-alignment/business-case-tracking.md)
 
 **💰 Financial Governance**
-- [ROI Tracking](../../business-stakeholder-suite/financial-governance/roi-tracking.md)
-- [Budget Management](../../business-stakeholder-suite/financial-governance/budget-management.md)
-- [Cost-Benefit Analysis](../../business-stakeholder-suite/financial-governance/cost-benefit-analysis.md)
+- [ROI Tracking](../../templates/business-stakeholder/financial-governance/roi-tracking.md)
+- [Budget Management](../../templates/business-stakeholder/financial-governance/budget-management.md)
+- [Cost-Benefit Analysis](../../templates/business-stakeholder/financial-governance/cost-benefit-analysis.md)
 
 **📢 Communication Automation**
-- [Email Templates](../../business-stakeholder-suite/communication-automation/email-templates/)
-- [Meeting Templates](../../business-stakeholder-suite/communication-automation/meeting-templates/)
-- [Reporting Automation](../../business-stakeholder-suite/communication-automation/automated-reporting/)
+- [Email Templates](../../templates/business-stakeholder/communication-automation/email-templates/)
+- [Meeting Templates](../../templates/business-stakeholder/communication-automation/meeting-templates/)
+- [Reporting Automation](../../templates/business-stakeholder/communication-automation/automated-reporting/)
 
 **Complete Executive Kit**
 → [📦 Download Executive Reporting Kit](../../quick-start-kits/executive-reporting/)
@@ -173,8 +173,8 @@ Once comfortable with basics:
 - [Sprint Retrospective](../../methodology-frameworks/agile-scrum/sprint-retrospective-template.md)
 
 **Role-Specific:**
-- [Scrum Master Toolkit](../../role-based-toolkits/scrum-master/)
-- [Product Owner Toolkit](../../role-based-toolkits/product-owner/)
+- [Scrum Master Toolkit](../../templates/role-based/scrum-master/)
+- [Product Owner Toolkit](../../templates/role-based/product-owner/)
 
 ### Traditional/Waterfall Projects
 **Planning Phase:**
@@ -254,38 +254,38 @@ Traditional Project ──> Traditional/Waterfall Templates
 
 ### A-C
 - [Acceptance Criteria](../../methodology-frameworks/agile-scrum/acceptance-criteria-template.md)
-- [Budget Tracking](../../business-stakeholder-suite/financial-governance/budget-tracking.md)
+- [Budget Tracking](../../templates/business-stakeholder/financial-governance/budget-tracking.md)
 - [Change Request](../../methodology-frameworks/traditional-waterfall/change-request-template.md)
-- [Communication Plan](../../project-lifecycle/02-planning/communication-planning/communication-plan-template.md)
+- [Communication Plan](../../templates/project-lifecycle/02-planning/communication-planning/communication-plan-template.md)
 
 ### D-F
 - [Daily Standup](../../methodology-frameworks/agile-scrum/daily-standup-template.md)
-- [Executive Dashboard](../../business-stakeholder-suite/executive-dashboards/executive-dashboard-template.md)
-- [Financial Governance](../../business-stakeholder-suite/financial-governance/)
+- [Executive Dashboard](../../templates/business-stakeholder/executive-dashboards/executive-dashboard-template.md)
+- [Financial Governance](../../templates/business-stakeholder/financial-governance/)
 
 ### G-I
 - [Gantt Chart](../../methodology-frameworks/traditional-waterfall/gantt-chart-template.md)
-- [Issue Log](../../project-lifecycle/03-execution/issue-tracking/issue-log-template.md)
+- [Issue Log](../../templates/project-lifecycle/03-execution/issue-tracking/issue-log-template.md)
 
 ### J-L
-- [Lessons Learned](../../project-lifecycle/05-closure/lessons-learned/lessons-learned-template.md)
+- [Lessons Learned](../../templates/project-lifecycle/05-closure/lessons-learned/lessons-learned-template.md)
 
 ### M-O
-- [Meeting Templates](../../business-stakeholder-suite/communication-automation/meeting-templates/)
+- [Meeting Templates](../../templates/business-stakeholder/communication-automation/meeting-templates/)
 - [Organizational Change](../../organizational-frameworks/change-management/)
 
 ### P-R
 - [Product Backlog](../../methodology-frameworks/agile-scrum/product-backlog-template.md)
-- [Project Charter](../../project-lifecycle/01-initiation/project-charter/project-charter-template.md)
-- [Risk Register](../../project-lifecycle/02-planning/risk-management/risk-register-template.md)
-- [ROI Tracking](../../business-stakeholder-suite/financial-governance/roi-tracking.md)
+- [Project Charter](../../templates/project-lifecycle/01-initiation/project-charter/project-charter-template.md)
+- [Risk Register](../../templates/project-lifecycle/02-planning/risk-management/risk-register-template.md)
+- [ROI Tracking](../../templates/business-stakeholder/financial-governance/roi-tracking.md)
 
 ### S-U
 - [Sprint Planning](../../methodology-frameworks/agile-scrum/sprint-planning-template.md)
 - [Sprint Review](../../methodology-frameworks/agile-scrum/sprint-review-template.md)
 - [Sprint Retrospective](../../methodology-frameworks/agile-scrum/sprint-retrospective-template.md)
-- [Stakeholder Register](../../project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template.md)
-- [Status Report](../../project-lifecycle/04-monitoring-control/status-reporting/status-report-template.md)
+- [Stakeholder Register](../../templates/project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template.md)
+- [Status Report](../../templates/project-lifecycle/04-monitoring-control/status-reporting/status-report-template.md)
 - [User Stories](../../methodology-frameworks/agile-scrum/user-story-template.md)
 
 ### V-Z
@@ -310,11 +310,11 @@ Traditional Project ──> Traditional/Waterfall Templates
 → [Remote Team Kit](../../quick-start-kits/remote-team-setup/)
 
 **"I manage multiple projects"**
-→ [Program Manager Toolkit](../../role-based-toolkits/program-manager/)
+→ [Program Manager Toolkit](../../templates/role-based/program-manager/)
 
 ### Still Not Sure?
 1. **Start with methodology:** [Methodology Selector](methodology-selector.md)
-2. **Consider your role:** [Role-Based Toolkits](../../role-based-toolkits/)
+2. **Consider your role:** [Role-Based Toolkits](../../templates/role-based/)
 3. **Check your industry:** [Industry Specializations](../../industry_templates/)
 4. **Begin simple:** [First-Time PM Kit](../../quick-start-kits/first-time-pm-starter/) works for most situations
 
@@ -351,19 +351,19 @@ This guide helps you identify and download the specific templates you need based
 ### Essential Starter Kit (Choose 3-5)
 
 #### 📦 **Project Charter Package**
-- **[Basic Project Charter](../../project-lifecycle/01-initiation/project-charter/)** - Single page project authorization
-- **[Detailed Project Charter](../../project-lifecycle/01-initiation/project-charter/)** - Comprehensive project definition
+- **[Basic Project Charter](../../templates/project-lifecycle/01-initiation/project-charter/)** - Single page project authorization
+- **[Detailed Project Charter](../../templates/project-lifecycle/01-initiation/project-charter/)** - Comprehensive project definition
 - **[Agile Project Charter](../../methodology-frameworks/agile-scrum/)** - Lightweight project vision
 
 #### 👥 **Stakeholder Analysis Package**
-- **[Stakeholder Register](../../project-lifecycle/01-initiation/stakeholder-analysis/)** - Who's involved and how
-- **[Stakeholder Engagement Plan](../../project-lifecycle/01-initiation/stakeholder-analysis/)** - Communication strategy by stakeholder
-- **[RACI Matrix](../../project-lifecycle/02-planning/resource-planning/)** - Roles and responsibilities
+- **[Stakeholder Register](../../templates/project-lifecycle/01-initiation/stakeholder-analysis/)** - Who's involved and how
+- **[Stakeholder Engagement Plan](../../templates/project-lifecycle/01-initiation/stakeholder-analysis/)** - Communication strategy by stakeholder
+- **[RACI Matrix](../../templates/project-lifecycle/02-planning/resource-planning/)** - Roles and responsibilities
 
 #### 📝 **Planning Essentials Package**
-- **[Project Management Plan](../../project-lifecycle/02-planning/project-management-plan/)** - Comprehensive planning document
-- **[Communication Plan](../../project-lifecycle/02-planning/communication-planning/)** - Who needs what information when
-- **[Risk Register](../../project-lifecycle/02-planning/risk-management/)** - Identify and track risks
+- **[Project Management Plan](../../templates/project-lifecycle/02-planning/project-management-plan/)** - Comprehensive planning document
+- **[Communication Plan](../../templates/project-lifecycle/02-planning/communication-planning/)** - Who needs what information when
+- **[Risk Register](../../templates/project-lifecycle/02-planning/risk-management/)** - Identify and track risks
 
 ### 📋 Quick Start Checklist
 - [ ] **Week 1:** Project Charter + Stakeholder Analysis
@@ -380,36 +380,36 @@ This guide helps you identify and download the specific templates you need based
 #### 🏁 **Initiation (Weeks 1-2)**
 | Template | Complexity | Time to Complete | Best For |
 |----------|------------|------------------|----------|
-| **[Project Charter](../../project-lifecycle/01-initiation/project-charter/)** | Beginner | 2-4 hours | All projects |
-| **[Business Case](../../project-lifecycle/01-initiation/business-case/)** | Intermediate | 1-2 days | Investment decisions |
-| **[Feasibility Study](../../project-lifecycle/01-initiation/feasibility-study/)** | Advanced | 1-2 weeks | Complex projects |
-| **[Stakeholder Analysis](../../project-lifecycle/01-initiation/stakeholder-analysis/)** | Beginner | 2-3 hours | All projects |
+| **[Project Charter](../../templates/project-lifecycle/01-initiation/project-charter/)** | Beginner | 2-4 hours | All projects |
+| **[Business Case](../../templates/project-lifecycle/01-initiation/business-case/)** | Intermediate | 1-2 days | Investment decisions |
+| **[Feasibility Study](../../templates/project-lifecycle/01-initiation/feasibility-study/)** | Advanced | 1-2 weeks | Complex projects |
+| **[Stakeholder Analysis](../../templates/project-lifecycle/01-initiation/stakeholder-analysis/)** | Beginner | 2-3 hours | All projects |
 
 #### 📝 **Planning (Weeks 2-4)**
 | Template | Complexity | Time to Complete | Best For |
 |----------|------------|------------------|----------|
-| **[Project Management Plan](../../project-lifecycle/02-planning/project-management-plan/)** | Intermediate | 1-2 weeks | Traditional projects |
-| **[Scope Statement](../../project-lifecycle/02-planning/scope-management/)** | Beginner | 4-6 hours | All projects |
-| **[Work Breakdown Structure](../../project-lifecycle/02-planning/scope-management/)** | Intermediate | 1-2 days | Complex projects |
-| **[Project Schedule](../../project-lifecycle/02-planning/schedule-planning/)** | Advanced | 2-3 days | Traditional projects |
-| **[Resource Plan](../../project-lifecycle/02-planning/resource-planning/)** | Intermediate | 1 day | All projects |
-| **[Risk Management Plan](../../project-lifecycle/02-planning/risk-management/)** | Intermediate | 1-2 days | All projects |
+| **[Project Management Plan](../../templates/project-lifecycle/02-planning/project-management-plan/)** | Intermediate | 1-2 weeks | Traditional projects |
+| **[Scope Statement](../../templates/project-lifecycle/02-planning/scope-management/)** | Beginner | 4-6 hours | All projects |
+| **[Work Breakdown Structure](../../templates/project-lifecycle/02-planning/scope-management/)** | Intermediate | 1-2 days | Complex projects |
+| **[Project Schedule](../../templates/project-lifecycle/02-planning/schedule-planning/)** | Advanced | 2-3 days | Traditional projects |
+| **[Resource Plan](../../templates/project-lifecycle/02-planning/resource-planning/)** | Intermediate | 1 day | All projects |
+| **[Risk Management Plan](../../templates/project-lifecycle/02-planning/risk-management/)** | Intermediate | 1-2 days | All projects |
 
 #### ⚡ **Execution (Throughout Project)**
 | Template | Frequency | Time to Complete | Best For |
 |----------|-----------|------------------|----------|
-| **[Status Reports](../../role-based-toolkits/project-manager/reporting-dashboards/)** | Weekly | 30 minutes | All projects |
-| **[Issue Log](../../project-lifecycle/04-monitoring-control/issue-management/)** | Daily updates | 5 minutes/entry | All projects |
-| **[Change Request](../../project-lifecycle/04-monitoring-control/change-control/)** | As needed | 30 minutes | Traditional projects |
-| **[Team Meeting Notes](../../project-lifecycle/03-execution/team-coordination/)** | Weekly | 15 minutes | All projects |
+| **[Status Reports](../../templates/role-based/project-manager/reporting-dashboards/)** | Weekly | 30 minutes | All projects |
+| **[Issue Log](../../templates/project-lifecycle/04-monitoring-control/issue-management/)** | Daily updates | 5 minutes/entry | All projects |
+| **[Change Request](../../templates/project-lifecycle/04-monitoring-control/change-control/)** | As needed | 30 minutes | Traditional projects |
+| **[Team Meeting Notes](../../templates/project-lifecycle/03-execution/team-coordination/)** | Weekly | 15 minutes | All projects |
 
 #### 🏁 **Closure (Final 2 weeks)**
 | Template | Complexity | Time to Complete | Best For |
 |----------|------------|------------------|----------|
-| **[Project Closure Report](../../project-lifecycle/05-closure/project-closure/)** | Intermediate | 1-2 days | All projects |
-| **[Lessons Learned](../../project-lifecycle/05-closure/lessons-learned/)** | Beginner | 2-3 hours | All projects |
-| **[Knowledge Transfer](../../project-lifecycle/05-closure/knowledge-transfer/)** | Intermediate | 1 week | Complex projects |
-| **[Transition Plan](../../project-lifecycle/05-closure/transition-to-operations/)** | Advanced | 1-2 weeks | Operational handover |
+| **[Project Closure Report](../../templates/project-lifecycle/05-closure/project-closure/)** | Intermediate | 1-2 days | All projects |
+| **[Lessons Learned](../../templates/project-lifecycle/05-closure/lessons-learned/)** | Beginner | 2-3 hours | All projects |
+| **[Knowledge Transfer](../../templates/project-lifecycle/05-closure/knowledge-transfer/)** | Intermediate | 1 week | Complex projects |
+| **[Transition Plan](../../templates/project-lifecycle/05-closure/transition-to-operations/)** | Advanced | 1-2 weeks | Operational handover |
 
 ---
 
@@ -418,17 +418,17 @@ This guide helps you identify and download the specific templates you need based
 ### 📊 **Dashboard Suite** (Business Stakeholders)
 | Template | Update Frequency | Audience | Purpose |
 |----------|------------------|----------|----------|
-| **[PowerPoint Executive Dashboard](../../business-stakeholder-suite/executive-dashboards/PowerPoint/)** | Weekly/Monthly | C-Suite | High-level status |
-| **[Excel Executive Workbook](../../business-stakeholder-suite/executive-dashboards/excel-workbooks/)** | Real-time | CFO/PMO | Financial tracking |
-| **[Executive Status Report](../../business-stakeholder-suite/executive-dashboards/executive-reports/)** | Monthly | Board/Executives | Formal documentation |
-| **[Board Presentation](../../business-stakeholder-suite/executive-dashboards/board-presentations/)** | Quarterly | Board of Directors | Strategic oversight |
+| **[PowerPoint Executive Dashboard](../../templates/business-stakeholder/executive-dashboards/PowerPoint/)** | Weekly/Monthly | C-Suite | High-level status |
+| **[Excel Executive Workbook](../../templates/business-stakeholder/executive-dashboards/excel-workbooks/)** | Real-time | CFO/PMO | Financial tracking |
+| **[Executive Status Report](../../templates/business-stakeholder/executive-dashboards/executive-reports/)** | Monthly | Board/Executives | Formal documentation |
+| **[Board Presentation](../../templates/business-stakeholder/executive-dashboards/board-presentations/)** | Quarterly | Board of Directors | Strategic oversight |
 
 ### 📧 **Communication Automation**
 | Template | Use Case | Setup Time | Maintenance |
 |----------|----------|------------|-------------|
-| **[Email Templates](../../business-stakeholder-suite/communication-automation/email-templates/)** | Regular updates | 30 minutes | Weekly |
-| **[Meeting Management](../../business-stakeholder-suite/communication-automation/meeting-management/)** | Structured meetings | 1 hour | Per meeting |
-| **[Notification Systems](../../business-stakeholder-suite/communication-automation/notification-systems/)** | Automated alerts | 2 hours | Monthly |
+| **[Email Templates](../../templates/business-stakeholder/communication-automation/email-templates/)** | Regular updates | 30 minutes | Weekly |
+| **[Meeting Management](../../templates/business-stakeholder/communication-automation/meeting-management/)** | Structured meetings | 1 hour | Per meeting |
+| **[Notification Systems](../../templates/business-stakeholder/communication-automation/notification-systems/)** | Automated alerts | 2 hours | Monthly |
 
 ---
 
@@ -437,25 +437,25 @@ This guide helps you identify and download the specific templates you need based
 ### 🏃 **Scrum Master Toolkit**
 | Template | Ceremony | Duration | Team Size |
 |----------|----------|----------|----------|
-| **[Sprint Planning](../../role-based-toolkits/scrum-master/agile-ceremonies/)** | Sprint start | 2-4 hours | 5-9 people |
-| **[Daily Standup](../../role-based-toolkits/scrum-master/agile-ceremonies/)** | Daily | 15 minutes | 5-9 people |
-| **[Sprint Review](../../role-based-toolkits/scrum-master/agile-ceremonies/)** | Sprint end | 1-2 hours | All stakeholders |
-| **[Sprint Retrospective](../../role-based-toolkits/scrum-master/agile-ceremonies/)** | Sprint end | 1-1.5 hours | 5-9 people |
+| **[Sprint Planning](../../templates/role-based/scrum-master/agile-ceremonies/)** | Sprint start | 2-4 hours | 5-9 people |
+| **[Daily Standup](../../templates/role-based/scrum-master/agile-ceremonies/)** | Daily | 15 minutes | 5-9 people |
+| **[Sprint Review](../../templates/role-based/scrum-master/agile-ceremonies/)** | Sprint end | 1-2 hours | All stakeholders |
+| **[Sprint Retrospective](../../templates/role-based/scrum-master/agile-ceremonies/)** | Sprint end | 1-1.5 hours | 5-9 people |
 
 ### 📎 **Product Owner Toolkit**
 | Template | Purpose | Update Frequency | Stakeholders |
 |----------|---------|------------------|-------------|
-| **[Product Backlog](../../role-based-toolkits/product-owner/backlog-management/)** | Feature prioritization | Continuous | Development team |
-| **[User Story Template](../../role-based-toolkits/product-owner/backlog-management/)** | Requirement definition | Per story | All team |
-| **[Acceptance Criteria](../../role-based-toolkits/product-owner/backlog-management/)** | Definition of done | Per story | Dev + QA |
-| **[Release Planning](../../role-based-toolkits/product-owner/product-strategy/)** | Strategic roadmap | Quarterly | All stakeholders |
+| **[Product Backlog](../../templates/role-based/product-owner/backlog-management/)** | Feature prioritization | Continuous | Development team |
+| **[User Story Template](../../templates/role-based/product-owner/backlog-management/)** | Requirement definition | Per story | All team |
+| **[Acceptance Criteria](../../templates/role-based/product-owner/backlog-management/)** | Definition of done | Per story | Dev + QA |
+| **[Release Planning](../../templates/role-based/product-owner/product-strategy/)** | Strategic roadmap | Quarterly | All stakeholders |
 
 ### 📊 **Agile Metrics**
 | Template | Metric Type | Update Frequency | Purpose |
 |----------|-------------|------------------|----------|
-| **[Burndown Chart](../../role-based-toolkits/scrum-master/agile-metrics/)** | Progress tracking | Daily | Sprint management |
-| **[Velocity Tracking](../../role-based-toolkits/scrum-master/agile-metrics/)** | Team performance | Per sprint | Capacity planning |
-| **[Cumulative Flow](../../role-based-toolkits/scrum-master/agile-metrics/)** | Workflow health | Daily | Process improvement |
+| **[Burndown Chart](../../templates/role-based/scrum-master/agile-metrics/)** | Progress tracking | Daily | Sprint management |
+| **[Velocity Tracking](../../templates/role-based/scrum-master/agile-metrics/)** | Team performance | Per sprint | Capacity planning |
+| **[Cumulative Flow](../../templates/role-based/scrum-master/agile-metrics/)** | Workflow health | Daily | Process improvement |
 
 ---
 
@@ -464,16 +464,16 @@ This guide helps you identify and download the specific templates you need based
 ### 🎨 **Strategic Level**
 | Template | Complexity | Audience | Update Frequency |
 |----------|------------|----------|------------------|
-| **[Program Charter](../../role-based-toolkits/program-manager/program-governance/)** | Advanced | Executives | Initial + changes |
-| **[Portfolio Alignment](../../role-based-toolkits/program-manager/portfolio-alignment/)** | Advanced | C-Suite | Quarterly |
-| **[Strategic Roadmap](../../role-based-toolkits/program-manager/strategic-reporting/)** | Intermediate | All stakeholders | Monthly |
+| **[Program Charter](../../templates/role-based/program-manager/program-governance/)** | Advanced | Executives | Initial + changes |
+| **[Portfolio Alignment](../../templates/role-based/program-manager/portfolio-alignment/)** | Advanced | C-Suite | Quarterly |
+| **[Strategic Roadmap](../../templates/role-based/program-manager/strategic-reporting/)** | Intermediate | All stakeholders | Monthly |
 
 ### 🔗 **Coordination Level**
 | Template | Purpose | Team Size | Complexity |
 |----------|---------|-----------|------------|
-| **[Cross-Project Dependencies](../../role-based-toolkits/program-manager/cross-project-coordination/)** | Integration management | Multiple teams | Advanced |
-| **[Resource Allocation Matrix](../../role-based-toolkits/program-manager/cross-project-coordination/)** | Resource optimization | 10+ people | Intermediate |
-| **[Program Status Dashboard](../../role-based-toolkits/program-manager/strategic-reporting/)** | Executive reporting | All levels | Intermediate |
+| **[Cross-Project Dependencies](../../templates/role-based/program-manager/cross-project-coordination/)** | Integration management | Multiple teams | Advanced |
+| **[Resource Allocation Matrix](../../templates/role-based/program-manager/cross-project-coordination/)** | Resource optimization | 10+ people | Intermediate |
+| **[Program Status Dashboard](../../templates/role-based/program-manager/strategic-reporting/)** | Executive reporting | All levels | Intermediate |
 
 ---
 
@@ -529,24 +529,24 @@ What do you need?
 ### 📚 **All Templates by Category**
 
 #### Project Lifecycle
-- [01-Initiation Templates](../../project-lifecycle/01-initiation/)
-- [02-Planning Templates](../../project-lifecycle/02-planning/)
-- [03-Execution Templates](../../project-lifecycle/03-execution/)
-- [04-Monitoring & Control Templates](../../project-lifecycle/04-monitoring-control/)
-- [05-Closure Templates](../../project-lifecycle/05-closure/)
+- [01-Initiation Templates](../../templates/project-lifecycle/01-initiation/)
+- [02-Planning Templates](../../templates/project-lifecycle/02-planning/)
+- [03-Execution Templates](../../templates/project-lifecycle/03-execution/)
+- [04-Monitoring & Control Templates](../../templates/project-lifecycle/04-monitoring-control/)
+- [05-Closure Templates](../../templates/project-lifecycle/05-closure/)
 
 #### Role-Based Toolkits
-- [Project Manager Toolkit](../../role-based-toolkits/project-manager/)
-- [Program Manager Toolkit](../../role-based-toolkits/program-manager/)
-- [Scrum Master Toolkit](../../role-based-toolkits/scrum-master/)
-- [Product Owner Toolkit](../../role-based-toolkits/product-owner/)
-- [Executive Sponsor Toolkit](../../role-based-toolkits/executive-sponsor/)
+- [Project Manager Toolkit](../../templates/role-based/project-manager/)
+- [Program Manager Toolkit](../../templates/role-based/program-manager/)
+- [Scrum Master Toolkit](../../templates/role-based/scrum-master/)
+- [Product Owner Toolkit](../../templates/role-based/product-owner/)
+- [Executive Sponsor Toolkit](../../templates/role-based/executive-sponsor/)
 
 #### Business Stakeholder Suite
-- [Executive Dashboards](../../business-stakeholder-suite/executive-dashboards/)
-- [Communication Automation](../../business-stakeholder-suite/communication-automation/)
-- [Financial Governance](../../business-stakeholder-suite/financial-governance/)
-- [Strategic Alignment](../../business-stakeholder-suite/strategic-alignment/)
+- [Executive Dashboards](../../templates/business-stakeholder/executive-dashboards/)
+- [Communication Automation](../../templates/business-stakeholder/communication-automation/)
+- [Financial Governance](../../templates/business-stakeholder/financial-governance/)
+- [Strategic Alignment](../../templates/business-stakeholder/strategic-alignment/)
 
 #### Methodology Frameworks
 - [Traditional/Waterfall](../../methodology-frameworks/traditional-waterfall/)

@@ -153,14 +153,14 @@ Each phase builds on the previous one:
 ## 🔗 Integration with Other Sections
 
 ### Role-Based Toolkits
-- **[Project Manager](../role-based-toolkits/project-manager/)** - Uses all lifecycle phases
-- **[Scrum Master](../role-based-toolkits/scrum-master/)** - Adapts execution and monitoring templates
+- **[Project Manager](../templates/role-based/project-manager/)** - Uses all lifecycle phases
+- **[Scrum Master](../templates/role-based/scrum-master/)** - Adapts execution and monitoring templates
 <a id="pro-tips"></a>
-- **[Program Manager](../role-based-toolkits/program-manager/)** - Uses for coordinating multiple projects
+- **[Program Manager](../templates/role-based/program-manager/)** - Uses for coordinating multiple projects
 
 ### Business Stakeholder Suite
-- **[Executive Dashboards](../business-stakeholder-suite/executive-dashboards/)** - Reports on lifecycle progress
-- **[Communication Automation](../business-stakeholder-suite/communication-automation/)** - Automates lifecycle updates
+- **[Executive Dashboards](../templates/business-stakeholder/executive-dashboards/)** - Reports on lifecycle progress
+- **[Communication Automation](../templates/business-stakeholder/communication-automation/)** - Automates lifecycle updates
 
 ### Methodology Frameworks
 - **[Traditional](../methodology-frameworks/traditional/)** - Traditional interpretation of lifecycle

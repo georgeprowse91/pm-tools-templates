@@ -210,11 +210,11 @@ This section provides robust financial governance frameworks, advanced business 
 ## 🔗 Integration Points
 
 ### Project Lifecycle Integration
-- **[Project Initiation](../../project-lifecycle/01-initiation/)** → Enhanced Business Case Development
-- **[Project Planning](../../project-lifecycle/02-planning/)** → Financial Framework Setup
-- **[Project Execution](../../project-lifecycle/03-execution/)** → Performance Tracking
-- **[Project Monitoring](../../project-lifecycle/04-monitoring-control/)** → Financial Controls
-- **[Project Closure](../../project-lifecycle/05-closure/)** → Value Realization
+- **[Project Initiation](../../templates/project-lifecycle/01-initiation/)** → Enhanced Business Case Development
+- **[Project Planning](../../templates/project-lifecycle/02-planning/)** → Financial Framework Setup
+- **[Project Execution](../../templates/project-lifecycle/03-execution/)** → Performance Tracking
+- **[Project Monitoring](../../templates/project-lifecycle/04-monitoring-control/)** → Financial Controls
+- **[Project Closure](../../templates/project-lifecycle/05-closure/)** → Value Realization
 
 ### Executive Communication
 - **[Executive Dashboards](../executive-dashboards/)** → Financial Performance Visualization
@@ -222,9 +222,9 @@ This section provides robust financial governance frameworks, advanced business 
 - **[Strategic Alignment](../strategic-alignment/)** → Investment Strategy Integration
 
 ### Role-Based Toolkits
-- **[Project Manager](../../role-based-toolkits/project-manager/)** → Budget Management and Control
-- **[Program Manager](../../role-based-toolkits/program-manager/)** → Portfolio Financial Oversight
-- **[Executive Sponsor](../../role-based-toolkits/executive-sponsor/)** → Investment Governance
+- **[Project Manager](../../templates/role-based/project-manager/)** → Budget Management and Control
+- **[Program Manager](../../templates/role-based/program-manager/)** → Portfolio Financial Oversight
+- **[Executive Sponsor](../../templates/role-based/executive-sponsor/)** → Investment Governance
 
 ---
 

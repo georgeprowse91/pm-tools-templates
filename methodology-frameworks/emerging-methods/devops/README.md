@@ -301,7 +301,7 @@ DevOps is a cultural and technical movement that bridges the gap between softwar
 
 ### Implementation Guidance
 1. **[Agile-Scrum Framework](../../agile-scrum/)** - Development methodology integration
-2. **[Project Lifecycle](../../../project-lifecycle/)** - Project management alignment
+2. **[Project Lifecycle](../../../templates/project-lifecycle/)** - Project management alignment
 3. **[Quick Start Kits](../../../quick-start-kits/)** - DevOps transformation guidance
 
 ### Technical Integration
@@ -311,8 +311,8 @@ DevOps is a cultural and technical movement that bridges the gap between softwar
 
 ### Organizational Support
 1. **[Change Management](../../../organizational-frameworks/change-management/)** - Transformation support
-2. **[Role-Based Toolkits](../../../role-based-toolkits/)** - Role-specific guidance
-3. **[Business Stakeholder Suite](../../../business-stakeholder-suite/)** - Executive communication
+2. **[Role-Based Toolkits](../../../templates/role-based/)** - Role-specific guidance
+3. **[Business Stakeholder Suite](../../../templates/business-stakeholder/)** - Executive communication
 
 ---
 

@@ -374,7 +374,7 @@ Next Steps:
 - [Business Case Template](../../../Waterfall/Templates/business_case_template.md)
 - [Project Budget Template](./project_budget_template.md)
 - [Cost-Benefit Analysis Template](./cost_benefit_analysis_template.md)
-- [Financial Dashboard Template](../../business-stakeholder-suite/safe-executive-dashboards/financial-dashboard-template.md)
+- [Financial Dashboard Template](../../templates/business-stakeholder/safe-executive-dashboards/financial-dashboard-template.md)
 
 ---
 

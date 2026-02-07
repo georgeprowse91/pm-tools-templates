@@ -51,7 +51,7 @@
         {
           "name": "Project Charter",
           "description": "Comprehensive project definition and authorization",
-          "path": "project-lifecycle/01-initiation/project-charter/project-charter-template.md",
+          "path": "templates/project-lifecycle/01-initiation/project-charter/project-charter-template.md",
           "category": "initiation",
           "methodology": ["traditional", "hybrid"],
           "projectTypes": ["all"],
@@ -62,7 +62,7 @@
         {
           "name": "Stakeholder Analysis",
           "description": "Detailed stakeholder identification and management strategy",
-          "path": "project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template.md",
           "category": "initiation",
           "methodology": ["traditional", "agile", "hybrid"],
           "projectTypes": ["all"],
@@ -73,7 +73,7 @@
         {
           "name": "Risk Management Plan",
           "description": "Comprehensive risk identification and mitigation strategy",
-          "path": "project-lifecycle/02-planning/risk-management/risk-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/risk-management/risk-management-plan-template.md",
           "category": "planning",
           "methodology": ["traditional", "hybrid"],
           "projectTypes": ["all"],
@@ -86,7 +86,7 @@
         {
           "name": "Program Charter",
           "description": "Multi-project program definition and governance",
-          "path": "role-based-toolkits/program-manager/program-charter-template.md",
+          "path": "templates/role-based/program-manager/program-charter-template.md",
           "category": "initiation",
           "methodology": ["traditional", "hybrid"],
           "projectTypes": ["all"],
@@ -97,7 +97,7 @@
         {
           "name": "Enterprise Risk Framework",
           "description": "Organization-wide risk management framework",
-          "path": "business-stakeholder-suite/risk-governance/enterprise-risk-framework.md",
+          "path": "templates/business-stakeholder/risk-governance/enterprise-risk-framework.md",
           "category": "governance",
           "methodology": ["traditional", "hybrid"],
           "projectTypes": ["organizational-change", "business-process"],
@@ -123,7 +123,7 @@
         {
           "name": "Daily Standup Template",
           "description": "Track daily progress and remove impediments",
-          "path": "role-based-toolkits/scrum-master/daily-standup-template.md",
+          "path": "templates/role-based/scrum-master/daily-standup-template.md",
           "category": "execution",
           "methodology": ["agile"],
           "projectTypes": ["software", "product-launch"],
@@ -147,7 +147,7 @@
         {
           "name": "Work Breakdown Structure",
           "description": "Decompose project work into manageable components",
-          "path": "project-lifecycle/02-planning/work-breakdown-structure/wbs-template.md",
+          "path": "templates/project-lifecycle/02-planning/work-breakdown-structure/wbs-template.md",
           "category": "planning",
           "methodology": ["traditional"],
           "projectTypes": ["construction", "business-process"],
@@ -158,7 +158,7 @@
         {
           "name": "Gantt Chart Template",
           "description": "Visual project timeline with dependencies",
-          "path": "project-lifecycle/02-planning/schedule-planning/gantt-template.md",
+          "path": "templates/project-lifecycle/02-planning/schedule-planning/gantt-template.md",
           "category": "planning",
           "methodology": ["traditional"],
           "projectTypes": ["construction", "business-process"],
@@ -169,7 +169,7 @@
         {
           "name": "Change Control Process",
           "description": "Formal change management and approval process",
-          "path": "project-lifecycle/04-monitoring-control/change-management/change-control-template.md",
+          "path": "templates/project-lifecycle/04-monitoring-control/change-management/change-control-template.md",
           "category": "monitoring",
           "methodology": ["traditional"],
           "projectTypes": ["all"],
@@ -219,7 +219,7 @@
         {
           "name": "Technical Documentation Template",
           "description": "Document technical decisions and architecture",
-          "path": "role-based-toolkits/technical-lead/technical-documentation-template.md",
+          "path": "templates/role-based/technical-lead/technical-documentation-template.md",
           "category": "documentation",
           "methodology": ["agile", "traditional"],
           "projectTypes": ["software"],
@@ -232,7 +232,7 @@
         {
           "name": "Process Mapping Template",
           "description": "Map current and future state business processes",
-          "path": "business-stakeholder-suite/process-improvement/process-mapping-template.md",
+          "path": "templates/business-stakeholder/process-improvement/process-mapping-template.md",
           "category": "analysis",
           "methodology": ["traditional", "hybrid"],
           "projectTypes": ["business-process"],
@@ -256,7 +256,7 @@
         {
           "name": "Go-to-Market Strategy",
           "description": "Plan product launch and market entry strategy",
-          "path": "role-based-toolkits/product-manager/go-to-market-template.md",
+          "path": "templates/role-based/product-manager/go-to-market-template.md",
           "category": "planning",
           "methodology": ["agile", "hybrid"],
           "projectTypes": ["product-launch", "marketing"],
@@ -267,7 +267,7 @@
         {
           "name": "Product Roadmap Template",
           "description": "Visual product development and feature roadmap",
-          "path": "role-based-toolkits/product-owner/product-roadmap-template.md",
+          "path": "templates/role-based/product-owner/product-roadmap-template.md",
           "category": "planning",
           "methodology": ["agile"],
           "projectTypes": ["product-launch", "software"],
@@ -293,7 +293,7 @@
         {
           "name": "Portfolio Management Framework",
           "description": "Manage multiple projects and programs",
-          "path": "role-based-toolkits/portfolio-manager/portfolio-framework-template.md",
+          "path": "templates/role-based/portfolio-manager/portfolio-framework-template.md",
           "category": "governance",
           "methodology": ["traditional", "hybrid"],
           "projectTypes": ["all"],
@@ -308,7 +308,7 @@
         {
           "name": "Agile Ceremonies Guide",
           "description": "Complete guide to scrum ceremonies and facilitation",
-          "path": "role-based-toolkits/scrum-master/agile-ceremonies/ceremonies-guide.md",
+          "path": "templates/role-based/scrum-master/agile-ceremonies/ceremonies-guide.md",
           "category": "framework",
           "methodology": ["agile"],
           "projectTypes": ["software", "product-launch"],
@@ -321,7 +321,7 @@
         {
           "name": "User Story Template",
           "description": "Write effective user stories with acceptance criteria",
-          "path": "role-based-toolkits/product-owner/user-story-template.md",
+          "path": "templates/role-based/product-owner/user-story-template.md",
           "category": "requirements",
           "methodology": ["agile"],
           "projectTypes": ["software", "product-launch"],

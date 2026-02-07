@@ -535,10 +535,10 @@ This document defines the infrastructure requirements for [Project Name]. It spe
 ## Related Documents and Resources
 
 ### Reference Documents
-- [Project Charter](../../project-lifecycle/01-initiation/project-charter/)
+- [Project Charter](../../templates/project-lifecycle/01-initiation/project-charter/)
 - [Technical Architecture Document](../../essential-templates/technical-architecture/)
 - [Security Requirements](../../essential-templates/security-requirements/)
-- [Budget and Cost Plan](../../project-lifecycle/02-planning/budget-planning/)
+- [Budget and Cost Plan](../../templates/project-lifecycle/02-planning/budget-planning/)
 
 ### Infrastructure Templates
 - [Deployment Checklist Template](./deployment-checklist-template.md)

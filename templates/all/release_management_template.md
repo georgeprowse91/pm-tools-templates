@@ -849,7 +849,7 @@ tool_stack:
 - [DevOps Metrics Dashboard](./devops_metrics_template.md)
 - [Infrastructure as Code](./infrastructure_as_code_template.md)
 - [DevSecOps Integration](./devsecops_template.md)
-- [DevOps Engineer Toolkit](../../role-based-toolkits/devops-engineer/README.md)
+- [DevOps Engineer Toolkit](../../templates/role-based/devops-engineer/README.md)
 
 ---
 
