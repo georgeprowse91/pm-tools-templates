@@ -245,9 +245,9 @@ Explore: `Templates/program-management/` → Multi-project coordination tools
 
 ### **Within This Repository:**
 - [`/Hybrid/`](../Hybrid/) - Hybrid methodology combining traditional and agile
-- [`/project-lifecycle/`](../project-lifecycle/) - Detailed lifecycle templates
-- [`/role-based-toolkits/project-manager/`](../role-based-toolkits/project-manager/) - PM-specific tools
-- [`/business-stakeholder-suite/`](../business-stakeholder-suite/) - Executive reporting tools
+- [`/templates/project-lifecycle/`](../templates/project-lifecycle/) - Detailed lifecycle templates
+- [`/templates/role-based/project-manager/`](../templates/role-based/project-manager/) - PM-specific tools
+- [`/templates/business-stakeholder/`](../templates/business-stakeholder/) - Executive reporting tools
 
 ### **External Standards & Certifications:**
 - [Industry Standard.org](https://pmi.org) - Project Management Community resources

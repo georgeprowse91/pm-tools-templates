@@ -15,7 +15,7 @@
 
 title: "Sprint Retrospective Template"
 
-[**➡️ View Template File**](/role-based-toolkits/scrum-master/agile-ceremonies/sprint-retrospective-template.md)
+[**➡️ View Template File**](/templates/role-based/scrum-master/agile-ceremonies/sprint-retrospective-template.md)
 
 ## 📈 Quality Score
 

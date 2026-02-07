@@ -100,7 +100,7 @@ Knowing your stakeholders and their needs is critical to project success. This s
 
 ---
 
-*This is a simplified version. For complex projects with many stakeholders, use the [full stakeholder management toolkit](../../role-based-toolkits/project-manager/stakeholder-engagement/).*
+*This is a simplified version. For complex projects with many stakeholders, use the [full stakeholder management toolkit](../../templates/role-based/project-manager/stakeholder-engagement/).*
 
 **Next Steps:** Use this information to create your [Communication Plan](communication-plan-simple.md)
 

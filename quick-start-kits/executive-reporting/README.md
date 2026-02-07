@@ -17,5 +17,5 @@ Quick start kit for executive-level project reporting and dashboards.
 
 ---
 Related Resources:
-- [Business Stakeholder Suite](../../business-stakeholder-suite/)
-- [Executive Dashboards](../../business-stakeholder-suite/executive-dashboards/)
+- [Business Stakeholder Suite](../../templates/business-stakeholder/)
+- [Executive Dashboards](../../templates/business-stakeholder/executive-dashboards/)

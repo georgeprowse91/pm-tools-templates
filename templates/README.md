@@ -219,7 +219,7 @@ Notes
 - [`/Agile/`](../Agile/) - Complete agile methodology toolkit
 - [`/Traditional/`](../Traditional/) - Full Traditional-aligned resources
 - [`/Hybrid/`](../Hybrid/) - Hybrid methodology frameworks
-- [`/role-based-toolkits/`](../role-based-toolkits/) - Role-specific template collections
+- [`/templates/role-based/`](../templates/role-based/) - Role-specific template collections
 - [`/industry-specializations/`](../industry-specializations/) - Industry-adapted templates
 
 ### **Template Development:**

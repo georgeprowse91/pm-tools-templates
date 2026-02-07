@@ -198,7 +198,7 @@ Briefly describe your contribution and its purpose.
 - **Industry**: (IT/Healthcare/Finance/Construction/Universal/etc.)
 - **Complexity Level**: (Beginner/Intermediate/Advanced)
 - **Software Requirements**: (Excel 2016+/Word/PowerPoint/etc.)
-- **Location in Repository**: (quick-start-kits/project-lifecycle/etc.)
+- **Location in Repository**: (quick-start-kits/templates/project-lifecycle/etc.)
 
 ## 🧪 Testing Performed
 

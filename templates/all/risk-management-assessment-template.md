@@ -69,5 +69,5 @@ This template provides a comprehensive framework for assessing risk management e
 - [ ] Reporting and communication effectiveness
 
 Related Resources:
-- [Risk Management Plan](../project-lifecycle/02-planning/risk-management/)
+- [Risk Management Plan](../templates/project-lifecycle/02-planning/risk-management/)
 - [Governance Assessment](./governance-assessment-template.md)

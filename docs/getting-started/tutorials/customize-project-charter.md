@@ -5,7 +5,7 @@ Prerequisites
 - Repository cloned locally
 
 Steps
-1. Choose a project charter template under templates/ or role-based-toolkits/project-manager/.
+1. Choose a project charter template under templates/ or templates/role-based/project-manager/.
 2. Copy the template to your project-docs/ folder.
 3. Fill in the mandatory sections (scope, stakeholders, success criteria).
 4. Validate links and anchors using the repo link-check workflow (docs-link-check).

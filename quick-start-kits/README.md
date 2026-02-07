@@ -271,7 +271,7 @@ quick-start-kits/
 
 ### **Within This Repository:**
 - [`/templates/`](../templates/) - Individual templates for custom kit creation
-- [`/role-based-toolkits/`](../role-based-toolkits/) - Role-specific tool collections
+- [`/templates/role-based/`](../templates/role-based/) - Role-specific tool collections
 - [`/methodology-frameworks/`](../methodology-frameworks/) - Methodology comparison guides
 - [`/industry-specializations/`](../industry-specializations/) - Industry-adapted templates
 

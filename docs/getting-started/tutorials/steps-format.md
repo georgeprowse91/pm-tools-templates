@@ -10,7 +10,7 @@ version: 0.1
 steps:
   - id: select-template
     title: Select a status report template
-    action: "Open role-based-toolkits/project-manager/status-report.md and copy to your project"
+    action: "Open templates/role-based/project-manager/status-report.md and copy to your project"
     validate:
       - "File exists in project-docs/"
   - id: configure-workflow

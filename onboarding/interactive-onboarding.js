@@ -373,9 +373,9 @@ Need help? Check out:
             );
         } else {
             recommendations.essential.push(
-                { name: 'Project Charter', description: 'Comprehensive project definition', path: 'project-lifecycle/01-initiation/project-charter/project-charter-template.md' },
-                { name: 'Stakeholder Analysis', description: 'Detailed stakeholder management', path: 'project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template.md' },
-                { name: 'Risk Register', description: 'Identify and manage project risks', path: 'project-lifecycle/02-planning/risk-management/risk-register-template.md' }
+                { name: 'Project Charter', description: 'Comprehensive project definition', path: 'templates/project-lifecycle/01-initiation/project-charter/project-charter-template.md' },
+                { name: 'Stakeholder Analysis', description: 'Detailed stakeholder management', path: 'templates/project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template.md' },
+                { name: 'Risk Register', description: 'Identify and manage project risks', path: 'templates/project-lifecycle/02-planning/risk-management/risk-register-template.md' }
             );
         }
 
@@ -383,14 +383,14 @@ Need help? Check out:
         if (this.userProfile.methodology.includes('Agile')) {
             recommendations.essential.push(
                 { name: 'Sprint Planning Template', description: 'Plan agile sprints effectively', path: 'methodology-frameworks/agile-scrum/sprint-planning-template.md' },
-                { name: 'Daily Standup Notes', description: 'Track daily progress', path: 'role-based-toolkits/scrum-master/daily-standup-template.md' }
+                { name: 'Daily Standup Notes', description: 'Track daily progress', path: 'templates/role-based/scrum-master/daily-standup-template.md' }
             );
         }
 
         if (this.userProfile.methodology.includes('Traditional')) {
             recommendations.essential.push(
-                { name: 'Work Breakdown Structure', description: 'Decompose project work', path: 'project-lifecycle/02-planning/work-breakdown-structure/wbs-template.md' },
-                { name: 'Gantt Chart Template', description: 'Visual project timeline', path: 'project-lifecycle/02-planning/schedule-planning/gantt-template.md' }
+                { name: 'Work Breakdown Structure', description: 'Decompose project work', path: 'templates/project-lifecycle/02-planning/work-breakdown-structure/wbs-template.md' },
+                { name: 'Gantt Chart Template', description: 'Visual project timeline', path: 'templates/project-lifecycle/02-planning/schedule-planning/gantt-template.md' }
             );
         }
 
@@ -398,13 +398,13 @@ Need help? Check out:
         if (this.userProfile.projectType.includes('Software')) {
             recommendations.suggested.push(
                 { name: 'DevOps Integration Guide', description: 'Integrate with development processes', path: 'integration_guides/devops-integration.md' },
-                { name: 'Technical Documentation Template', description: 'Document technical decisions', path: 'role-based-toolkits/technical-lead/documentation-templates.md' }
+                { name: 'Technical Documentation Template', description: 'Document technical decisions', path: 'templates/role-based/technical-lead/documentation-templates.md' }
             );
         }
 
         if (this.userProfile.projectType.includes('Business Process')) {
             recommendations.suggested.push(
-                { name: 'Process Mapping Template', description: 'Map current and future processes', path: 'business-stakeholder-suite/process-improvement/process-mapping-template.md' },
+                { name: 'Process Mapping Template', description: 'Map current and future processes', path: 'templates/business-stakeholder/process-improvement/process-mapping-template.md' },
                 { name: 'Change Management Plan', description: 'Manage organizational change', path: 'quick-start-kits/agile-transformation/change-management-plan.md' }
             );
         }

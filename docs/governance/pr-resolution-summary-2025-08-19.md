@@ -25,7 +25,7 @@ Successfully analyzed and resolved **all 3 open Pull Requests** in the mirichard
 - **Impact**: Resolved Issue #42 - Portfolio Management Suite
 - **Artifacts Created**:
   ```
-  role-based-toolkits/program-manager/portfolio-management/
+  templates/role-based/program-manager/portfolio-management/
   ├── README.md
   ├── portfolio-kanban.md
   ├── prioritization-model.md  
@@ -42,7 +42,7 @@ Successfully analyzed and resolved **all 3 open Pull Requests** in the mirichard
 - **Impact**: Resolved Issues #43, #44, #45, #46 simultaneously
 - **Artifacts Created**:
   ```
-  role-based-toolkits/program-manager/
+  templates/role-based/program-manager/
   ├── benefits-realization/
   │   ├── README.md
   │   ├── benefits-realization-plan.md

@@ -40,7 +40,7 @@ Comprehensive kit for onboarding new project stakeholders efficiently and effect
 ## Templates and Resources
 - [Stakeholder Register Simple](first-time-pm-starter/stakeholder-register-simple.md)
 - [Communication Plan Simple](first-time-pm-starter/communication-plan-simple.md)
-- [Stakeholder Analysis](../project-lifecycle/01-initiation/stakeholder-analysis/)
+- [Stakeholder Analysis](../templates/project-lifecycle/01-initiation/stakeholder-analysis/)
 
 ---
 **Success Tip:** Effective stakeholder onboarding sets the foundation for project success. Invest time upfront to ensure stakeholders are informed, engaged, and aligned.

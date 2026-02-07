@@ -368,8 +368,8 @@ This deployment checklist ensures all critical activities are completed for a su
 
 ### Supporting Documentation
 - [Change Management Process](../../essential-templates/change-management/)
-- [Risk Management Plan](../../project-lifecycle/02-planning/risk-management/)
-- [Communication Plan](../../project-lifecycle/02-planning/communication-planning/)
+- [Risk Management Plan](../../templates/project-lifecycle/02-planning/risk-management/)
+- [Communication Plan](../../templates/project-lifecycle/02-planning/communication-planning/)
 
 ### Industry-Specific Considerations
 - [Healthcare Deployment](../../industry-specializations/healthcare-pharmaceutical/validation/)

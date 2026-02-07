@@ -4,7 +4,7 @@
 Create foundational templates for connecting to Power BI, supporting data models, and dashboards tailored to executive metrics.
 
 ### Files Organized Under:
-- `/business-stakeholder-suite/executive-dashboards/powerbi-integration/`
+- `/templates/business-stakeholder/executive-dashboards/powerbi-integration/`
 
 ## Templates
 1. **.pbix File Templates** - Base Power BI templates for dashboards.

@@ -113,7 +113,7 @@ class TemplateGenerator {
 
   getTemplateSourceMap(methodology) {
     return {
-      agile: 'role-based-toolkits/scrum-master/agile-ceremonies',
+      agile: 'templates/role-based/scrum-master/agile-ceremonies',
       traditional: 'Traditional/Templates',
       hybrid: 'Hybrid/Templates'
     }[methodology] || 'Traditional/Templates';

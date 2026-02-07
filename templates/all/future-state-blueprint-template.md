@@ -524,7 +524,7 @@ CEO/Executive Level:
 
 - [Current State Analysis Template](./current-state-analysis-template.md)
 - [Gap Analysis Framework](./gap-analysis-framework.md)
-- [Implementation Planning Template](../project-lifecycle/02-planning/implementation-planning-template.md)
+- [Implementation Planning Template](../templates/project-lifecycle/02-planning/implementation-planning-template.md)
 - [Change Management Plan](../organizational-change/change-management-plan-template.md)
 
 

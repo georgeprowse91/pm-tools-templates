@@ -74,7 +74,7 @@
 - Audience-specific configurations
 - Update frequency optimization
 - Component recommendations
-- Integration with existing business-stakeholder-suite/
+- Integration with existing templates/business-stakeholder/
 
 ### **4. Data Collection for AI Training**
 
@@ -125,9 +125,9 @@
 | Component | Status | Integration Level |
 |-----------|--------|------------------|
 | **ai-insights/** | ✅ Connected | Mock mode (ready for real AI) |
-| **business-stakeholder-suite/** | ✅ Connected | Full dashboard generation |
+| **templates/business-stakeholder/** | ✅ Connected | Full dashboard generation |
 | **methodology-frameworks/** | ✅ Connected | Template discovery & practices |
-| **role-based-toolkits/** | ✅ Connected | Toolkit recommendations |
+| **templates/role-based/** | ✅ Connected | Toolkit recommendations |
 | **industry-specializations/** | ✅ Connected | Industry-specific guidance |
 | **integration_guides/** | ✅ Connected | Tool integration recommendations |
 

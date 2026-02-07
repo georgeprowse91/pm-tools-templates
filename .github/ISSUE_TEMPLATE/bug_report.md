@@ -12,7 +12,7 @@ A clear and concise description of what the bug is.
 
 ## 📋 Template Information
 **Template Name:** 
-**Template Location:** (e.g., `project-lifecycle/01-initiation/project-charter/`)
+**Template Location:** (e.g., `templates/project-lifecycle/01-initiation/project-charter/`)
 **File Type:** (e.g., .docx, .xlsx, .md)
 
 ## 🔍 Steps to Reproduce

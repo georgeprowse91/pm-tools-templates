@@ -36,15 +36,15 @@
    ├── 🟡 getting-started/       # Good structure, some content
    └── 🟡 methodology-guides/    # Planned expansion
 
-📁 business-stakeholder-suite/  # 🟡 Structure ready, content coming
+📁 templates/business-stakeholder/  # 🟡 Structure ready, content coming
 📁 methodology-frameworks/      # 🟡 Structure ready, content coming
 ```
 
 ### 🔴 **RED** - Avoid for Now (Placeholder Structure)
 
 ```
-📁 project-lifecycle/          # 🔴 Empty directories
-📁 role-based-toolkits/        # 🔴 Empty directories
+📁 templates/project-lifecycle/          # 🔴 Empty directories
+📁 templates/role-based/        # 🔴 Empty directories
 📁 integration-toolkits/       # 🔴 Empty directories
 📁 industry-specializations/   # 🔴 Empty directories
 📁 organizational-frameworks/  # 🔴 Empty directories
@@ -77,7 +77,7 @@
 ```
 1️⃣ Check: Traditional/Templates/
 2️⃣ Look for: *dashboard*, *report*, *executive*
-3️⃣ Wait for: business-stakeholder-suite/ (coming soon)
+3️⃣ Wait for: templates/business-stakeholder/ (coming soon)
 ```
 
 ## 🔍 **Search Patterns**
@@ -111,8 +111,8 @@ Closing Project   → Traditional/Process_Groups/Closing/
 ## 🚫 **Common Mistakes to Avoid**
 
 ### ❌ **DON'T** go here (yet):
-- `project-lifecycle/` folders - Empty!
-- `role-based-toolkits/` folders - Empty!
+- `templates/project-lifecycle/` folders - Empty!
+- `templates/role-based/` folders - Empty!
 - `integration-toolkits/` folders - Doesn't exist yet!
 
 ### ✅ **DO** go here instead:
@@ -142,9 +142,9 @@ Closing Project   → Traditional/Process_Groups/Closing/
 | Hybrid/ | 🟢 Complete | ✅ Yes | Ready |
 | industry_templates/ | 🟢 Complete | ✅ Yes | Ready |
 | docs/getting-started/ | 🟡 Partial | ⚠️ Some content | In progress |
-| project-lifecycle/ | 🔴 Empty | ❌ No | 2 weeks |
-| role-based-toolkits/ | 🔴 Empty | ❌ No | 2 weeks |
-| business-stakeholder-suite/ | 🔴 Empty | ❌ No | 3 weeks |
+| templates/project-lifecycle/ | 🔴 Empty | ❌ No | 2 weeks |
+| templates/role-based/ | 🔴 Empty | ❌ No | 2 weeks |
+| templates/business-stakeholder/ | 🔴 Empty | ❌ No | 3 weeks |
 
 ## 🆘 **Need Immediate Help?**
 

@@ -368,8 +368,8 @@ organizational-frameworks/
 
 ### **Within This Repository:**
 - [`/Hybrid/`](../Hybrid/) - Hybrid methodologies for organizational transformation
-- [`/role-based-toolkits/`](../role-based-toolkits/) - Role-specific change management tools
-- [`/business-stakeholder-suite/`](../business-stakeholder-suite/) - Executive communication tools
+- [`/templates/role-based/`](../templates/role-based/) - Role-specific change management tools
+- [`/templates/business-stakeholder/`](../templates/business-stakeholder/) - Executive communication tools
 - [`/templates/`](../templates/) - Individual templates for organizational change
 
 ### **External Standards & Frameworks:**

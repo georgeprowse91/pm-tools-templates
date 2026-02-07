@@ -1,13 +1,13 @@
 # Methodology-Specific Program Templates
 
-Guidance and template mappings for Traditional, Agile-at-Scale, and Hybrid program delivery. These map to canonical artifacts in templates/ and role-based-toolkits/.
+Guidance and template mappings for Traditional, Agile-at-Scale, and Hybrid program delivery. These map to canonical artifacts in templates/ and templates/role-based/.
 
 ## Traditional
 - Program Charter → templates/program_charter_template.md
 - Program Management Plan → templates/program_management_plan_template.md
 - Program Roadmap → templates/project_roadmap_template.md
 - Risk Management → templates/risk_register_template.md, risk-management-plan
-- Communications → role-based-toolkits/program-manager/communications
+- Communications → templates/role-based/program-manager/communications
 
 ## Agile at Scale
 - Program Charter (Lean Business Case) → templates/business_case_template.md

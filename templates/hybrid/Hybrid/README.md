@@ -277,7 +277,7 @@ Located in: `MPP-Jira-Integration/`
 ### **Within This Repository:**
 - [`/Agile/`](../Agile/) - Pure agile methodology templates and tools
 - [`/Traditional/`](../Traditional/) - Traditional-aligned project management
-- [`/role-based-toolkits/`](../role-based-toolkits/) - Role-specific hybrid tools
+- [`/templates/role-based/`](../templates/role-based/) - Role-specific hybrid tools
 - [`/methodology-frameworks/`](../methodology-frameworks/) - Comparative methodology guidance
 
 ### **External Standards & Frameworks:**

@@ -356,12 +356,12 @@ Key Results:
 ### Collaboration Tools
 1. **[Scrum Master Ceremonies](../scrum-master/agile-ceremonies/)** - Sprint planning and reviews
 2. **[Project Manager Templates](../project-manager/)** - Cross-functional coordination
-3. **[Business Stakeholder Suite](../../business-stakeholder-suite/)** - Executive communication
+3. **[Business Stakeholder Suite](../../templates/business-stakeholder/)** - Executive communication
 
 ### Development Integration
-1. **[Project Lifecycle Templates](../../project-lifecycle/)** - Overall project management
+1. **[Project Lifecycle Templates](../../templates/project-lifecycle/)** - Overall project management
 2. **[Agile Methodologies](../../methodology-frameworks/agile-scrum/)** - Process frameworks
-3. **[Quality Management](../../project-lifecycle/02-planning/quality-management/)** - Acceptance and testing
+3. **[Quality Management](../../templates/project-lifecycle/02-planning/quality-management/)** - Acceptance and testing
 
 ---
 

@@ -369,7 +369,7 @@ Projects using **15+ Essential Templates** show:
 ### **Within This Repository:**
 - [`/templates/`](../templates/) - Complete template library with methodology variations
 - [`/quick-start-kits/`](../quick-start-kits/) - Pre-configured template bundles
-- [`/role-based-toolkits/`](../role-based-toolkits/) - Role-specific template collections
+- [`/templates/role-based/`](../templates/role-based/) - Role-specific template collections
 - [`/methodology-frameworks/`](../methodology-frameworks/) - Methodology-specific guidance
 
 ### **Learning & Development:**

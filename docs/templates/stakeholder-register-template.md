@@ -15,7 +15,7 @@
 
 title: "Stakeholder Register Template"
 
-[**➡️ View Template File**](/project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template.md)
+[**➡️ View Template File**](/templates/project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template.md)
 
 ## 📈 Quality Score
 

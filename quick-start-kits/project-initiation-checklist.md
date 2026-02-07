@@ -191,9 +191,9 @@ This comprehensive project initiation checklist ensures all critical activities 
 - [Risk Register Simple](first-time-pm-starter/risk-register-simple.md)
 
 ### Advanced Planning Resources:
-- [Project Management Plan Template](../project-lifecycle/02-planning/project-management-plan/)
-- [Requirements Management](../project-lifecycle/02-planning/requirements-management/)
-- [Resource Planning](../project-lifecycle/02-planning/resource-planning/)
+- [Project Management Plan Template](../templates/project-lifecycle/02-planning/project-management-plan/)
+- [Requirements Management](../templates/project-lifecycle/02-planning/requirements-management/)
+- [Resource Planning](../templates/project-lifecycle/02-planning/resource-planning/)
 
 ### Methodology-Specific Initiation:
 - [Agile Project Initiation](../methodology-frameworks/agile-scrum/sprint-zero/)

@@ -63,7 +63,7 @@ Our templates are designed with progressive disclosure - start with basics and a
 - Low risk/complexity
 
 #### 📈 Level 2: Professional Project Charter
-**File:** [project-lifecycle/01-initiation/project-charter/project-charter-template.md](../../project-lifecycle/01-initiation/project-charter/)
+**File:** [templates/project-lifecycle/01-initiation/project-charter/project-charter-template.md](../../templates/project-lifecycle/01-initiation/project-charter/)
 
 **Key Features:**
 - Comprehensive business case
@@ -79,7 +79,7 @@ Our templates are designed with progressive disclosure - start with basics and a
 - Medium risk/complexity
 
 #### 🎯 Level 3: Enterprise Project Charter
-**File:** [role-based-toolkits/program-manager/program-governance/program-charter.md](../../role-based-toolkits/program-manager/)
+**File:** [templates/role-based/program-manager/program-governance/program-charter.md](../../templates/role-based/program-manager/)
 
 **Key Features:**
 - Strategic alignment section
@@ -157,26 +157,26 @@ Our templates are designed with progressive disclosure - start with basics and a
 
 | Template Category | Level 1 | Level 2 | Level 3 |
 |-------------------|---------|---------|----------|
-| **Project Charter** | [Simple Charter](../../quick-start-kits/first-time-pm-starter/project-charter-simple.md) | [Professional Charter](../../project-lifecycle/01-initiation/project-charter/) | [Enterprise Charter](../../role-based-toolkits/program-manager/) |
-| **Communication Plan** | [Basic Comm Plan](../../quick-start-kits/first-time-pm-starter/communication-plan-simple.md) | [Stakeholder Engagement](../../project-lifecycle/02-planning/communication-planning/) | [Executive Communication](../../business-stakeholder-suite/communication-automation/) |
-| **Risk Management** | [Simple Risk List](../../quick-start-kits/first-time-pm-starter/risk-register-simple.md) | [Risk Register](../../project-lifecycle/02-planning/risk-management/) | [Enterprise Risk Framework](../../role-based-toolkits/program-manager/) |
-| **Status Reporting** | [Basic Updates](../../quick-start-kits/first-time-pm-starter/status-report-simple.md) | [Professional Reports](../../role-based-toolkits/project-manager/reporting-dashboards/) | [Executive Dashboards](../../business-stakeholder-suite/executive-dashboards/) |
+| **Project Charter** | [Simple Charter](../../quick-start-kits/first-time-pm-starter/project-charter-simple.md) | [Professional Charter](../../templates/project-lifecycle/01-initiation/project-charter/) | [Enterprise Charter](../../templates/role-based/program-manager/) |
+| **Communication Plan** | [Basic Comm Plan](../../quick-start-kits/first-time-pm-starter/communication-plan-simple.md) | [Stakeholder Engagement](../../templates/project-lifecycle/02-planning/communication-planning/) | [Executive Communication](../../templates/business-stakeholder/communication-automation/) |
+| **Risk Management** | [Simple Risk List](../../quick-start-kits/first-time-pm-starter/risk-register-simple.md) | [Risk Register](../../templates/project-lifecycle/02-planning/risk-management/) | [Enterprise Risk Framework](../../templates/role-based/program-manager/) |
+| **Status Reporting** | [Basic Updates](../../quick-start-kits/first-time-pm-starter/status-report-simple.md) | [Professional Reports](../../templates/role-based/project-manager/reporting-dashboards/) | [Executive Dashboards](../../templates/business-stakeholder/executive-dashboards/) |
 
 ### Path 2: Agile Methodology Progression
 
 | Template Category | Level 1 | Level 2 | Level 3 |
 |-------------------|---------|---------|----------|
-| **User Stories** | [Basic Stories](../../methodology-frameworks/agile-scrum/user-story-simple.md) | [Professional Stories](../../role-based-toolkits/product-owner/backlog-management/) | [Epic Management](../../role-based-toolkits/program-manager/) |
-| **Sprint Planning** | [Simple Planning](../../methodology-frameworks/agile-scrum/sprint-planning-simple.md) | [Full Sprint Planning](../../role-based-toolkits/scrum-master/agile-ceremonies/) | [Scaled Planning](../../methodology-frameworks/agile-scrum/scaling-frameworks/) |
-| **Retrospectives** | [Basic Retro](../../methodology-frameworks/agile-scrum/retrospective-simple.md) | [Structured Retrospectives](../../role-based-toolkits/scrum-master/team-development/) | [Organizational Retrospectives](../../organizational-frameworks/continuous-improvement/) |
+| **User Stories** | [Basic Stories](../../methodology-frameworks/agile-scrum/user-story-simple.md) | [Professional Stories](../../templates/role-based/product-owner/backlog-management/) | [Epic Management](../../templates/role-based/program-manager/) |
+| **Sprint Planning** | [Simple Planning](../../methodology-frameworks/agile-scrum/sprint-planning-simple.md) | [Full Sprint Planning](../../templates/role-based/scrum-master/agile-ceremonies/) | [Scaled Planning](../../methodology-frameworks/agile-scrum/scaling-frameworks/) |
+| **Retrospectives** | [Basic Retro](../../methodology-frameworks/agile-scrum/retrospective-simple.md) | [Structured Retrospectives](../../templates/role-based/scrum-master/team-development/) | [Organizational Retrospectives](../../organizational-frameworks/continuous-improvement/) |
 
 ### Path 3: Executive Reporting Progression
 
 | Template Category | Level 1 | Level 2 | Level 3 |
 |-------------------|---------|---------|----------|
-| **Status Updates** | [Email Updates](../../quick-start-kits/first-time-pm-starter/status-report-simple.md) | [Professional Reports](../../business-stakeholder-suite/executive-dashboards/executive-reports/) | [Automated Dashboards](../../business-stakeholder-suite/executive-dashboards/automated-dashboards/) |
-| **Budget Tracking** | [Simple Budget](../../quick-start-kits/first-time-pm-starter/budget-simple.md) | [Financial Reports](../../business-stakeholder-suite/financial-governance/budget-tracking.md) | [Portfolio Financial Management](../../business-stakeholder-suite/financial-governance/portfolio-finance.md) |
-| **Strategic Alignment** | [Basic Business Case](../../project-lifecycle/01-initiation/business-case/) | [ROI Tracking](../../business-stakeholder-suite/financial-governance/roi-tracking.md) | [Portfolio Strategy](../../business-stakeholder-suite/strategic-alignment/) |
+| **Status Updates** | [Email Updates](../../quick-start-kits/first-time-pm-starter/status-report-simple.md) | [Professional Reports](../../templates/business-stakeholder/executive-dashboards/executive-reports/) | [Automated Dashboards](../../templates/business-stakeholder/executive-dashboards/automated-dashboards/) |
+| **Budget Tracking** | [Simple Budget](../../quick-start-kits/first-time-pm-starter/budget-simple.md) | [Financial Reports](../../templates/business-stakeholder/financial-governance/budget-tracking.md) | [Portfolio Financial Management](../../templates/business-stakeholder/financial-governance/portfolio-finance.md) |
+| **Strategic Alignment** | [Basic Business Case](../../templates/project-lifecycle/01-initiation/business-case/) | [ROI Tracking](../../templates/business-stakeholder/financial-governance/roi-tracking.md) | [Portfolio Strategy](../../templates/business-stakeholder/strategic-alignment/) |
 
 ---
 

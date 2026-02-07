@@ -205,8 +205,8 @@ The initiation phase is where project ideas transform into formal, authorized en
 ## 🔗 Integration Touchpoints
 
 ### Strategic Alignment
-1. **[Organizational Strategy](../../business-stakeholder-suite/executive-dashboards/)** - Alignment with business objectives
-2. **[Portfolio Management](../../business-stakeholder-suite/portfolio-oversight/)** - Integration with organizational project portfolio
+1. **[Organizational Strategy](../../templates/business-stakeholder/executive-dashboards/)** - Alignment with business objectives
+2. **[Portfolio Management](../../templates/business-stakeholder/portfolio-oversight/)** - Integration with organizational project portfolio
 3. **[Change Management](../../organizational-frameworks/change-management/)** - Organizational readiness assessment
 
 ### Methodology Integration
