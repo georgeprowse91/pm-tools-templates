@@ -15,7 +15,7 @@
 
 title: "Team Charter Template"
 
-[**➡️ View Template File**](/project-lifecycle/02-planning/resource-planning/team-charter-template.md)
+[**➡️ View Template File**](/templates/all/team-charter-template.md)
 
 ## 📈 Quality Score
 

@@ -15,7 +15,7 @@
 
 title: "Cybersecurity Assessment Template"
 
-[**➡️ View Template File**](/industry-specializations/information-technology/security/cybersecurity_assessment_template.md)
+[**➡️ View Template File**](/templates/all/cybersecurity_assessment_template.md)
 
 ## 📈 Quality Score
 

@@ -15,7 +15,7 @@
 
 title: "Waterfall Project Assessment Template"
 
-[**➡️ View Template File**](/project-assessment-suite/waterfall-project-assessment-template.md)
+[**➡️ View Template File**](/templates/all/waterfall-project-assessment-template.md)
 
 ## 📈 Quality Score
 

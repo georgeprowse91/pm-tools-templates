@@ -15,7 +15,7 @@
 
 title: "Safe Portfolio Kanban Template"
 
-[**➡️ View Template File**](/methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_portfolio_kanban_template.md)
+[**➡️ View Template File**](/templates/all/safe_portfolio_kanban_template.md)
 
 ## 📈 Quality Score
 

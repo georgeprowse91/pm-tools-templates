@@ -15,7 +15,7 @@
 
 title: "Operational Qualification Protocol Template"
 
-[**➡️ View Template File**](/industry-specializations/healthcare-pharmaceutical/validation/operational_qualification_protocol_template.md)
+[**➡️ View Template File**](/templates/all/operational_qualification_protocol_template.md)
 
 ## 📈 Quality Score
 

@@ -15,7 +15,7 @@
 
 title: "Less Sprint Planning Template"
 
-[**➡️ View Template File**](/methodology-frameworks/agile-scrum/scaling-frameworks/less/less_sprint_planning_template.md)
+[**➡️ View Template File**](/templates/all/less_sprint_planning_template.md)
 
 ## 📈 Quality Score
 

@@ -797,8 +797,8 @@ innovation_roi_framework:
 ## Related Templates and Integration Points
 
 ### Template Ecosystem Integration
-- [Design Thinking Workshop Template](../../methodology-frameworks/emerging-methods/design-thinking/design_thinking_workshop_template.md) - Design thinking integration
-- [User Empathy Mapping Template](../../methodology-frameworks/emerging-methods/design-thinking/user_empathy_mapping_template.md) - User research synthesis
+- [Design Thinking Workshop Template](../../templates/all/design_thinking_workshop_template.md) - Design thinking integration
+- [User Empathy Mapping Template](../../templates/all/user_empathy_mapping_template.md) - User research synthesis
 - [Agile Templates](../../agile/templates/) - Agile development integration
 - [Project Charter Templates](../../traditional/process_groups/initiating/project_charter_template.md) - Traditional PM integration
 

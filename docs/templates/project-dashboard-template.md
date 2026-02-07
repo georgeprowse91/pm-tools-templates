@@ -15,7 +15,7 @@
 
 title: "Project Dashboard Template"
 
-[**➡️ View Template File**](/project-lifecycle/04-monitoring-control/progress-tracking/project-dashboard-template.md)
+[**➡️ View Template File**](/templates/all/project-dashboard-template.md)
 
 ## 📈 Quality Score
 

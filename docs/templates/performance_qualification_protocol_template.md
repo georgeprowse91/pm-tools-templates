@@ -15,7 +15,7 @@
 
 title: "Performance Qualification Protocol Template"
 
-[**➡️ View Template File**](/industry-specializations/healthcare-pharmaceutical/validation/performance_qualification_protocol_template.md)
+[**➡️ View Template File**](/templates/all/performance_qualification_protocol_template.md)
 
 ## 📈 Quality Score
 

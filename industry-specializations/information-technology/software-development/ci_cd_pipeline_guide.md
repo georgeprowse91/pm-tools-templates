@@ -311,6 +311,6 @@ alerts:
 
 ---
 Related Resources:
-- [DevOps Pipeline Template](../../../methodology-frameworks/emerging-methods/devops/cicd_pipeline_planning_template.md)
-- [Infrastructure as Code](../../../methodology-frameworks/emerging-methods/devops/infrastructure_as_code_template.md)
+- [DevOps Pipeline Template](../../../templates/all/cicd_pipeline_planning_template.md)
+- [Infrastructure as Code](../../../templates/all/infrastructure_as_code_template.md)
 - [Deployment Checklist](../../../essential-templates/infrastructure/deployment-checklist-template.md)

@@ -15,7 +15,7 @@
 
 title: "Project Management Plan Template"
 
-[**➡️ View Template File**](/templates/traditional/Traditional/Process_Groups/Planning/project_management_plan_template.md)
+[**➡️ View Template File**](/templates/all/project_management_plan_template.md)
 
 ## 📈 Quality Score
 

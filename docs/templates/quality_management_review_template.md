@@ -15,7 +15,7 @@
 
 title: "Quality Management Review Template"
 
-[**➡️ View Template File**](/industry-specializations/healthcare-pharmaceutical/quality/quality_management_review_template.md)
+[**➡️ View Template File**](/templates/all/quality_management_review_template.md)
 
 ## 📈 Quality Score
 

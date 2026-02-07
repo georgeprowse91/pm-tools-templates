@@ -15,7 +15,7 @@
 
 title: "Project Schedule Template"
 
-[**➡️ View Template File**](/templates/traditional/Traditional/Process_Groups/Planning/project_schedule_template.md)
+[**➡️ View Template File**](/templates/all/project_schedule_template.md)
 
 ## 📈 Quality Score
 

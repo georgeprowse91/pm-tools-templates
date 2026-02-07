@@ -15,7 +15,7 @@
 
 title: "Business Requirements Document Template"
 
-[**➡️ View Template File**](/project-lifecycle/02-planning/business-requirements/business_requirements_document_template.md)
+[**➡️ View Template File**](/templates/all/business_requirements_document_template.md)
 
 ## 📈 Quality Score
 

@@ -15,7 +15,7 @@
 
 title: "Sprint Retrospective Template"
 
-[**➡️ View Template File**](/templates/agile/sprint_retrospective_template.md)
+[**➡️ View Template File**](/templates/all/sprint_retrospective_template.md)
 
 ## 📈 Quality Score
 

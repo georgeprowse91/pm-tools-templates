@@ -15,7 +15,7 @@
 
 title: "Gxp Training Plan Template"
 
-[**➡️ View Template File**](/industry-specializations/healthcare-pharmaceutical/compliance/gxp_training_plan_template.md)
+[**➡️ View Template File**](/templates/all/gxp_training_plan_template.md)
 
 ## 📈 Quality Score
 

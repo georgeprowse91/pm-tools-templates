@@ -15,7 +15,7 @@
 
 title: "Health Authority Communication Plan Template"
 
-[**➡️ View Template File**](/industry-specializations/healthcare-pharmaceutical/regulatory/health_authority_communication_plan_template.md)
+[**➡️ View Template File**](/templates/all/health_authority_communication_plan_template.md)
 
 ## 📈 Quality Score
 

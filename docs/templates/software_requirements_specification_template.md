@@ -15,7 +15,7 @@
 
 title: "Software Requirements Specification Template"
 
-[**➡️ View Template File**](/industry-specializations/healthcare-pharmaceutical/validation/software_requirements_specification_template.md)
+[**➡️ View Template File**](/templates/all/software_requirements_specification_template.md)
 
 ## 📈 Quality Score
 

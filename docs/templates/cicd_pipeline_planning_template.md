@@ -15,7 +15,7 @@
 
 title: "Cicd Pipeline Planning Template"
 
-[**➡️ View Template File**](/methodology-frameworks/emerging-methods/devops/cicd_pipeline_planning_template.md)
+[**➡️ View Template File**](/templates/all/cicd_pipeline_planning_template.md)
 
 ## 📈 Quality Score
 

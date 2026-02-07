@@ -15,7 +15,7 @@
 
 title: "Assessment Report Template"
 
-[**➡️ View Template File**](/project-assessment-suite/assessment-report-template.md)
+[**➡️ View Template File**](/templates/all/assessment-report-template.md)
 
 ## 📈 Quality Score
 

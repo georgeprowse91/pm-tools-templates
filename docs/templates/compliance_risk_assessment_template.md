@@ -15,7 +15,7 @@
 
 title: "Compliance Risk Assessment Template"
 
-[**➡️ View Template File**](/industry-specializations/healthcare-pharmaceutical/regulatory/compliance_risk_assessment_template.md)
+[**➡️ View Template File**](/templates/all/compliance_risk_assessment_template.md)
 
 ## 📈 Quality Score
 

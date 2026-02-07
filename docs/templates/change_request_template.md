@@ -15,7 +15,7 @@
 
 title: "Change Request Template"
 
-[**➡️ View Template File**](/templates/traditional/Traditional/Templates/change_request_template.md)
+[**➡️ View Template File**](/templates/all/change_request_template.md)
 
 ## 📈 Quality Score
 

@@ -15,7 +15,7 @@
 
 title: "Enterprise Risk Assessment Template"
 
-[**➡️ View Template File**](/project-lifecycle/02-planning/risk-management/enterprise-risk-assessment-template.md)
+[**➡️ View Template File**](/templates/all/enterprise-risk-assessment-template.md)
 
 ## 📈 Quality Score
 

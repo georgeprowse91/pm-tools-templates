@@ -15,7 +15,7 @@
 
 title: "Devsecops Template"
 
-[**➡️ View Template File**](/methodology-frameworks/emerging-methods/devops/devsecops_template.md)
+[**➡️ View Template File**](/templates/all/devsecops_template.md)
 
 ## 📈 Quality Score
 

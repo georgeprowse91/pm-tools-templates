@@ -15,7 +15,7 @@
 
 title: "Validation Master Plan Template"
 
-[**➡️ View Template File**](/industry-specializations/healthcare-pharmaceutical/validation/validation_master_plan_template.md)
+[**➡️ View Template File**](/templates/all/validation_master_plan_template.md)
 
 ## 📈 Quality Score
 
