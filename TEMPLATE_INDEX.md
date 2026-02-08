@@ -6,11 +6,14 @@
 - Use kebab-case only (no underscores).
 - Use an optional methodology prefix when specific: `agile-`, `hybrid-`, `traditional-`, `safe-`, `less-`.
 - Use the `-template` suffix for template files (e.g., `agile-project-charter-template.md`).
+- When methodology is part of the filename, use `<template-name>-template-<methodology>[ -varN ].md`.
 
 Examples:
 - `agile-project-charter-template.md`
 - `hybrid-risk-register-template.md`
 - `traditional-status-report-template.md`
+- `project-charter-template-agile.md`
+- `risk-register-template-traditional-var2.md`
 
 | Template | Methodology | Complexity |
 |---|---|---|
