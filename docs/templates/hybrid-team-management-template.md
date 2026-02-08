@@ -15,7 +15,7 @@
 
 title: "Hybrid Team Management Template"
 
-[**➡️ View Template File**](/templates/all/hybrid_team_management_template.md)
+[**➡️ View Template File**](/templates/all/hybrid-team-management-template.md)
 
 ## 📈 Quality Score
 

@@ -236,8 +236,8 @@ class MethodologyRecommender {
         'status_report_template.md'
       ],
       hybrid: [
-        'hybrid_project_charter_template.md',
-        'hybrid_release_planning_template.md',
+        'hybrid-project-charter-metadata-template.md',
+        'hybrid-release-planning-template.md',
         'integrated_change_strategy_template.md',
         'progressive_acceptance_plan_template.md'
       ]

@@ -15,7 +15,7 @@
 
 title: "Less Retrospective Template"
 
-[**➡️ View Template File**](/templates/all/less_retrospective_template.md)
+[**➡️ View Template File**](/templates/all/less-retrospective-template.md)
 
 ## 📈 Quality Score
 

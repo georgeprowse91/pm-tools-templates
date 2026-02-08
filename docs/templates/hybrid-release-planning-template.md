@@ -15,7 +15,7 @@
 
 title: "Hybrid Release Planning Template"
 
-[**➡️ View Template File**](/templates/all/hybrid_release_planning_template.md)
+[**➡️ View Template File**](/templates/all/hybrid-release-planning-template.md)
 
 ## 📈 Quality Score
 

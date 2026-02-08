@@ -15,7 +15,7 @@
 
 title: "Hybrid Project Charter Template"
 
-[**➡️ View Template File**](/templates/all/hybrid_project_charter_template.md)
+[**➡️ View Template File**](/templates/all/hybrid-project-charter-metadata-template.md)
 
 ## 📈 Quality Score
 

@@ -468,9 +468,9 @@ Infrastructure:
 ---
 
 ## Related Templates
-- [LeSS Sprint Planning Template](../../templates/all/less_sprint_planning_template.md)
+- [LeSS Sprint Planning Template](../../templates/all/less-sprint-planning-template.md)
 - [Overall Product Backlog Management](../../templates/all/overall_product_backlog_template.md)
-- [LeSS Retrospective Template](../../templates/all/less_retrospective_template.md)
+- [LeSS Retrospective Template](../../templates/all/less-retrospective-template.md)
 - [Cross-Team Coordination Template](../../templates/all/cross_team_coordination_template.md)
 
 ---

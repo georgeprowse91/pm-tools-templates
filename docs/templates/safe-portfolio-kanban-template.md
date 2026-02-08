@@ -15,7 +15,7 @@
 
 title: "Safe Portfolio Kanban Template"
 
-[**➡️ View Template File**](/templates/all/safe_portfolio_kanban_template.md)
+[**➡️ View Template File**](/templates/all/safe-portfolio-kanban-template.md)
 
 ## 📈 Quality Score
 

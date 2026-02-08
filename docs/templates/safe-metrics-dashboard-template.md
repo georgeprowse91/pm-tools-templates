@@ -15,7 +15,7 @@
 
 title: "Safe Metrics Dashboard Template"
 
-[**➡️ View Template File**](/templates/all/safe_metrics_dashboard_template.md)
+[**➡️ View Template File**](/templates/all/safe-metrics-dashboard-template.md)
 
 ## 📈 Quality Score
 

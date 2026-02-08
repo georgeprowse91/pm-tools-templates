@@ -106,10 +106,10 @@ Scaling frameworks extend Agile practices to handle larger, more complex project
 - Enterprises with 50+ team members
 
 **Templates Available:**
-- [SAFe Program Increment Planning Template](../../templates/all/safe_program_increment_planning_template.md)
-- [SAFe Portfolio Kanban Template](../../templates/all/safe_portfolio_kanban_template.md)
-- [SAFe ART Coordination Template](../../templates/all/safe_art_coordination_template.md)
-- [SAFe Metrics Dashboard Template](../../templates/all/safe_metrics_dashboard_template.md)
+- [SAFe Program Increment Planning Template](../../templates/all/safe-program-increment-planning-template.md)
+- [SAFe Portfolio Kanban Template](../../templates/all/safe-portfolio-kanban-template.md)
+- [SAFe ART Coordination Template](../../templates/all/safe-art-coordination-template.md)
+- [SAFe Metrics Dashboard Template](../../templates/all/safe-metrics-dashboard-template.md)
 
 #### LeSS (Large-Scale Scrum)
 
@@ -120,8 +120,8 @@ Scaling frameworks extend Agile practices to handle larger, more complex project
 - Organizations wanting to stay close to Scrum principles
 
 **Templates Available:**
-- [LeSS Sprint Planning Template](../../templates/all/less_sprint_planning_template.md)
-- [LeSS Retrospective Template](../../templates/all/less_retrospective_template.md)
+- [LeSS Sprint Planning Template](../../templates/all/less-sprint-planning-template.md)
+- [LeSS Retrospective Template](../../templates/all/less-retrospective-template.md)
 - [Cross Team Coordination Template](../../templates/all/cross_team_coordination_template.md)
 - [Overall Product Backlog Template](../../templates/all/overall_product_backlog_template.md)
 

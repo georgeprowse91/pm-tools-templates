@@ -572,10 +572,10 @@ Portfolio ROI Trend (12 Months)
 ## 🔗 Related Templates and Resources
 
 ### SAFe Templates
-- [SAFe Metrics Dashboard Template](./safe_metrics_dashboard_template.md)
-- [PI Planning Template](./safe_program_increment_planning_template.md)
-- [Portfolio Kanban Template](./safe_portfolio_kanban_template.md)
-- [ART Coordination Template](./safe_art_coordination_template.md)
+- [SAFe Metrics Dashboard Template](./safe-metrics-dashboard-template.md)
+- [PI Planning Template](./safe-program-increment-planning-template.md)
+- [Portfolio Kanban Template](./safe-portfolio-kanban-template.md)
+- [ART Coordination Template](./safe-art-coordination-template.md)
 
 ### External Resources
 - **SAFe Framework:** [www.scaledagileframework.com](https://www.scaledagileframework.com/)
