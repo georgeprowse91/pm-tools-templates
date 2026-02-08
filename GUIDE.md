@@ -103,7 +103,7 @@ This guide will help you understand:
 | **Communication Plan** | Framework for project communications with stakeholders | Early planning stages | `Traditional/Templates/communication_plan_template.md` |
 | **Risk Register** | Documentation and management of project risks | Throughout project lifecycle | `Traditional/Templates/risk_register_template.md` |
 | **Issue Log** | Tracking and resolution of project issues | During project execution | `Traditional/Templates/issue_log_template.md` |
-| **Change Request Form** | Formal documentation and approval of project changes | When changes to baseline are needed | `Traditional/Templates/change_request_template.md` |
+| **Change Request Form** | Formal documentation and approval of project changes | When changes to baseline are needed | `Traditional/Templates/change-request-template-template-general.md` |
 
 ### Agile Templates
 

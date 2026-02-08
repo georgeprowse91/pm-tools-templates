@@ -15,7 +15,7 @@
 
 title: "Agile Risk Board Template"
 
-[**➡️ View Template File**](/templates/all/agile-risk-board-template.md)
+[**➡️ View Template File**](/templates/all/agile-risk-board-template-template-agile.md)
 
 ## 📈 Quality Score
 

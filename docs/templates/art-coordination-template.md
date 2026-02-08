@@ -15,7 +15,7 @@
 
 title: "Art Coordination Template"
 
-[**➡️ View Template File**](/templates/all/art_coordination_template.md)
+[**➡️ View Template File**](/templates/all/art-coordination-template-template-general.md)
 
 ## 📈 Quality Score
 

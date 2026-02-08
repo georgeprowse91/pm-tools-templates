@@ -53,7 +53,7 @@ Healthcare and pharmaceutical projects operate under strict regulatory oversight
 
 - [GxP Compliance Checklist](./compliance/gxp_compliance_checklist.md) - Comprehensive checklist covering GLP, GCP, GMP requirements
 - [GxP Training Plan Template](./compliance/gxp_training_plan_template.md) - Framework for staff training on Good Practice guidelines
-- [CAPA Management Template](./compliance/capa_management_template.md) - Template for managing Corrective and Preventive Actions
+- [CAPA Management Template](./compliance/capa-management-template-template-general.md) - Template for managing Corrective and Preventive Actions
 
 ### Validation Requirements
 

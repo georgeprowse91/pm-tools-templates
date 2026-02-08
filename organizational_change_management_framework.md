@@ -75,7 +75,7 @@ This framework provides a comprehensive approach to managing organizational chan
 ### Traditional Templates
 - [Change Readiness Assessment](/templates/traditional/Tools/change_readiness_assessment.md)
 - [Stakeholder Impact Analysis](/templates/traditional/Tools/stakeholder_impact_analysis.md)
-- [Change Management Plan](/templates/traditional/Templates/change_management_plan_template.md)
+- [Change Management Plan](/templates/traditional/Templates/change-management-plan-template-template-general.md)
 - [Training Plan Template](/templates/traditional/Templates/training_plan_template.md)
 - [Change Communication Plan](/templates/traditional/Templates/change_communication_plan_template.md)
 

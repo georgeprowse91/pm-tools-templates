@@ -12,14 +12,14 @@ This section provides robust financial governance frameworks, advanced business 
 <a id="enhanced-business-casesenhanced-business-cases"></a>
 ### [Enhanced Business Cases](enhanced-business-cases/)
 **Enterprise-grade financial analysis frameworks**
-- **[Advanced Business Case Template](enhanced-business-cases/advanced-business-case-template.md)** - Comprehensive investment justification with multi-dimensional analysis
+- **[Advanced Business Case Template](enhanced-business-cases/advanced-business-case-template-template-general.md)** - Comprehensive investment justification with multi-dimensional analysis
 - **[Value Analysis Framework](enhanced-business-cases/value-analysis-framework.md)** - Systematic value engineering and cost-benefit optimization
 - **[EVM Dashboard Template](enhanced-business-cases/evm-dashboard-template.md)** - Professional Earned Value Management tracking with advanced KPIs
 - **[Financial Performance Tracker](enhanced-business-cases/financial-performance-tracker.md)** - Comprehensive financial monitoring and control
 
 <a id="budget-tracking-control"></a>
 ### Budget Tracking & Control
-- **[Budget Dashboard Template](budget-dashboard-template.md)** - Real-time budget monitoring and variance analysis
+- **[Budget Dashboard Template](budget-dashboard-template-template-general.md)** - Real-time budget monitoring and variance analysis
 - **[Cost Management Framework](cost-management-framework.md)** - Proactive cost control and optimization
 - **[Cash Flow Management](cash-flow-management.md)** - Liquidity planning and funding oversight
 
@@ -64,7 +64,7 @@ This section provides robust financial governance frameworks, advanced business 
 
 <a id="week-1-business-case-development"></a>
 ### Week 1: Business Case Development
-1. **[Advanced Business Case](enhanced-business-cases/advanced-business-case-template.md)** - Complete comprehensive investment analysis
+1. **[Advanced Business Case](enhanced-business-cases/advanced-business-case-template-template-general.md)** - Complete comprehensive investment analysis
 2. **[Value Analysis](enhanced-business-cases/value-analysis-framework.md)** - Optimize investment approach and cost structure
 3. **Executive presentation** preparation and stakeholder alignment
 
@@ -72,7 +72,7 @@ This section provides robust financial governance frameworks, advanced business 
 ### Week 2: Financial Framework Setup
 1. **[EVM Dashboard](enhanced-business-cases/evm-dashboard-template.md)** - Establish performance baselines and tracking
 2. **[Performance Tracker](enhanced-business-cases/financial-performance-tracker.md)** - Set up ongoing monitoring systems
-3. **[Budget Controls](budget-dashboard-template.md)** - Implement cost management frameworks
+3. **[Budget Controls](budget-dashboard-template-template-general.md)** - Implement cost management frameworks
 
 <a id="week-3-governance-implementation"></a>
 ### Week 3: Governance Implementation

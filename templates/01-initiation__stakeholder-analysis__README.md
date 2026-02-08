@@ -30,7 +30,7 @@ Effective stakeholder management is often the difference between project success
 - Perfect for all project types and methodologies
 
 ### Agile Stakeholder Map
-**[→ Download: Agile Stakeholder Map Template](agile-stakeholder-map-template.md)**
+**[→ Download: Agile Stakeholder Map Template](agile-stakeholder-map-template-template-agile.md)**
 - Visual stakeholder mapping for Agile projects
 - Focus on Product Owner, Users, and Development Team relationships
 - Includes personas and user story mapping connections

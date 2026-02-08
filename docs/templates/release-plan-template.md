@@ -15,7 +15,7 @@
 
 title: "Agile Release Plan Template"
 
-[**➡️ View Template File**](/templates/all/agile-release-plan-template.md)
+[**➡️ View Template File**](/templates/all/agile-release-plan-template-template-agile.md)
 
 ## 📈 Quality Score
 

@@ -11,7 +11,7 @@ This section provides advanced business case development and financial analysis 
 ## 📋 What's Included
 
 <a id="advanced-business-case-frameworkadvanced-business-case-templatemd"></a>
-### [Advanced Business Case Framework](advanced-business-case-template.md)
+### [Advanced Business Case Framework](advanced-business-case-template-template-general.md)
 **Purpose:** Comprehensive investment justification with multi-dimensional analysis
 - **Financial modeling** with NPV, IRR, and payback calculations
 - **Risk-adjusted ROI** analysis with sensitivity scenarios
@@ -78,7 +78,7 @@ This section provides advanced business case development and financial analysis 
 
 <a id="week-1-business-case-development"></a>
 ### Week 1: Business Case Development
-1. **[Advanced Business Case](advanced-business-case-template.md)** - Complete investment analysis
+1. **[Advanced Business Case](advanced-business-case-template-template-general.md)** - Complete investment analysis
 2. **[Value Analysis](value-analysis-framework.md)** - Optimize investment approach
 3. **Executive presentation** preparation and approval
 

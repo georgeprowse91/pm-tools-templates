@@ -66,7 +66,7 @@ These tools work regardless of project methodology:
 - **[EVM Dashboard](financial-governance/enhanced-business-cases/evm-dashboard-template.md)** - Professional Earned Value Management tracking
 - **[Value Analysis Framework](financial-governance/enhanced-business-cases/value-analysis-framework.md)** - Systematic value engineering and optimization
 - **[Financial Performance Tracker](financial-governance/enhanced-business-cases/financial-performance-tracker.md)** - Comprehensive monitoring and control
-- **[Budget Tracking & Controls](financial-governance/budget-dashboard-template.md)** - Real-time financial monitoring
+- **[Budget Tracking & Controls](financial-governance/budget-dashboard-template-template-general.md)** - Real-time financial monitoring
 - **[ROI Measurement](financial-governance/roi-tracking-dashboard.md)** - Value realization tracking and reporting
 
 **Financial Impact:** Typical 15-25% improvement in budget accuracy, 20-30% better ROI realization

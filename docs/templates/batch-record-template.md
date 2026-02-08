@@ -15,7 +15,7 @@
 
 title: "Batch Record Template"
 
-[**➡️ View Template File**](/templates/all/batch_record_template.md)
+[**➡️ View Template File**](/templates/all/batch-record-template-template-general.md)
 
 ## 📈 Quality Score
 

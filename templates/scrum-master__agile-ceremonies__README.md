@@ -233,7 +233,7 @@ Well-facilitated ceremonies are the heartbeat of successful Agile teams. This gu
 - Dependencies and risks identified
 - Items are ready for sprint planning
 
-### **[→ Download: Backlog Refinement Template](backlog-refinement-template.md)**
+### **[→ Download: Backlog Refinement Template](backlog-refinement-template-template-general.md)**
 
 ### Ongoing Activities (1-2 hours per week)
 1. **Review New Items** (30 min)

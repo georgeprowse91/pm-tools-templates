@@ -405,12 +405,12 @@ Source Systems     │ Integration Layer │ Analytics Layer  │ Presentation
 ### SAFe Framework Templates
 - [PI Planning Template](../../templates/all/pi_planning_template.md)
 - [Portfolio Kanban Template](../../templates/all/portfolio_kanban_template.md)
-- [ART Coordination Template](../../templates/all/art_coordination_template.md)
+- [ART Coordination Template](../../templates/all/art-coordination-template-template-general.md)
 - [SAFe Metrics Dashboard](../../templates/all/metrics_dashboard_template.md)
 
 ### Business Stakeholder Resources
 - [Executive Communication Templates](../executive-dashboards/README.md)
-- [Business Case Templates](../../Waterfall/Templates/business_case_template.md)
+- [Business Case Templates](../../Waterfall/Templates/business-case-template-template-general.md)
 - [ROI Tracking Templates](../../Traditional/Knowledge_Areas/Project_Cost_Management/roi_tracking_template.md)
 
 ### External Resources

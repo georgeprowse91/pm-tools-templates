@@ -31,7 +31,7 @@ The project charter is your project's "birth certificate" - it formally authoriz
 - Perfect for regulated industries or complex projects
 
 ### Agile Project Charter (Team Charter)
-**[→ Download: Agile Team Charter Template](agile-team-charter-template.md)**
+**[→ Download: Agile Team Charter Template](agile-team-charter-template-template-agile.md)**
 - Lightweight charter focused on team alignment
 - Emphasizes vision, goals, and working agreements
 - Ideal for software development and iterative projects

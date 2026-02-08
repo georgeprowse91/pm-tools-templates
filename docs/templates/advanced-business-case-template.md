@@ -15,7 +15,7 @@
 
 title: "Advanced Business Case Template"
 
-[**➡️ View Template File**](/templates/all/advanced-business-case-template.md)
+[**➡️ View Template File**](/templates/all/advanced-business-case-template-template-general.md)
 
 ## 📈 Quality Score
 

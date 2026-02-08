@@ -650,7 +650,7 @@ Team Delta:  ████████████         60% (Needs Attention)
 
 ### SAFe Templates and Tools
 - [PI Planning Template](../../templates/all/pi_planning_template.md)
-- [ART Coordination Template](../../templates/all/art_coordination_template.md)
+- [ART Coordination Template](../../templates/all/art-coordination-template-template-general.md)
 - [Portfolio Kanban Template](../../templates/all/portfolio_kanban_template.md)
 - [SAFe Metrics Dashboard](../../templates/all/metrics_dashboard_template.md)
 

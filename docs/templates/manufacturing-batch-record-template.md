@@ -15,7 +15,7 @@
 
 title: "Manufacturing Batch Record Template"
 
-[**➡️ View Template File**](/templates/all/manufacturing_batch_record_template.md)
+[**➡️ View Template File**](/templates/all/manufacturing_batch-record-template-template-general.md)
 
 ## 📈 Quality Score
 

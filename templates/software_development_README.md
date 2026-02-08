@@ -33,7 +33,7 @@ The following templates have been customized for software development project ma
 | `sprint_planning_template.md` | Framework for planning sprint goals and backlog items | Agile |
 | `sprint_review_template.md` | Structure for demonstrating and evaluating sprint results | Agile |
 | `technical_requirements_specification.md` | Detailed technical requirements document | Traditional |
-| `api_documentation_template.md` | Structure for documenting APIs and interfaces | Technical |
+| `api-documentation-template-template-general.md` | Structure for documenting APIs and interfaces | Technical |
 | `data_model_documentation.md` | Template for database and data structure documentation | Technical |
 | `software_test_plan.md` | Comprehensive test planning document | Traditional |
 | `ci_cd_pipeline_definition.md` | Continuous Integration/Continuous Deployment workflow | DevOps |

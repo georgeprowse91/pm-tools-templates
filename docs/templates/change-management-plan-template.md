@@ -15,7 +15,7 @@
 
 title: "Change Management Plan Template"
 
-[**➡️ View Template File**](/templates/all/change_management_plan_template.md)
+[**➡️ View Template File**](/templates/all/change-management-plan-template-template-general.md)
 
 ## 📈 Quality Score
 

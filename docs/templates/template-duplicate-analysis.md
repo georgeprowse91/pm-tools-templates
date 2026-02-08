@@ -2,20 +2,20 @@
 
 | current filename | core topic | inferred methodology | duplicate group ID | proposed canonical name |
 | --- | --- | --- | --- | --- |
-| advanced-business-case-template.md | advanced business case | general |  | advanced-business-case-template.md |
-| agile-project-assessment-template.md | project assessment | agile |  | agile-project-assessment-template.md |
-| agile-release-plan-template.md | release plan | agile |  | agile-release-plan-template.md |
-| agile-risk-board-template.md | risk board | agile |  | agile-risk-board-template.md |
-| agile-stakeholder-map-template.md | stakeholder map | agile |  | agile-stakeholder-map-template.md |
-| agile-team-charter-template.md | team charter | agile |  | agile-team-charter-template.md |
+| advanced-business-case-template-template-general.md | advanced business case | general |  | advanced-business-case-template-template-general.md |
+| agile-project-assessment-template-template-agile.md | project assessment | agile |  | agile-project-assessment-template-template-agile.md |
+| agile-release-plan-template-template-agile.md | release plan | agile |  | agile-release-plan-template-template-agile.md |
+| agile-risk-board-template-template-agile.md | risk board | agile |  | agile-risk-board-template-template-agile.md |
+| agile-stakeholder-map-template-template-agile.md | stakeholder map | agile |  | agile-stakeholder-map-template-template-agile.md |
+| agile-team-charter-template-template-agile.md | team charter | agile |  | agile-team-charter-template-template-agile.md |
 | api-documentation-template.md | api documentation | general |  | api-documentation-template.md |
 | art-coordination-template.md | art coordination | general |  | art-coordination-template.md |
-| assessment-report-template.md | assessment report | general |  | assessment-report-template.md |
-| backlog-management-template.md | backlog management | general |  | backlog-management-template.md |
-| backlog-refinement-template.md | backlog refinement | general |  | backlog-refinement-template.md |
+| assessment-report-template-template-general.md | assessment report | general |  | assessment-report-template-template-general.md |
+| backlog-management-template-template-general.md | backlog management | general |  | backlog-management-template-template-general.md |
+| backlog-refinement-template-template-general.md | backlog refinement | general |  | backlog-refinement-template-template-general.md |
 | batch-record-template.md | batch record | general |  | batch-record-template.md |
-| budget-dashboard-template.md | budget dashboard | general |  | budget-dashboard-template.md |
-| budget-template.md | budget | general |  | budget-template.md |
+| budget-dashboard-template-template-general.md | budget dashboard | general |  | budget-dashboard-template-template-general.md |
+| budget-template-template-general.md | budget | general |  | budget-template-template-general.md |
 | business-case-template.md | business case | general |  | business-case-template.md |
 | business-requirements-document-template.md | business requirements document | general |  | business-requirements-document-template.md |
 | capa-management-template.md | capa management | general |  | capa-management-template.md |

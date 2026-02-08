@@ -10,7 +10,7 @@ Guidance and template mappings for Traditional, Agile-at-Scale, and Hybrid progr
 - Communications → templates/role-based/program-manager/communications
 
 ## Agile at Scale
-- Program Charter (Lean Business Case) → templates/business_case_template.md
+- Program Charter (Lean Business Case) → templates/business-case-template-template-general.md
 - PI/Quarterly Roadmap → templates/pi_planning_template.md
 - ART/Value Stream Coordination → templates/safe-program-increment-planning-template.md
 - Risk (ROAM) → templates/risk_register_template.md

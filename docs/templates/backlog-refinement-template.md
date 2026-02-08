@@ -15,7 +15,7 @@
 
 title: "Backlog Refinement Template"
 
-[**➡️ View Template File**](/templates/all/backlog-refinement-template.md)
+[**➡️ View Template File**](/templates/all/backlog-refinement-template-template-general.md)
 
 ## 📈 Quality Score
 

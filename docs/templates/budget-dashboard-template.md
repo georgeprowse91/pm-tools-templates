@@ -15,7 +15,7 @@
 
 title: "Budget Dashboard Template"
 
-[**➡️ View Template File**](/templates/all/budget-dashboard-template.md)
+[**➡️ View Template File**](/templates/all/budget-dashboard-template-template-general.md)
 
 ## 📈 Quality Score
 

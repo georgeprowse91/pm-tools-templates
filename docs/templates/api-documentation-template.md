@@ -15,7 +15,7 @@
 
 title: "Api Documentation Template"
 
-[**➡️ View Template File**](/templates/all/api_documentation_template.md)
+[**➡️ View Template File**](/templates/all/api-documentation-template-template-general.md)
 
 ## 📈 Quality Score
 

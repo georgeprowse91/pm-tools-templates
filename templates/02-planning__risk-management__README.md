@@ -29,7 +29,7 @@ Effective risk management is the difference between projects that succeed despit
 - Perfect for all project types and methodologies
 
 ### Agile Risk Board
-**[→ Download: Agile Risk Board Template](agile-risk-board-template.md)**
+**[→ Download: Agile Risk Board Template](agile-risk-board-template-template-agile.md)**
 - Visual risk management for Agile teams
 - Integration with sprint planning and retrospectives
 - Risk burndown and velocity tracking

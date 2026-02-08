@@ -3,7 +3,7 @@
   "totalTemplates": 139,
   "templates": [
     {
-      "path": "templates/business-stakeholder/financial-governance/enhanced-business-cases/advanced-business-case-template.md",
+      "path": "templates/business-stakeholder/financial-governance/enhanced-business-cases/advanced-business-case-template-template-general.md",
       "title": "Advanced Business Case Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -65,7 +65,7 @@
           "similarity": 80
         },
         {
-          "path": "templates/business-stakeholder/financial-governance/budget-dashboard-template.md",
+          "path": "templates/business-stakeholder/financial-governance/budget-dashboard-template-template-general.md",
           "title": "Budget Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -79,7 +79,7 @@
           "similarity": 79
         },
         {
-          "path": "templates/role-based/project-manager/essential-templates/budget-template.md",
+          "path": "templates/role-based/project-manager/essential-templates/budget-template-template-general.md",
           "title": "Budget Template",
           "methodology": "universal",
           "tags": [
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "path": "project-assessment-suite/agile-project-assessment-template.md",
+      "path": "project-assessment-suite/agile-project-assessment-template-template-agile.md",
       "title": "Agile Project Assessment Template",
       "methodology": "universal",
       "complexity": "starter",
@@ -131,7 +131,7 @@
           "similarity": 92
         },
         {
-          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template-template-agile.md",
           "title": "Agile Stakeholder Map Template",
           "methodology": "universal",
           "tags": [
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "path": "templates/project-lifecycle/02-planning/project-management-plan/agile-release-plan-template.md",
+      "path": "templates/project-lifecycle/02-planning/project-management-plan/agile-release-plan-template-template-agile.md",
       "title": "Agile Release Plan Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -214,7 +214,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/project-lifecycle/02-planning/risk-management/agile-risk-board-template.md",
+          "path": "templates/project-lifecycle/02-planning/risk-management/agile-risk-board-template-template-agile.md",
           "title": "Agile Risk Board Template",
           "methodology": "universal",
           "tags": [
@@ -287,7 +287,7 @@
       ]
     },
     {
-      "path": "templates/project-lifecycle/02-planning/risk-management/agile-risk-board-template.md",
+      "path": "templates/project-lifecycle/02-planning/risk-management/agile-risk-board-template-template-agile.md",
       "title": "Agile Risk Board Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -311,7 +311,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/project-lifecycle/02-planning/project-management-plan/agile-release-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/project-management-plan/agile-release-plan-template-template-agile.md",
           "title": "Agile Release Plan Template",
           "methodology": "universal",
           "tags": [
@@ -384,7 +384,7 @@
       ]
     },
     {
-      "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template.md",
+      "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template-template-agile.md",
       "title": "Agile Stakeholder Map Template",
       "methodology": "universal",
       "complexity": "intermediate",
@@ -424,7 +424,7 @@
           "similarity": 83
         },
         {
-          "path": "project-assessment-suite/agile-project-assessment-template.md",
+          "path": "project-assessment-suite/agile-project-assessment-template-template-agile.md",
           "title": "Agile Project Assessment Template",
           "methodology": "universal",
           "tags": [
@@ -452,7 +452,7 @@
           "similarity": 83
         },
         {
-          "path": "templates/project-lifecycle/01-initiation/project-charter/agile-team-charter-template.md",
+          "path": "templates/project-lifecycle/01-initiation/project-charter/agile-team-charter-template-template-agile.md",
           "title": "Agile Team Charter Template",
           "methodology": "universal",
           "tags": [
@@ -478,7 +478,7 @@
       ]
     },
     {
-      "path": "templates/project-lifecycle/01-initiation/project-charter/agile-team-charter-template.md",
+      "path": "templates/project-lifecycle/01-initiation/project-charter/agile-team-charter-template-template-agile.md",
       "title": "Agile Team Charter Template",
       "methodology": "universal",
       "complexity": "intermediate",
@@ -511,7 +511,7 @@
           "similarity": 80
         },
         {
-          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template-template-agile.md",
           "title": "Agile Stakeholder Map Template",
           "methodology": "universal",
           "tags": [
@@ -526,7 +526,7 @@
           "similarity": 79
         },
         {
-          "path": "project-assessment-suite/agile-project-assessment-template.md",
+          "path": "project-assessment-suite/agile-project-assessment-template-template-agile.md",
           "title": "Agile Project Assessment Template",
           "methodology": "universal",
           "tags": [
@@ -571,7 +571,7 @@
       ]
     },
     {
-      "path": "industry-specializations/information-technology/software-development/api_documentation_template.md",
+      "path": "industry-specializations/information-technology/software-development/api-documentation-template-template-general.md",
       "title": "Api Documentation Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -645,7 +645,7 @@
       ]
     },
     {
-      "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art_coordination_template.md",
+      "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art-coordination-template-template-general.md",
       "title": "Art Coordination Template",
       "methodology": "agile",
       "complexity": "advanced",
@@ -747,7 +747,7 @@
       ]
     },
     {
-      "path": "project-assessment-suite/assessment-report-template.md",
+      "path": "project-assessment-suite/assessment-report-template-template-general.md",
       "title": "Assessment Report Template",
       "methodology": "universal",
       "complexity": "starter",
@@ -819,7 +819,7 @@
           "similarity": 83
         },
         {
-          "path": "templates/role-based/product-owner/backlog-management-template.md",
+          "path": "templates/role-based/product-owner/backlog-management-template-template-general.md",
           "title": "Backlog Management Template",
           "methodology": "universal",
           "tags": [
@@ -834,7 +834,7 @@
       ]
     },
     {
-      "path": "templates/role-based/product-owner/backlog-management-template.md",
+      "path": "templates/role-based/product-owner/backlog-management-template-template-general.md",
       "title": "Backlog Management Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -923,7 +923,7 @@
       ]
     },
     {
-      "path": "templates/role-based/scrum-master/agile-ceremonies/backlog-refinement-template.md",
+      "path": "templates/role-based/scrum-master/agile-ceremonies/backlog-refinement-template-template-general.md",
       "title": "Backlog Refinement Template",
       "methodology": "agile",
       "complexity": "advanced",
@@ -990,7 +990,7 @@
           "similarity": 86
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art_coordination_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art-coordination-template-template-general.md",
           "title": "Art Coordination Template",
           "methodology": "agile",
           "tags": [
@@ -1022,7 +1022,7 @@
       ]
     },
     {
-      "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/batch_record_template.md",
+      "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/batch-record-template-template-general.md",
       "title": "Batch Record Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -1067,7 +1067,7 @@
           "similarity": 100
         },
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/manufacturing_batch_record_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/manufacturing_batch-record-template-template-general.md",
           "title": "Manufacturing Batch Record Template",
           "methodology": "universal",
           "tags": [
@@ -1106,7 +1106,7 @@
       ]
     },
     {
-      "path": "templates/business-stakeholder/financial-governance/budget-dashboard-template.md",
+      "path": "templates/business-stakeholder/financial-governance/budget-dashboard-template-template-general.md",
       "title": "Budget Dashboard Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -1183,7 +1183,7 @@
           "similarity": 83
         },
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/quality-management/capa_management_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/quality-management/capa-management-template-template-general.md",
           "title": "Capa Management Template",
           "methodology": "universal",
           "tags": [
@@ -1200,7 +1200,7 @@
       ]
     },
     {
-      "path": "templates/role-based/project-manager/essential-templates/budget-template.md",
+      "path": "templates/role-based/project-manager/essential-templates/budget-template-template-general.md",
       "title": "Budget Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -1300,7 +1300,7 @@
       ]
     },
     {
-      "path": "templates/traditional/Traditional/Templates/business_case_template.md",
+      "path": "templates/traditional/Traditional/Templates/business-case-template-template-general.md",
       "title": "Business Case Template",
       "methodology": "traditional",
       "complexity": "advanced",
@@ -1350,7 +1350,7 @@
           "similarity": 92
         },
         {
-          "path": "templates/traditional/Traditional/Templates/change_request_template.md",
+          "path": "templates/traditional/Traditional/Templates/change-request-template-template-general.md",
           "title": "Change Request Template",
           "methodology": "traditional",
           "tags": [
@@ -1397,7 +1397,7 @@
       ]
     },
     {
-      "path": "templates/project-lifecycle/02-planning/business-requirements/business_requirements_document_template.md",
+      "path": "templates/project-lifecycle/02-planning/business-requirements/business-requirements-document-template-template-general.md",
       "title": "Business Requirements Document Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -1455,7 +1455,7 @@
           "similarity": 88
         },
         {
-          "path": "templates/role-based/project-manager/essential-templates/budget-template.md",
+          "path": "templates/role-based/project-manager/essential-templates/budget-template-template-general.md",
           "title": "Budget Template",
           "methodology": "universal",
           "tags": [
@@ -1469,7 +1469,7 @@
           "similarity": 83
         },
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/compliance/capa_management_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/compliance/capa-management-template-template-general.md",
           "title": "Capa Management Template",
           "methodology": "universal",
           "tags": [
@@ -1485,7 +1485,7 @@
       ]
     },
     {
-      "path": "industry-specializations/healthcare-pharmaceutical/compliance/capa_management_template.md",
+      "path": "industry-specializations/healthcare-pharmaceutical/compliance/capa-management-template-template-general.md",
       "title": "Capa Management Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -1536,7 +1536,7 @@
           "similarity": 100
         },
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/quality-management/capa_management_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/quality-management/capa-management-template-template-general.md",
           "title": "Capa Management Template",
           "methodology": "universal",
           "tags": [
@@ -1583,7 +1583,7 @@
       ]
     },
     {
-      "path": "templates/traditional/Traditional/Templates/change_management_plan_template.md",
+      "path": "templates/traditional/Traditional/Templates/change-management-plan-template-template-general.md",
       "title": "Change Management Plan Template",
       "methodology": "traditional",
       "complexity": "advanced",
@@ -1688,7 +1688,7 @@
       ]
     },
     {
-      "path": "templates/traditional/Traditional/Templates/change_request_template.md",
+      "path": "templates/traditional/Traditional/Templates/change-request-template-template-general.md",
       "title": "Change Request Template",
       "methodology": "traditional",
       "complexity": "advanced",
@@ -1906,7 +1906,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/batch_record_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/batch-record-template-template-general.md",
           "title": "Batch Record Template",
           "methodology": "universal",
           "tags": [
@@ -1954,7 +1954,7 @@
           "similarity": 88
         },
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/manufacturing_batch_record_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/manufacturing_batch-record-template-template-general.md",
           "title": "Manufacturing Batch Record Template",
           "methodology": "universal",
           "tags": [
@@ -1990,7 +1990,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/compliance/capa_management_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/compliance/capa-management-template-template-general.md",
           "title": "Capa Management Template",
           "methodology": "universal",
           "tags": [
@@ -2032,7 +2032,7 @@
           "similarity": 92
         },
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/batch_record_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/batch-record-template-template-general.md",
           "title": "Batch Record Template",
           "methodology": "universal",
           "tags": [
@@ -2082,7 +2082,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/traditional/Traditional/Templates/change_request_template.md",
+          "path": "templates/traditional/Traditional/Templates/change-request-template-template-general.md",
           "title": "Change Request Template",
           "methodology": "traditional",
           "tags": [
@@ -2377,7 +2377,7 @@
       "qualityIssues": [],
       "relatedTemplates": [
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/batch_record_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/batch-record-template-template-general.md",
           "title": "Batch Record Template",
           "methodology": "universal",
           "tags": [
@@ -2401,7 +2401,7 @@
           "similarity": 100
         },
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/manufacturing_batch_record_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/manufacturing_batch-record-template-template-general.md",
           "title": "Manufacturing Batch Record Template",
           "methodology": "universal",
           "tags": [
@@ -2464,7 +2464,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art_coordination_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art-coordination-template-template-general.md",
           "title": "Art Coordination Template",
           "methodology": "agile",
           "tags": [
@@ -2678,7 +2678,7 @@
           "similarity": 100
         },
         {
-          "path": "templates/role-based/project-manager/essential-templates/budget-template.md",
+          "path": "templates/role-based/project-manager/essential-templates/budget-template-template-general.md",
           "title": "Budget Template",
           "methodology": "universal",
           "tags": [
@@ -2692,7 +2692,7 @@
           "similarity": 92
         },
         {
-          "path": "templates/project-lifecycle/02-planning/business-requirements/business_requirements_document_template.md",
+          "path": "templates/project-lifecycle/02-planning/business-requirements/business-requirements-document-template-template-general.md",
           "title": "Business Requirements Document Template",
           "methodology": "universal",
           "tags": [
@@ -2751,7 +2751,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/role-based/scrum-master/agile-ceremonies/backlog-refinement-template.md",
+          "path": "templates/role-based/scrum-master/agile-ceremonies/backlog-refinement-template-template-general.md",
           "title": "Backlog Refinement Template",
           "methodology": "agile",
           "tags": [
@@ -2884,7 +2884,7 @@
           "similarity": 60
         },
         {
-          "path": "project-assessment-suite/agile-project-assessment-template.md",
+          "path": "project-assessment-suite/agile-project-assessment-template-template-agile.md",
           "title": "Agile Project Assessment Template",
           "methodology": "universal",
           "tags": [
@@ -3252,7 +3252,7 @@
           "similarity": 60
         },
         {
-          "path": "project-assessment-suite/agile-project-assessment-template.md",
+          "path": "project-assessment-suite/agile-project-assessment-template-template-agile.md",
           "title": "Agile Project Assessment Template",
           "methodology": "universal",
           "tags": [
@@ -3288,7 +3288,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "project-assessment-suite/assessment-report-template.md",
+          "path": "project-assessment-suite/assessment-report-template-template-general.md",
           "title": "Assessment Report Template",
           "methodology": "universal",
           "tags": [
@@ -3312,7 +3312,7 @@
           "similarity": 88
         },
         {
-          "path": "templates/project-lifecycle/02-planning/business-requirements/business_requirements_document_template.md",
+          "path": "templates/project-lifecycle/02-planning/business-requirements/business-requirements-document-template-template-general.md",
           "title": "Business Requirements Document Template",
           "methodology": "universal",
           "tags": [
@@ -3472,7 +3472,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/batch_record_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/batch-record-template-template-general.md",
           "title": "Batch Record Template",
           "methodology": "universal",
           "tags": [
@@ -3496,7 +3496,7 @@
           "similarity": 100
         },
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/manufacturing_batch_record_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/manufacturing_batch-record-template-template-general.md",
           "title": "Manufacturing Batch Record Template",
           "methodology": "universal",
           "tags": [
@@ -3708,7 +3708,7 @@
           "similarity": 88
         },
         {
-          "path": "templates/business-stakeholder/financial-governance/budget-dashboard-template.md",
+          "path": "templates/business-stakeholder/financial-governance/budget-dashboard-template-template-general.md",
           "title": "Budget Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -3759,7 +3759,7 @@
           "similarity": 100
         },
         {
-          "path": "templates/role-based/project-manager/essential-templates/budget-template.md",
+          "path": "templates/role-based/project-manager/essential-templates/budget-template-template-general.md",
           "title": "Budget Template",
           "methodology": "universal",
           "tags": [
@@ -3773,7 +3773,7 @@
           "similarity": 92
         },
         {
-          "path": "templates/project-lifecycle/02-planning/business-requirements/business_requirements_document_template.md",
+          "path": "templates/project-lifecycle/02-planning/business-requirements/business-requirements-document-template-template-general.md",
           "title": "Business Requirements Document Template",
           "methodology": "universal",
           "tags": [
@@ -4163,7 +4163,7 @@
           "similarity": 75
         },
         {
-          "path": "templates/business-stakeholder/financial-governance/budget-dashboard-template.md",
+          "path": "templates/business-stakeholder/financial-governance/budget-dashboard-template-template-general.md",
           "title": "Budget Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -4261,7 +4261,7 @@
           "similarity": 100
         },
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/compliance/capa_management_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/compliance/capa-management-template-template-general.md",
           "title": "Capa Management Template",
           "methodology": "universal",
           "tags": [
@@ -4484,7 +4484,7 @@
           "similarity": 93
         },
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/quality-management/capa_management_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/quality-management/capa-management-template-template-general.md",
           "title": "Capa Management Template",
           "methodology": "universal",
           "tags": [
@@ -4623,7 +4623,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "project-assessment-suite/assessment-report-template.md",
+          "path": "project-assessment-suite/assessment-report-template-template-general.md",
           "title": "Assessment Report Template",
           "methodology": "universal",
           "tags": [
@@ -4647,7 +4647,7 @@
           "similarity": 83
         },
         {
-          "path": "templates/role-based/product-owner/backlog-management-template.md",
+          "path": "templates/role-based/product-owner/backlog-management-template-template-general.md",
           "title": "Backlog Management Template",
           "methodology": "universal",
           "tags": [
@@ -4831,7 +4831,7 @@
           "similarity": 83
         },
         {
-          "path": "project-assessment-suite/assessment-report-template.md",
+          "path": "project-assessment-suite/assessment-report-template-template-general.md",
           "title": "Assessment Report Template",
           "methodology": "universal",
           "tags": [
@@ -4857,7 +4857,7 @@
           "similarity": 71
         },
         {
-          "path": "templates/project-lifecycle/02-planning/business-requirements/business_requirements_document_template.md",
+          "path": "templates/project-lifecycle/02-planning/business-requirements/business-requirements-document-template-template-general.md",
           "title": "Business Requirements Document Template",
           "methodology": "universal",
           "tags": [
@@ -5222,7 +5222,7 @@
           "similarity": 90
         },
         {
-          "path": "templates/role-based/project-manager/essential-templates/budget-template.md",
+          "path": "templates/role-based/project-manager/essential-templates/budget-template-template-general.md",
           "title": "Budget Template",
           "methodology": "universal",
           "tags": [
@@ -5285,7 +5285,7 @@
           "similarity": 80
         },
         {
-          "path": "templates/role-based/project-manager/essential-templates/budget-template.md",
+          "path": "templates/role-based/project-manager/essential-templates/budget-template-template-general.md",
           "title": "Budget Template",
           "methodology": "universal",
           "tags": [
@@ -5363,7 +5363,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/project-lifecycle/02-planning/business-requirements/business_requirements_document_template.md",
+          "path": "templates/project-lifecycle/02-planning/business-requirements/business-requirements-document-template-template-general.md",
           "title": "Business Requirements Document Template",
           "methodology": "universal",
           "tags": [
@@ -5482,7 +5482,7 @@
           "similarity": 88
         },
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/compliance/capa_management_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/compliance/capa-management-template-template-general.md",
           "title": "Capa Management Template",
           "methodology": "universal",
           "tags": [
@@ -5741,7 +5741,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art_coordination_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art-coordination-template-template-general.md",
           "title": "Art Coordination Template",
           "methodology": "agile",
           "tags": [
@@ -5844,7 +5844,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art_coordination_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art-coordination-template-template-general.md",
           "title": "Art Coordination Template",
           "methodology": "agile",
           "tags": [
@@ -5922,7 +5922,7 @@
       ]
     },
     {
-      "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/manufacturing_batch_record_template.md",
+      "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/manufacturing_batch-record-template-template-general.md",
       "title": "Manufacturing Batch Record Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -5943,7 +5943,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/batch_record_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/batch-record-template-template-general.md",
           "title": "Batch Record Template",
           "methodology": "universal",
           "tags": [
@@ -6190,7 +6190,7 @@
           "similarity": 93
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art_coordination_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art-coordination-template-template-general.md",
           "title": "Art Coordination Template",
           "methodology": "agile",
           "tags": [
@@ -6521,7 +6521,7 @@
           "similarity": 80
         },
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/compliance/capa_management_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/compliance/capa-management-template-template-general.md",
           "title": "Capa Management Template",
           "methodology": "universal",
           "tags": [
@@ -6616,7 +6616,7 @@
           "similarity": 93
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art_coordination_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art-coordination-template-template-general.md",
           "title": "Art Coordination Template",
           "methodology": "agile",
           "tags": [
@@ -6681,7 +6681,7 @@
       "qualityIssues": [],
       "relatedTemplates": [
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/batch_record_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/batch-record-template-template-general.md",
           "title": "Batch Record Template",
           "methodology": "universal",
           "tags": [
@@ -6717,7 +6717,7 @@
           "similarity": 88
         },
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/manufacturing_batch_record_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/manufacturing_batch-record-template-template-general.md",
           "title": "Manufacturing Batch Record Template",
           "methodology": "universal",
           "tags": [
@@ -6764,7 +6764,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/batch_record_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/batch-record-template-template-general.md",
           "title": "Batch Record Template",
           "methodology": "universal",
           "tags": [
@@ -6800,7 +6800,7 @@
           "similarity": 100
         },
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/manufacturing_batch_record_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/manufacturing_batch-record-template-template-general.md",
           "title": "Manufacturing Batch Record Template",
           "methodology": "universal",
           "tags": [
@@ -6891,7 +6891,7 @@
           "similarity": 92
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art_coordination_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art-coordination-template-template-general.md",
           "title": "Art Coordination Template",
           "methodology": "agile",
           "tags": [
@@ -7002,7 +7002,7 @@
           "similarity": 86
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art_coordination_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art-coordination-template-template-general.md",
           "title": "Art Coordination Template",
           "methodology": "agile",
           "tags": [
@@ -7036,7 +7036,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/business-stakeholder/financial-governance/enhanced-business-cases/advanced-business-case-template.md",
+          "path": "templates/business-stakeholder/financial-governance/enhanced-business-cases/advanced-business-case-template-template-general.md",
           "title": "Advanced Business Case Template",
           "methodology": "universal",
           "tags": [
@@ -7049,7 +7049,7 @@
           "similarity": 50
         },
         {
-          "path": "templates/project-lifecycle/02-planning/project-management-plan/agile-release-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/project-management-plan/agile-release-plan-template-template-agile.md",
           "title": "Agile Release Plan Template",
           "methodology": "universal",
           "tags": [
@@ -7064,7 +7064,7 @@
           "similarity": 50
         },
         {
-          "path": "templates/project-lifecycle/02-planning/risk-management/agile-risk-board-template.md",
+          "path": "templates/project-lifecycle/02-planning/risk-management/agile-risk-board-template-template-agile.md",
           "title": "Agile Risk Board Template",
           "methodology": "universal",
           "tags": [
@@ -7079,7 +7079,7 @@
           "similarity": 50
         },
         {
-          "path": "industry-specializations/information-technology/software-development/api_documentation_template.md",
+          "path": "industry-specializations/information-technology/software-development/api-documentation-template-template-general.md",
           "title": "Api Documentation Template",
           "methodology": "universal",
           "tags": [
@@ -7088,7 +7088,7 @@
           "similarity": 50
         },
         {
-          "path": "templates/role-based/product-owner/backlog-management-template.md",
+          "path": "templates/role-based/product-owner/backlog-management-template-template-general.md",
           "title": "Backlog Management Template",
           "methodology": "universal",
           "tags": [
@@ -7125,7 +7125,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/compliance/capa_management_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/compliance/capa-management-template-template-general.md",
           "title": "Capa Management Template",
           "methodology": "universal",
           "tags": [
@@ -7351,7 +7351,7 @@
           "similarity": 100
         },
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/compliance/capa_management_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/compliance/capa-management-template-template-general.md",
           "title": "Capa Management Template",
           "methodology": "universal",
           "tags": [
@@ -7445,7 +7445,7 @@
           "similarity": 92
         },
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/batch_record_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/manufacturing/batch-record-template-template-general.md",
           "title": "Batch Record Template",
           "methodology": "universal",
           "tags": [
@@ -7546,7 +7546,7 @@
           "similarity": 90
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art_coordination_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art-coordination-template-template-general.md",
           "title": "Art Coordination Template",
           "methodology": "agile",
           "tags": [
@@ -7599,7 +7599,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "project-assessment-suite/assessment-report-template.md",
+          "path": "project-assessment-suite/assessment-report-template-template-general.md",
           "title": "Assessment Report Template",
           "methodology": "universal",
           "tags": [
@@ -7611,7 +7611,7 @@
           "similarity": 90
         },
         {
-          "path": "templates/role-based/product-owner/backlog-management-template.md",
+          "path": "templates/role-based/product-owner/backlog-management-template-template-general.md",
           "title": "Backlog Management Template",
           "methodology": "universal",
           "tags": [
@@ -8006,7 +8006,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/traditional/Traditional/Templates/change_request_template.md",
+          "path": "templates/traditional/Traditional/Templates/change-request-template-template-general.md",
           "title": "Change Request Template",
           "methodology": "traditional",
           "tags": [
@@ -8214,7 +8214,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/role-based/product-owner/backlog-management-template.md",
+          "path": "templates/role-based/product-owner/backlog-management-template-template-general.md",
           "title": "Backlog Management Template",
           "methodology": "universal",
           "tags": [
@@ -8727,7 +8727,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/traditional/Traditional/Templates/change_management_plan_template.md",
+          "path": "templates/traditional/Traditional/Templates/change-management-plan-template-template-general.md",
           "title": "Change Management Plan Template",
           "methodology": "traditional",
           "tags": [
@@ -8832,7 +8832,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/traditional/Traditional/Templates/change_request_template.md",
+          "path": "templates/traditional/Traditional/Templates/change-request-template-template-general.md",
           "title": "Change Request Template",
           "methodology": "traditional",
           "tags": [
@@ -8955,7 +8955,7 @@
           "similarity": 70
         },
         {
-          "path": "templates/traditional/Traditional/Templates/business_case_template.md",
+          "path": "templates/traditional/Traditional/Templates/business-case-template-template-general.md",
           "title": "Business Case Template",
           "methodology": "traditional",
           "tags": [
@@ -9022,7 +9022,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/quality-management/capa_management_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/quality-management/capa-management-template-template-general.md",
           "title": "Capa Management Template",
           "methodology": "universal",
           "tags": [
@@ -9037,7 +9037,7 @@
           "similarity": 100
         },
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/compliance/capa_management_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/compliance/capa-management-template-template-general.md",
           "title": "Capa Management Template",
           "methodology": "universal",
           "tags": [
@@ -9116,7 +9116,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/role-based/product-owner/backlog-management-template.md",
+          "path": "templates/role-based/product-owner/backlog-management-template-template-general.md",
           "title": "Backlog Management Template",
           "methodology": "universal",
           "tags": [
@@ -9168,7 +9168,7 @@
           "similarity": 90
         },
         {
-          "path": "templates/business-stakeholder/financial-governance/budget-dashboard-template.md",
+          "path": "templates/business-stakeholder/financial-governance/budget-dashboard-template-template-general.md",
           "title": "Budget Dashboard Template",
           "methodology": "universal",
           "tags": [
@@ -9204,7 +9204,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/traditional/Traditional/Templates/business_case_template.md",
+          "path": "templates/traditional/Traditional/Templates/business-case-template-template-general.md",
           "title": "Business Case Template",
           "methodology": "traditional",
           "tags": [
@@ -9255,7 +9255,7 @@
           "similarity": 73
         },
         {
-          "path": "templates/traditional/Traditional/Templates/change_management_plan_template.md",
+          "path": "templates/traditional/Traditional/Templates/change-management-plan-template-template-general.md",
           "title": "Change Management Plan Template",
           "methodology": "traditional",
           "tags": [
@@ -9671,7 +9671,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/role-based/product-owner/backlog-management-template.md",
+          "path": "templates/role-based/product-owner/backlog-management-template-template-general.md",
           "title": "Backlog Management Template",
           "methodology": "universal",
           "tags": [
@@ -9790,7 +9790,7 @@
           "similarity": 93
         },
         {
-          "path": "templates/traditional/Traditional/Templates/business_case_template.md",
+          "path": "templates/traditional/Traditional/Templates/business-case-template-template-general.md",
           "title": "Business Case Template",
           "methodology": "traditional",
           "tags": [
@@ -10042,7 +10042,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/role-based/project-manager/essential-templates/budget-template.md",
+          "path": "templates/role-based/project-manager/essential-templates/budget-template-template-general.md",
           "title": "Budget Template",
           "methodology": "universal",
           "tags": [
@@ -10149,7 +10149,7 @@
           "similarity": 93
         },
         {
-          "path": "templates/role-based/project-manager/essential-templates/budget-template.md",
+          "path": "templates/role-based/project-manager/essential-templates/budget-template-template-general.md",
           "title": "Budget Template",
           "methodology": "universal",
           "tags": [
@@ -10163,7 +10163,7 @@
           "similarity": 90
         },
         {
-          "path": "project-assessment-suite/assessment-report-template.md",
+          "path": "project-assessment-suite/assessment-report-template-template-general.md",
           "title": "Assessment Report Template",
           "methodology": "universal",
           "tags": [
@@ -10353,7 +10353,7 @@
           "similarity": 90
         },
         {
-          "path": "templates/role-based/project-manager/essential-templates/budget-template.md",
+          "path": "templates/role-based/project-manager/essential-templates/budget-template-template-general.md",
           "title": "Budget Template",
           "methodology": "universal",
           "tags": [
@@ -10449,7 +10449,7 @@
           "similarity": 93
         },
         {
-          "path": "templates/traditional/Traditional/Templates/business_case_template.md",
+          "path": "templates/traditional/Traditional/Templates/business-case-template-template-general.md",
           "title": "Business Case Template",
           "methodology": "traditional",
           "tags": [
@@ -10521,7 +10521,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art_coordination_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art-coordination-template-template-general.md",
           "title": "Art Coordination Template",
           "methodology": "agile",
           "tags": [
@@ -10682,7 +10682,7 @@
           "similarity": 93
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art_coordination_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art-coordination-template-template-general.md",
           "title": "Art Coordination Template",
           "methodology": "agile",
           "tags": [
@@ -10783,7 +10783,7 @@
           "similarity": 93
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art_coordination_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art-coordination-template-template-general.md",
           "title": "Art Coordination Template",
           "methodology": "agile",
           "tags": [
@@ -10923,7 +10923,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art_coordination_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art-coordination-template-template-general.md",
           "title": "Art Coordination Template",
           "methodology": "agile",
           "tags": [
@@ -11114,7 +11114,7 @@
       "qualityIssues": [],
       "relatedTemplates": [
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/quality-management/capa_management_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/quality-management/capa-management-template-template-general.md",
           "title": "Capa Management Template",
           "methodology": "universal",
           "tags": [
@@ -11255,7 +11255,7 @@
           "similarity": 82
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art_coordination_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art-coordination-template-template-general.md",
           "title": "Art Coordination Template",
           "methodology": "agile",
           "tags": [
@@ -11323,7 +11323,7 @@
           "similarity": 92
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art_coordination_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art-coordination-template-template-general.md",
           "title": "Art Coordination Template",
           "methodology": "agile",
           "tags": [
@@ -11406,7 +11406,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art_coordination_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/art-coordination-template-template-general.md",
           "title": "Art Coordination Template",
           "methodology": "agile",
           "tags": [
@@ -11499,7 +11499,7 @@
       "qualityIssues": [],
       "relatedTemplates": [
         {
-          "path": "project-assessment-suite/agile-project-assessment-template.md",
+          "path": "project-assessment-suite/agile-project-assessment-template-template-agile.md",
           "title": "Agile Project Assessment Template",
           "methodology": "universal",
           "tags": [
@@ -11622,7 +11622,7 @@
           "similarity": 80
         },
         {
-          "path": "templates/project-lifecycle/01-initiation/project-charter/agile-team-charter-template.md",
+          "path": "templates/project-lifecycle/01-initiation/project-charter/agile-team-charter-template-template-agile.md",
           "title": "Agile Team Charter Template",
           "methodology": "universal",
           "tags": [
@@ -11634,7 +11634,7 @@
           "similarity": 80
         },
         {
-          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template-template-agile.md",
           "title": "Agile Stakeholder Map Template",
           "methodology": "universal",
           "tags": [
@@ -11693,7 +11693,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/role-based/product-owner/backlog-management-template.md",
+          "path": "templates/role-based/product-owner/backlog-management-template-template-general.md",
           "title": "Backlog Management Template",
           "methodology": "universal",
           "tags": [
@@ -11877,7 +11877,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/traditional/Traditional/Templates/change_request_template.md",
+          "path": "templates/traditional/Traditional/Templates/change-request-template-template-general.md",
           "title": "Change Request Template",
           "methodology": "traditional",
           "tags": [
@@ -11937,7 +11937,7 @@
           "similarity": 76
         },
         {
-          "path": "templates/traditional/Traditional/Templates/business_case_template.md",
+          "path": "templates/traditional/Traditional/Templates/business-case-template-template-general.md",
           "title": "Business Case Template",
           "methodology": "traditional",
           "tags": [
@@ -12171,7 +12171,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "industry-specializations/information-technology/software-development/api_documentation_template.md",
+          "path": "industry-specializations/information-technology/software-development/api-documentation-template-template-general.md",
           "title": "Api Documentation Template",
           "methodology": "universal",
           "tags": [
@@ -12190,7 +12190,7 @@
           "similarity": 65
         },
         {
-          "path": "templates/project-lifecycle/01-initiation/project-charter/agile-team-charter-template.md",
+          "path": "templates/project-lifecycle/01-initiation/project-charter/agile-team-charter-template-template-agile.md",
           "title": "Agile Team Charter Template",
           "methodology": "universal",
           "tags": [
@@ -12214,7 +12214,7 @@
           "similarity": 63
         },
         {
-          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template-template-agile.md",
           "title": "Agile Stakeholder Map Template",
           "methodology": "universal",
           "tags": [
@@ -12254,7 +12254,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/role-based/project-manager/essential-templates/budget-template.md",
+          "path": "templates/role-based/project-manager/essential-templates/budget-template-template-general.md",
           "title": "Budget Template",
           "methodology": "universal",
           "tags": [
@@ -12772,7 +12772,7 @@
           "similarity": 83
         },
         {
-          "path": "templates/business-stakeholder/financial-governance/enhanced-business-cases/advanced-business-case-template.md",
+          "path": "templates/business-stakeholder/financial-governance/enhanced-business-cases/advanced-business-case-template-template-general.md",
           "title": "Advanced Business Case Template",
           "methodology": "universal",
           "tags": [
@@ -12798,7 +12798,7 @@
           "similarity": 80
         },
         {
-          "path": "templates/role-based/project-manager/essential-templates/budget-template.md",
+          "path": "templates/role-based/project-manager/essential-templates/budget-template-template-general.md",
           "title": "Budget Template",
           "methodology": "universal",
           "tags": [
@@ -12845,7 +12845,7 @@
           "similarity": 83
         },
         {
-          "path": "industry-specializations/information-technology/software-development/api_documentation_template.md",
+          "path": "industry-specializations/information-technology/software-development/api-documentation-template-template-general.md",
           "title": "Api Documentation Template",
           "methodology": "universal",
           "tags": [
@@ -12946,7 +12946,7 @@
           "similarity": 100
         },
         {
-          "path": "industry-specializations/healthcare-pharmaceutical/compliance/capa_management_template.md",
+          "path": "industry-specializations/healthcare-pharmaceutical/compliance/capa-management-template-template-general.md",
           "title": "Capa Management Template",
           "methodology": "universal",
           "tags": [
@@ -13011,7 +13011,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/traditional/Traditional/Templates/change_request_template.md",
+          "path": "templates/traditional/Traditional/Templates/change-request-template-template-general.md",
           "title": "Change Request Template",
           "methodology": "traditional",
           "tags": [

@@ -260,7 +260,7 @@ class MethodologyRecommender {
     // Add complexity-based templates
     if (assessment.complexity === 'complex' || assessment.complexity === 'highly_complex') {
       templates.push('risk_register_template.md');
-      templates.push('change_request_template.md');
+      templates.push('change-request-template-template-general.md');
     }
 
     return templates;

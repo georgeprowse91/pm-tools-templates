@@ -89,7 +89,7 @@ create_template_file "project-assessment-suite/scoring-rating-guide.md" \
     "Scoring and Rating Guide" \
     "A comprehensive guide for scoring and rating project assessments across different criteria."
 
-create_template_file "project-assessment-suite/assessment-report-template.md" \
+create_template_file "project-assessment-suite/assessment-report-template-template-general.md" \
     "Assessment Report Template" \
     "A standardized template for generating comprehensive project assessment reports."
 

@@ -11,7 +11,7 @@
 - ✅ Added comprehensive legal disclaimers to README.md
 - ✅ Created LEGAL_NOTICES.md with full IP acknowledgments
 - ✅ Updated CONTRIBUTING.md with IP compliance requirements
-- ✅ Fixed trademark usage in change_request_template.md
+- ✅ Fixed trademark usage in change-request-template-template-general.md
 - ✅ Renamed Waterfall/ directory to Traditional/
 - ✅ Created Industry Standard_IP_RISK_MITIGATION_PLAN.md
 - ✅ Created MIGRATION_GUIDE.md for users

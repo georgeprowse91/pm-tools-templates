@@ -64,7 +64,7 @@ The Product Owner is the bridge between business value and development execution
 ### Product Backlog Structure
 **Organize work to maximize value delivery**
 
-### **[→ Download: Backlog Management Template](backlog-management-template.md)**
+### **[→ Download: Backlog Management Template](backlog-management-template-template-general.md)**
 
 **Backlog Hierarchy:**
 ```

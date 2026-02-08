@@ -17,25 +17,25 @@ Examples:
 
 | Template | Methodology | Complexity |
 |---|---|---|
-| [Advanced Business Case Template](templates/all/advanced-business-case-template.md) | universal | advanced |
-| [Agile Project Assessment Template](templates/all/agile-project-assessment-template.md) | universal | starter |
-| [Agile Release Plan Template](templates/all/agile-release-plan-template.md) | universal | advanced |
-| [Agile Risk Board Template](templates/all/agile-risk-board-template.md) | universal | advanced |
-| [Agile Stakeholder Map Template](templates/all/agile-stakeholder-map-template.md) | universal | intermediate |
-| [Agile Team Charter Template](templates/all/agile-team-charter-template.md) | universal | intermediate |
-| [Api Documentation Template](templates/all/api_documentation_template.md) | universal | advanced |
-| [Art Coordination Template](templates/all/art_coordination_template.md) | agile | advanced |
-| [Assessment Report Template](templates/all/assessment-report-template.md) | universal | starter |
-| [Backlog Management Template](templates/all/backlog-management-template.md) | universal | advanced |
-| [Backlog Refinement Template](templates/all/backlog-refinement-template.md) | agile | advanced |
-| [Batch Record Template](templates/all/batch_record_template.md) | universal | advanced |
-| [Budget Dashboard Template](templates/all/budget-dashboard-template.md) | universal | advanced |
-| [Budget Template](templates/all/budget-template.md) | universal | advanced |
-| [Business Case Template](templates/all/business_case_template.md) | traditional | advanced |
-| [Business Requirements Document Template](templates/all/business_requirements_document_template.md) | universal | advanced |
-| [Capa Management Template](templates/all/capa_management_template.md) | universal | advanced |
-| [Change Management Plan Template](templates/all/change_management_plan_template.md) | traditional | advanced |
-| [Change Request Template](templates/all/change_request_template.md) | traditional | advanced |
+| [Advanced Business Case Template](templates/all/advanced-business-case-template-template-general.md) | universal | advanced |
+| [Agile Project Assessment Template](templates/all/agile-project-assessment-template-template-agile.md) | universal | starter |
+| [Agile Release Plan Template](templates/all/agile-release-plan-template-template-agile.md) | universal | advanced |
+| [Agile Risk Board Template](templates/all/agile-risk-board-template-template-agile.md) | universal | advanced |
+| [Agile Stakeholder Map Template](templates/all/agile-stakeholder-map-template-template-agile.md) | universal | intermediate |
+| [Agile Team Charter Template](templates/all/agile-team-charter-template-template-agile.md) | universal | intermediate |
+| [Api Documentation Template](templates/all/api-documentation-template-template-general.md) | universal | advanced |
+| [Art Coordination Template](templates/all/art-coordination-template-template-general.md) | agile | advanced |
+| [Assessment Report Template](templates/all/assessment-report-template-template-general.md) | universal | starter |
+| [Backlog Management Template](templates/all/backlog-management-template-template-general.md) | universal | advanced |
+| [Backlog Refinement Template](templates/all/backlog-refinement-template-template-general.md) | agile | advanced |
+| [Batch Record Template](templates/all/batch-record-template-template-general.md) | universal | advanced |
+| [Budget Dashboard Template](templates/all/budget-dashboard-template-template-general.md) | universal | advanced |
+| [Budget Template](templates/all/budget-template-template-general.md) | universal | advanced |
+| [Business Case Template](templates/all/business-case-template-template-general.md) | traditional | advanced |
+| [Business Requirements Document Template](templates/all/business-requirements-document-template-template-general.md) | universal | advanced |
+| [Capa Management Template](templates/all/capa-management-template-template-general.md) | universal | advanced |
+| [Change Management Plan Template](templates/all/change-management-plan-template-template-general.md) | traditional | advanced |
+| [Change Request Template](templates/all/change-request-template-template-general.md) | traditional | advanced |
 | [Cicd Pipeline Planning Template](templates/all/cicd_pipeline_planning_template.md) | universal | advanced |
 | [Cleaning Validation Protocol Template](templates/all/cleaning_validation_protocol_template.md) | universal | advanced |
 | [Clinical Trial Protocol Template](templates/all/clinical_trial_protocol_template.md) | universal | advanced |
@@ -80,7 +80,7 @@ Examples:
 | [Issue Log Template](templates/all/issue_log_template.md) | traditional | advanced |
 | [Less Retrospective Template](templates/all/less-retrospective-template.md) | agile | advanced |
 | [Less Sprint Planning Template](templates/all/less-sprint-planning-template.md) | agile | advanced |
-| [Manufacturing Batch Record Template](templates/all/manufacturing_batch_record_template.md) | universal | advanced |
+| [Manufacturing Batch Record Template](templates/all/manufacturing_batch-record-template-template-general.md) | universal | advanced |
 | [Meeting Templates](templates/all/meeting-templates.md) | universal | advanced |
 | [Metrics Dashboard Template](templates/all/metrics_dashboard_template.md) | agile | advanced |
 | [Migration Plan Template](templates/all/migration_plan_template.md) | universal | starter |

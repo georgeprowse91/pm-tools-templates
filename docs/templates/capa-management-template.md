@@ -15,7 +15,7 @@
 
 title: "Capa Management Template"
 
-[**➡️ View Template File**](/templates/all/capa_management_template.md)
+[**➡️ View Template File**](/templates/all/capa-management-template-template-general.md)
 
 ## 📈 Quality Score
 
