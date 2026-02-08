@@ -3,7 +3,7 @@
 | current filename | core topic | inferred methodology | duplicate group ID | proposed canonical name |
 | --- | --- | --- | --- | --- |
 | advanced-business-case-template.md | advanced business case | general |  | advanced-business-case-template.md |
-| agile-project-assessment-template.md | project assessment | agile |  | agile-project-assessment-template.md |
+| agile-project-assessment-template-template-general.md | project assessment | agile |  | agile-project-assessment-template-template-general.md |
 | agile-release-plan-template.md | release plan | agile |  | agile-release-plan-template.md |
 | agile-risk-board-template.md | risk board | agile |  | agile-risk-board-template.md |
 | agile-stakeholder-map-template.md | stakeholder map | agile |  | agile-stakeholder-map-template.md |
@@ -51,11 +51,11 @@
 | handover-template-template-general.md | handover | general |  | handover-template-template-general.md |
 | health-authority-communication-plan-template-template-general.md | health authority communication plan | general |  | health-authority-communication-plan-template-template-general.md |
 | hybrid-infrastructure-template.md | infrastructure | hybrid |  | hybrid-infrastructure-template.md |
-| hybrid-project-assessment-template.md | project assessment | hybrid |  | hybrid-project-assessment-template.md |
-| hybrid-project-charter-all-template.md | project charter | hybrid | DUP-01 | hybrid-project-charter-template.md |
-| hybrid-project-charter-template.md | project charter | hybrid | DUP-01 | hybrid-project-charter-template.md |
-| hybrid-project-management-plan-template.md | project management plan | hybrid |  | hybrid-project-management-plan-template.md |
-| hybrid-quality-management-template.md | quality management | hybrid |  | hybrid-quality-management-template.md |
+| hybrid-project-assessment-template-template-general.md | project assessment | hybrid |  | hybrid-project-assessment-template-template-general.md |
+| hybrid-project-charter-all-template-template-general.md | project charter | hybrid | DUP-01 | hybrid-project-charter-template-template-general.md |
+| hybrid-project-charter-template-template-general.md | project charter | hybrid | DUP-01 | hybrid-project-charter-template-template-general.md |
+| hybrid-project-management-plan-template-template-general.md | project management plan | hybrid |  | hybrid-project-management-plan-template-template-general.md |
+| hybrid-quality-management-template-template-general.md | quality management | hybrid |  | hybrid-quality-management-template-template-general.md |
 | hybrid-release-planning-template.md | release planning | hybrid |  | hybrid-release-planning-template.md |
 | hybrid-team-management-template.md | team management | hybrid |  | hybrid-team-management-template.md |
 | incident-response-template-template-general.md | incident response | general |  | incident-response-template-template-general.md |
@@ -85,27 +85,27 @@
 | process-validation-master-plan-template.md | process validation master plan | general |  | process-validation-master-plan-template.md |
 | process-validation-protocol-template.md | process validation protocol | general |  | process-validation-protocol-template.md |
 | product-backlog-template.md | product backlog | general |  | product-backlog-template.md |
-| product-vision-template.md | product vision | general |  | product-vision-template.md |
-| program-charter-template.md | program charter | general |  | program-charter-template.md |
-| program-management-plan-template.md | program management plan | general |  | program-management-plan-template.md |
-| progressive-acceptance-plan-template.md | progressive acceptance plan | general |  | progressive-acceptance-plan-template.md |
-| project-charter-all-template.md | project charter | general | DUP-03 | project-charter-template.md |
-| project-charter-template.md | project charter | general | DUP-03 | project-charter-template.md |
-| project-closure-report-template.md | project closure report | general |  | project-closure-report-template.md |
-| project-dashboard-template.md | project dashboard | general |  | project-dashboard-template.md |
-| project-execution-status-report-template.md | project execution status report | general |  | project-execution-status-report-template.md |
-| project-health-assessment-template.md | project health assessment | general |  | project-health-assessment-template.md |
-| project-management-plan-template.md | project management plan | general |  | project-management-plan-template.md |
-| project-performance-monitoring-template.md | project performance monitoring | general |  | project-performance-monitoring-template.md |
-| project-roadmap-template.md | project roadmap | general |  | project-roadmap-template.md |
-| project-schedule-template.md | project schedule | general |  | project-schedule-template.md |
-| purchase-order-template.md | purchase order | general |  | purchase-order-template.md |
-| quality-management-review-template.md | quality management review | general |  | quality-management-review-template.md |
-| quality-test-plan-template.md | quality test plan | general |  | quality-test-plan-template.md |
-| raid-log-template.md | raid log | general |  | raid-log-template.md |
-| regulatory-inspection-readiness-plan-template.md | regulatory inspection readiness plan | general |  | regulatory-inspection-readiness-plan-template.md |
-| regulatory-strategy-plan-template.md | regulatory strategy plan | general |  | regulatory-strategy-plan-template.md |
-| release-management-template.md | release management | general |  | release-management-template.md |
+| product-vision-template-template-general.md | product vision | general |  | product-vision-template-template-general.md |
+| program-charter-template-template-general.md | program charter | general |  | program-charter-template-template-general.md |
+| program-management-plan-template-template-general.md | program management plan | general |  | program-management-plan-template-template-general.md |
+| progressive-acceptance-plan-template-template-general.md | progressive acceptance plan | general |  | progressive-acceptance-plan-template-template-general.md |
+| project-charter-all-template-template-general.md | project charter | general | DUP-03 | project-charter-template-template-general.md |
+| project-charter-template-template-general.md | project charter | general | DUP-03 | project-charter-template-template-general.md |
+| project-closure-report-template-template-general.md | project closure report | general |  | project-closure-report-template-template-general.md |
+| project-dashboard-template-template-general.md | project dashboard | general |  | project-dashboard-template-template-general.md |
+| project-execution-status-report-template-template-general.md | project execution status report | general |  | project-execution-status-report-template-template-general.md |
+| project-health-assessment-template-template-general.md | project health assessment | general |  | project-health-assessment-template-template-general.md |
+| project-management-plan-template-template-general.md | project management plan | general |  | project-management-plan-template-template-general.md |
+| project-performance-monitoring-template-template-general.md | project performance monitoring | general |  | project-performance-monitoring-template-template-general.md |
+| project-roadmap-template-template-general.md | project roadmap | general |  | project-roadmap-template-template-general.md |
+| project-schedule-template-template-general.md | project schedule | general |  | project-schedule-template-template-general.md |
+| purchase-order-template-template-general.md | purchase order | general |  | purchase-order-template-template-general.md |
+| quality-management-review-template-template-general.md | quality management review | general |  | quality-management-review-template-template-general.md |
+| quality-test-plan-template-template-general.md | quality test plan | general |  | quality-test-plan-template-template-general.md |
+| raid-log-template-template-general.md | raid log | general |  | raid-log-template-template-general.md |
+| regulatory-inspection-readiness-plan-template-template-general.md | regulatory inspection readiness plan | general |  | regulatory-inspection-readiness-plan-template-template-general.md |
+| regulatory-strategy-plan-template-template-general.md | regulatory strategy plan | general |  | regulatory-strategy-plan-template-template-general.md |
+| release-management-template-template-general.md | release management | general |  | release-management-template-template-general.md |
 | remediation-action-plan-template.md | remediation action plan | general |  | remediation-action-plan-template.md |
 | requirements-specification-template.md | requirements specification | general |  | requirements-specification-template.md |
 | requirements-traceability-matrix-template.md | requirements traceability matrix | general |  | requirements-traceability-matrix-template.md |
@@ -121,7 +121,7 @@
 | safe-metrics-dashboard-template.md | metrics dashboard | safe |  | safe-metrics-dashboard-template.md |
 | safe-metrics-reporting-template.md | metrics reporting | safe |  | safe-metrics-reporting-template.md |
 | safe-portfolio-kanban-template.md | portfolio kanban | safe |  | safe-portfolio-kanban-template.md |
-| safe-program-increment-planning-template.md | program increment planning | safe |  | safe-program-increment-planning-template.md |
+| safe-program-increment-planning-template-template-general.md | program increment planning | safe |  | safe-program-increment-planning-template-template-general.md |
 | skills-matrix-template.md | skills matrix | general |  | skills-matrix-template.md |
 | software-requirements-specification-template.md | software requirements specification | general |  | software-requirements-specification-template.md |
 | sprint-planning-all-template.md | sprint planning | general | DUP-05 | sprint-planning-template.md |
@@ -139,13 +139,13 @@
 | technical-design-document-template.md | technical design document | general |  | technical-design-document-template.md |
 | test-plan-template.md | test plan | general |  | test-plan-template.md |
 | timesheet-tracking-template.md | timesheet tracking | general |  | timesheet-tracking-template.md |
-| traditional-project-charter-template.md | project charter | traditional |  | traditional-project-charter-template.md |
-| traditional-project-management-plan-template.md | project management plan | traditional |  | traditional-project-management-plan-template.md |
+| traditional-project-charter-template-template-general.md | project charter | traditional |  | traditional-project-charter-template-template-general.md |
+| traditional-project-management-plan-template-template-general.md | project management plan | traditional |  | traditional-project-management-plan-template-template-general.md |
 | uat-plan-template.md | uat plan | general |  | uat-plan-template.md |
 | uat-strategy-template.md | uat strategy | general |  | uat-strategy-template.md |
 | user-empathy-mapping-template.md | user empathy mapping | general |  | user-empathy-mapping-template.md |
 | user-story-mapping-template.md | user story mapping | general |  | user-story-mapping-template.md |
 | user-story-template.md | user story | general |  | user-story-template.md |
 | validation-master-plan-template.md | validation master plan | general |  | validation-master-plan-template.md |
-| waterfall-project-assessment-template.md | project assessment | waterfall |  | waterfall-project-assessment-template.md |
+| waterfall-project-assessment-template-template-general.md | project assessment | waterfall |  | waterfall-project-assessment-template-template-general.md |
 | work-breakdown-structure-template.md | work breakdown structure | general |  | work-breakdown-structure-template.md |
