@@ -27,29 +27,29 @@
 | communication-plan-template.md | communication plan | general |  | communication-plan-template.md |
 | compliance-management-template.md | compliance management | general |  | compliance-management-template.md |
 | compliance-risk-assessment-template.md | compliance risk assessment | general |  | compliance-risk-assessment-template.md |
-| computer-system-validation-protocol-template.md | computer system validation protocol | general |  | computer-system-validation-protocol-template.md |
-| cross-team-coordination-template.md | cross team coordination | general |  | cross-team-coordination-template.md |
-| current-state-analysis-template.md | current state analysis | general |  | current-state-analysis-template.md |
-| cybersecurity-assessment-template.md | cybersecurity assessment | general |  | cybersecurity-assessment-template.md |
-| daily-standup-template.md | daily standup | general |  | daily-standup-template.md |
-| data-center-design-template.md | data center design | general |  | data-center-design-template.md |
-| design-thinking-workshop-template.md | design thinking workshop | general |  | design-thinking-workshop-template.md |
-| devsecops-template.md | devsecops | general |  | devsecops-template.md |
-| digital-transformation-strategy-template.md | digital transformation strategy | general |  | digital-transformation-strategy-template.md |
-| disaster-recovery-template.md | disaster recovery | general |  | disaster-recovery-template.md |
-| enterprise-risk-assessment-template.md | enterprise risk assessment | general |  | enterprise-risk-assessment-template.md |
-| enterprise-stakeholder-analysis-template.md | enterprise stakeholder analysis | general |  | enterprise-stakeholder-analysis-template.md |
-| equipment-qualification-protocol-template.md | equipment qualification protocol | general |  | equipment-qualification-protocol-template.md |
-| evm-dashboard-template.md | evm dashboard | general |  | evm-dashboard-template.md |
-| executive-dashboard-template.md | executive dashboard | general |  | executive-dashboard-template.md |
-| executive-report-templates.md | executive report | general |  | executive-report-template.md |
-| executive-summary-template.md | executive summary | general |  | executive-summary-template.md |
-| future-state-blueprint-template.md | future state blueprint | general |  | future-state-blueprint-template.md |
-| gap-analysis-matrix-template.md | gap analysis matrix | general |  | gap-analysis-matrix-template.md |
-| governance-assessment-template.md | governance assessment | general |  | governance-assessment-template.md |
-| gxp-training-plan-template.md | gxp training plan | general |  | gxp-training-plan-template.md |
-| handover-template.md | handover | general |  | handover-template.md |
-| health-authority-communication-plan-template.md | health authority communication plan | general |  | health-authority-communication-plan-template.md |
+| computer-system-validation-protocol-template-template-general.md | computer system validation protocol | general |  | computer-system-validation-protocol-template-template-general.md |
+| cross-team-coordination-template-template-general.md | cross team coordination | general |  | cross-team-coordination-template-template-general.md |
+| current-state-analysis-template-template-general.md | current state analysis | general |  | current-state-analysis-template-template-general.md |
+| cybersecurity-assessment-template-template-general.md | cybersecurity assessment | general |  | cybersecurity-assessment-template-template-general.md |
+| daily-standup-template-template-general.md | daily standup | general |  | daily-standup-template-template-general.md |
+| data-center-design-template-template-general.md | data center design | general |  | data-center-design-template-template-general.md |
+| design-thinking-workshop-template-template-general.md | design thinking workshop | general |  | design-thinking-workshop-template-template-general.md |
+| devsecops-template-template-general.md | devsecops | general |  | devsecops-template-template-general.md |
+| digital-transformation-strategy-template-template-general.md | digital transformation strategy | general |  | digital-transformation-strategy-template-template-general.md |
+| disaster-recovery-template-template-general.md | disaster recovery | general |  | disaster-recovery-template-template-general.md |
+| enterprise-risk-assessment-template-template-general.md | enterprise risk assessment | general |  | enterprise-risk-assessment-template-template-general.md |
+| enterprise-stakeholder-analysis-template-template-general.md | enterprise stakeholder analysis | general |  | enterprise-stakeholder-analysis-template-template-general.md |
+| equipment-qualification-protocol-template-template-general.md | equipment qualification protocol | general |  | equipment-qualification-protocol-template-template-general.md |
+| evm-dashboard-template-template-general.md | evm dashboard | general |  | evm-dashboard-template-template-general.md |
+| executive-dashboard-template-template-general.md | executive dashboard | general |  | executive-dashboard-template-template-general.md |
+| executive-report-templates-template-general.md | executive report | general |  | executive-report-templates-template-general.md |
+| executive-summary-template-template-general.md | executive summary | general |  | executive-summary-template-template-general.md |
+| future-state-blueprint-template-template-general.md | future state blueprint | general |  | future-state-blueprint-template-template-general.md |
+| gap-analysis-matrix-template-template-general.md | gap analysis matrix | general |  | gap-analysis-matrix-template-template-general.md |
+| governance-assessment-template-template-general.md | governance assessment | general |  | governance-assessment-template-template-general.md |
+| gxp-training-plan-template-template-general.md | gxp training plan | general |  | gxp-training-plan-template-template-general.md |
+| handover-template-template-general.md | handover | general |  | handover-template-template-general.md |
+| health-authority-communication-plan-template-template-general.md | health authority communication plan | general |  | health-authority-communication-plan-template-template-general.md |
 | hybrid-infrastructure-template.md | infrastructure | hybrid |  | hybrid-infrastructure-template.md |
 | hybrid-project-assessment-template.md | project assessment | hybrid |  | hybrid-project-assessment-template.md |
 | hybrid-project-charter-all-template.md | project charter | hybrid | DUP-01 | hybrid-project-charter-template.md |
@@ -58,8 +58,8 @@
 | hybrid-quality-management-template.md | quality management | hybrid |  | hybrid-quality-management-template.md |
 | hybrid-release-planning-template.md | release planning | hybrid |  | hybrid-release-planning-template.md |
 | hybrid-team-management-template.md | team management | hybrid |  | hybrid-team-management-template.md |
-| incident-response-template.md | incident response | general |  | incident-response-template.md |
-| infrastructure-as-code-template.md | infrastructure as code | general |  | infrastructure-as-code-template.md |
+| incident-response-template-template-general.md | incident response | general |  | incident-response-template-template-general.md |
+| infrastructure-as-code-template-template-general.md | infrastructure as code | general |  | infrastructure-as-code-template-template-general.md |
 | infrastructure-assessment-template.md | infrastructure assessment | general |  | infrastructure-assessment-template.md |
 | installation-qualification-protocol-template.md | installation qualification protocol | general |  | installation-qualification-protocol-template.md |
 | integrated-change-strategy-template.md | integrated change strategy | general |  | integrated-change-strategy-template.md |
