@@ -4,10 +4,10 @@ This directory contains working project artifacts generated from pm-tools-templa
 The initial documents are based on repository templates and customized for the Codex PM Tools Implementation project.
 
 ## Contents
-- `hybrid_project_charter.md` – baseline project charter
+- `hybrid-project-charter-draft-template.md` – baseline project charter
 - `project_initiation_checklist.md` – initiation readiness checklist
-- `hybrid_project_management_plan.md` – consolidated management plan
-- `hybrid_release_plan.md` – cross-release planning guide
+- `hybrid-project-management-plan-draft-template.md` – consolidated management plan
+- `hybrid-release-plan-template.md` – cross-release planning guide
 - `progressive_acceptance_plan.md` – incremental acceptance approach
 - `sprint1_planning.md` – sprint planning record for Sprint 1
 - `sprint1_review.md` – sprint review template

@@ -15,7 +15,7 @@
 
 title: "Safe Program Increment Planning Template"
 
-[**➡️ View Template File**](/templates/all/safe_program_increment_planning_template.md)
+[**➡️ View Template File**](/templates/all/safe-program-increment-planning-template.md)
 
 ## 📈 Quality Score
 

@@ -64,19 +64,19 @@ Examples:
 | [Health Authority Communication Plan Template](templates/all/health_authority_communication_plan_template.md) | universal | advanced |
 | [Hybrid Infrastructure Template](templates/all/hybrid-infrastructure-template.md) | hybrid | advanced |
 | [Hybrid Project Assessment Template](templates/all/hybrid-project-assessment-template.md) | universal | starter |
-| [Hybrid Project Charter Template](templates/all/hybrid_project_charter_template.md) | hybrid | advanced |
+| [Hybrid Project Charter Template](templates/all/hybrid-project-charter-metadata-template.md) | hybrid | advanced |
 | [Hybrid Project Management Plan Template](templates/all/hybrid-project-management-plan-template.md) | universal | starter |
-| [Hybrid Quality Management Template](templates/all/hybrid_quality_management_template.md) | hybrid | advanced |
-| [Hybrid Release Planning Template](templates/all/hybrid_release_planning_template.md) | hybrid | advanced |
-| [Hybrid Team Management Template](templates/all/hybrid_team_management_template.md) | hybrid | advanced |
+| [Hybrid Quality Management Template](templates/all/hybrid-quality-management-template.md) | hybrid | advanced |
+| [Hybrid Release Planning Template](templates/all/hybrid-release-planning-template.md) | hybrid | advanced |
+| [Hybrid Team Management Template](templates/all/hybrid-team-management-template.md) | hybrid | advanced |
 | [Incident Response Template](templates/all/incident_response_template.md) | universal | advanced |
 | [Infrastructure As Code Template](templates/all/infrastructure_as_code_template.md) | universal | advanced |
 | [Infrastructure Assessment Template](templates/all/infrastructure_assessment_template.md) | universal | advanced |
 | [Installation Qualification Protocol Template](templates/all/installation_qualification_protocol_template.md) | universal | advanced |
 | [Integrated Change Strategy Template](templates/all/integrated_change_strategy_template.md) | hybrid | advanced |
 | [Issue Log Template](templates/all/issue_log_template.md) | traditional | advanced |
-| [Less Retrospective Template](templates/all/less_retrospective_template.md) | agile | advanced |
-| [Less Sprint Planning Template](templates/all/less_sprint_planning_template.md) | agile | advanced |
+| [Less Retrospective Template](templates/all/less-retrospective-template.md) | agile | advanced |
+| [Less Sprint Planning Template](templates/all/less-sprint-planning-template.md) | agile | advanced |
 | [Manufacturing Batch Record Template](templates/all/manufacturing_batch_record_template.md) | universal | advanced |
 | [Meeting Templates](templates/all/meeting-templates.md) | universal | advanced |
 | [Metrics Dashboard Template](templates/all/metrics_dashboard_template.md) | agile | advanced |
@@ -125,11 +125,11 @@ Examples:
 | [Risk Management Plan Template](templates/all/risk-management-plan-template.md) | universal | advanced |
 | [Risk Register Template](templates/all/risk_register_template.md) | universal | advanced |
 | [Roi Tracking Template](templates/all/roi_tracking_template.md) | traditional | advanced |
-| [Safe Art Coordination Template](templates/all/safe_art_coordination_template.md) | agile | advanced |
-| [Safe Metrics Dashboard Template](templates/all/safe_metrics_dashboard_template.md) | agile | advanced |
-| [Safe Metrics Reporting Template](templates/all/safe_metrics_reporting_template.md) | agile | advanced |
-| [Safe Portfolio Kanban Template](templates/all/safe_portfolio_kanban_template.md) | agile | advanced |
-| [Safe Program Increment Planning Template](templates/all/safe_program_increment_planning_template.md) | agile | advanced |
+| [Safe Art Coordination Template](templates/all/safe-art-coordination-template.md) | agile | advanced |
+| [Safe Metrics Dashboard Template](templates/all/safe-metrics-dashboard-template.md) | agile | advanced |
+| [Safe Metrics Reporting Template](templates/all/safe-metrics-reporting-template.md) | agile | advanced |
+| [Safe Portfolio Kanban Template](templates/all/safe-portfolio-kanban-template.md) | agile | advanced |
+| [Safe Program Increment Planning Template](templates/all/safe-program-increment-planning-template.md) | agile | advanced |
 | [Skills Matrix Template](templates/all/skills-matrix-template.md) | universal | advanced |
 | [Software Requirements Specification Template](templates/all/software_requirements_specification_template.md) | universal | advanced |
 | [Sprint Planning Template](templates/all/sprint_planning_template.md) | agile | intermediate |

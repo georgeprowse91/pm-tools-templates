@@ -15,7 +15,7 @@
 
 title: "Safe Art Coordination Template"
 
-[**➡️ View Template File**](/templates/all/safe_art_coordination_template.md)
+[**➡️ View Template File**](/templates/all/safe-art-coordination-template.md)
 
 ## 📈 Quality Score
 

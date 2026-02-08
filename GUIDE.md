@@ -118,9 +118,9 @@ This guide will help you understand:
 
 | Template | Description | When to Use | Path |
 |----------|-------------|-------------|------|
-| **Hybrid Project Charter** | Project authorization with balanced traditional and agile elements | Project initiation in hybrid environments | `Hybrid/Templates/hybrid_project_charter_template.md` |
-| **Hybrid Release Planning** | Framework for planning releases using mixed methods | Early planning in hybrid projects | `Hybrid/Templates/hybrid_release_planning_template.md` |
-| **Hybrid Team Management** | Guidance for managing teams across methodologies | Team formation and development | `Hybrid/Templates/hybrid_team_management_template.md` |
+| **Hybrid Project Charter** | Project authorization with balanced traditional and agile elements | Project initiation in hybrid environments | `Hybrid/Templates/hybrid-project-charter-metadata-template.md` |
+| **Hybrid Release Planning** | Framework for planning releases using mixed methods | Early planning in hybrid projects | `Hybrid/Templates/hybrid-release-planning-template.md` |
+| **Hybrid Team Management** | Guidance for managing teams across methodologies | Team formation and development | `Hybrid/Templates/hybrid-team-management-template.md` |
 
 ## Methodology Selection Guidance
 

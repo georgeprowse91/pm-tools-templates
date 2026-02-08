@@ -684,7 +684,7 @@
           "similarity": 100
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less_sprint_planning_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-sprint-planning-template.md",
           "title": "Less Sprint Planning Template",
           "methodology": "agile",
           "tags": [
@@ -699,7 +699,7 @@
           "similarity": 100
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_art_coordination_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-art-coordination-template.md",
           "title": "Safe Art Coordination Template",
           "methodology": "agile",
           "tags": [
@@ -731,7 +731,7 @@
           "similarity": 94
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less_retrospective_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-retrospective-template.md",
           "title": "Less Retrospective Template",
           "methodology": "agile",
           "tags": [
@@ -962,7 +962,7 @@
           "similarity": 88
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_program_increment_planning_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-program-increment-planning-template.md",
           "title": "Safe Program Increment Planning Template",
           "methodology": "agile",
           "tags": [
@@ -2479,7 +2479,7 @@
           "similarity": 100
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less_sprint_planning_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-sprint-planning-template.md",
           "title": "Less Sprint Planning Template",
           "methodology": "agile",
           "tags": [
@@ -2494,7 +2494,7 @@
           "similarity": 100
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_art_coordination_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-art-coordination-template.md",
           "title": "Safe Art Coordination Template",
           "methodology": "agile",
           "tags": [
@@ -2526,7 +2526,7 @@
           "similarity": 94
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less_retrospective_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-retrospective-template.md",
           "title": "Less Retrospective Template",
           "methodology": "agile",
           "tags": [
@@ -4555,7 +4555,7 @@
           "similarity": 100
         },
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid_release_planning_template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-release-planning-template.md",
           "title": "Hybrid Release Planning Template",
           "methodology": "hybrid",
           "tags": [
@@ -4569,7 +4569,7 @@
           "similarity": 93
         },
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid_team_management_template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-team-management-template.md",
           "title": "Hybrid Team Management Template",
           "methodology": "hybrid",
           "tags": [
@@ -4583,7 +4583,7 @@
           "similarity": 93
         },
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid_quality_management_template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-quality-management-template.md",
           "title": "Hybrid Quality Management Template",
           "methodology": "hybrid",
           "tags": [
@@ -4688,7 +4688,7 @@
       ]
     },
     {
-      "path": "templates/hybrid/Hybrid/Templates/hybrid_project_charter_template.md",
+      "path": "templates/hybrid/Hybrid/Templates/hybrid-project-charter-metadata-template.md",
       "title": "Hybrid Project Charter Template",
       "methodology": "hybrid",
       "complexity": "advanced",
@@ -4710,7 +4710,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid_release_planning_template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-release-planning-template.md",
           "title": "Hybrid Release Planning Template",
           "methodology": "hybrid",
           "tags": [
@@ -4724,7 +4724,7 @@
           "similarity": 92
         },
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid_team_management_template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-team-management-template.md",
           "title": "Hybrid Team Management Template",
           "methodology": "hybrid",
           "tags": [
@@ -4753,7 +4753,7 @@
           "similarity": 86
         },
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid_quality_management_template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-quality-management-template.md",
           "title": "Hybrid Quality Management Template",
           "methodology": "hybrid",
           "tags": [
@@ -4871,7 +4871,7 @@
       ]
     },
     {
-      "path": "templates/hybrid/Hybrid/Templates/hybrid_quality_management_template.md",
+      "path": "templates/hybrid/Hybrid/Templates/hybrid-quality-management-template.md",
       "title": "Hybrid Quality Management Template",
       "methodology": "hybrid",
       "complexity": "advanced",
@@ -4940,7 +4940,7 @@
           "similarity": 88
         },
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid_project_charter_template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-project-charter-metadata-template.md",
           "title": "Hybrid Project Charter Template",
           "methodology": "hybrid",
           "tags": [
@@ -4953,7 +4953,7 @@
           "similarity": 86
         },
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid_release_planning_template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-release-planning-template.md",
           "title": "Hybrid Release Planning Template",
           "methodology": "hybrid",
           "tags": [
@@ -4969,7 +4969,7 @@
       ]
     },
     {
-      "path": "templates/hybrid/Hybrid/Templates/hybrid_release_planning_template.md",
+      "path": "templates/hybrid/Hybrid/Templates/hybrid-release-planning-template.md",
       "title": "Hybrid Release Planning Template",
       "methodology": "hybrid",
       "complexity": "advanced",
@@ -4992,7 +4992,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid_team_management_template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-team-management-template.md",
           "title": "Hybrid Team Management Template",
           "methodology": "hybrid",
           "tags": [
@@ -5051,7 +5051,7 @@
           "similarity": 93
         },
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid_project_charter_template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-project-charter-metadata-template.md",
           "title": "Hybrid Project Charter Template",
           "methodology": "hybrid",
           "tags": [
@@ -5066,7 +5066,7 @@
       ]
     },
     {
-      "path": "templates/hybrid/Hybrid/Templates/hybrid_team_management_template.md",
+      "path": "templates/hybrid/Hybrid/Templates/hybrid-team-management-template.md",
       "title": "Hybrid Team Management Template",
       "methodology": "hybrid",
       "complexity": "advanced",
@@ -5089,7 +5089,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid_release_planning_template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-release-planning-template.md",
           "title": "Hybrid Release Planning Template",
           "methodology": "hybrid",
           "tags": [
@@ -5148,7 +5148,7 @@
           "similarity": 93
         },
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid_project_charter_template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-project-charter-metadata-template.md",
           "title": "Hybrid Project Charter Template",
           "methodology": "hybrid",
           "tags": [
@@ -5566,7 +5566,7 @@
           "similarity": 100
         },
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid_release_planning_template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-release-planning-template.md",
           "title": "Hybrid Release Planning Template",
           "methodology": "hybrid",
           "tags": [
@@ -5580,7 +5580,7 @@
           "similarity": 93
         },
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid_team_management_template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-team-management-template.md",
           "title": "Hybrid Team Management Template",
           "methodology": "hybrid",
           "tags": [
@@ -5594,7 +5594,7 @@
           "similarity": 93
         },
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid_quality_management_template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-quality-management-template.md",
           "title": "Hybrid Quality Management Template",
           "methodology": "hybrid",
           "tags": [
@@ -5718,7 +5718,7 @@
       ]
     },
     {
-      "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less_retrospective_template.md",
+      "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-retrospective-template.md",
       "title": "Less Retrospective Template",
       "methodology": "agile",
       "complexity": "advanced",
@@ -5771,7 +5771,7 @@
           "similarity": 93
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less_sprint_planning_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-sprint-planning-template.md",
           "title": "Less Sprint Planning Template",
           "methodology": "agile",
           "tags": [
@@ -5786,7 +5786,7 @@
           "similarity": 93
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_art_coordination_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-art-coordination-template.md",
           "title": "Safe Art Coordination Template",
           "methodology": "agile",
           "tags": [
@@ -5820,7 +5820,7 @@
       ]
     },
     {
-      "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less_sprint_planning_template.md",
+      "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-sprint-planning-template.md",
       "title": "Less Sprint Planning Template",
       "methodology": "agile",
       "complexity": "advanced",
@@ -5874,7 +5874,7 @@
           "similarity": 100
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_art_coordination_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-art-coordination-template.md",
           "title": "Safe Art Coordination Template",
           "methodology": "agile",
           "tags": [
@@ -5906,7 +5906,7 @@
           "similarity": 94
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less_retrospective_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-retrospective-template.md",
           "title": "Less Retrospective Template",
           "methodology": "agile",
           "tags": [
@@ -6130,7 +6130,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_metrics_dashboard_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-metrics-dashboard-template.md",
           "title": "Safe Metrics Dashboard Template",
           "methodology": "agile",
           "tags": [
@@ -6145,7 +6145,7 @@
           "similarity": 100
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_metrics_reporting_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-metrics-reporting-template.md",
           "title": "Safe Metrics Reporting Template",
           "methodology": "agile",
           "tags": [
@@ -6160,7 +6160,7 @@
           "similarity": 100
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_art_coordination_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-art-coordination-template.md",
           "title": "Safe Art Coordination Template",
           "methodology": "agile",
           "tags": [
@@ -6176,7 +6176,7 @@
           "similarity": 94
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_program_increment_planning_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-program-increment-planning-template.md",
           "title": "Safe Program Increment Planning Template",
           "methodology": "agile",
           "tags": [
@@ -6586,7 +6586,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_art_coordination_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-art-coordination-template.md",
           "title": "Safe Art Coordination Template",
           "methodology": "agile",
           "tags": [
@@ -6646,7 +6646,7 @@
           "similarity": 88
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less_sprint_planning_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-sprint-planning-template.md",
           "title": "Less Sprint Planning Template",
           "methodology": "agile",
           "tags": [
@@ -6863,7 +6863,7 @@
           "similarity": 92
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_program_increment_planning_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-program-increment-planning-template.md",
           "title": "Safe Program Increment Planning Template",
           "methodology": "agile",
           "tags": [
@@ -6946,7 +6946,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_portfolio_kanban_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-portfolio-kanban-template.md",
           "title": "Safe Portfolio Kanban Template",
           "methodology": "agile",
           "tags": [
@@ -6974,7 +6974,7 @@
           "similarity": 92
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_program_increment_planning_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-program-increment-planning-template.md",
           "title": "Safe Program Increment Planning Template",
           "methodology": "agile",
           "tags": [
@@ -7505,7 +7505,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_program_increment_planning_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-program-increment-planning-template.md",
           "title": "Safe Program Increment Planning Template",
           "methodology": "agile",
           "tags": [
@@ -7933,7 +7933,7 @@
           "similarity": 100
         },
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid_release_planning_template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-release-planning-template.md",
           "title": "Hybrid Release Planning Template",
           "methodology": "hybrid",
           "tags": [
@@ -7947,7 +7947,7 @@
           "similarity": 93
         },
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid_team_management_template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-team-management-template.md",
           "title": "Hybrid Team Management Template",
           "methodology": "hybrid",
           "tags": [
@@ -7961,7 +7961,7 @@
           "similarity": 93
         },
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid_quality_management_template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-quality-management-template.md",
           "title": "Hybrid Quality Management Template",
           "methodology": "hybrid",
           "tags": [
@@ -10496,7 +10496,7 @@
       ]
     },
     {
-      "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_art_coordination_template.md",
+      "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-art-coordination-template.md",
       "title": "Safe Art Coordination Template",
       "methodology": "agile",
       "complexity": "advanced",
@@ -10551,7 +10551,7 @@
           "similarity": 94
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less_sprint_planning_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-sprint-planning-template.md",
           "title": "Less Sprint Planning Template",
           "methodology": "agile",
           "tags": [
@@ -10598,7 +10598,7 @@
       ]
     },
     {
-      "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_metrics_dashboard_template.md",
+      "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-metrics-dashboard-template.md",
       "title": "Safe Metrics Dashboard Template",
       "methodology": "agile",
       "complexity": "advanced",
@@ -10637,7 +10637,7 @@
           "similarity": 100
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_metrics_reporting_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-metrics-reporting-template.md",
           "title": "Safe Metrics Reporting Template",
           "methodology": "agile",
           "tags": [
@@ -10652,7 +10652,7 @@
           "similarity": 100
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_art_coordination_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-art-coordination-template.md",
           "title": "Safe Art Coordination Template",
           "methodology": "agile",
           "tags": [
@@ -10668,7 +10668,7 @@
           "similarity": 94
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_program_increment_planning_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-program-increment-planning-template.md",
           "title": "Safe Program Increment Planning Template",
           "methodology": "agile",
           "tags": [
@@ -10699,7 +10699,7 @@
       ]
     },
     {
-      "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_metrics_reporting_template.md",
+      "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-metrics-reporting-template.md",
       "title": "Safe Metrics Reporting Template",
       "methodology": "agile",
       "complexity": "advanced",
@@ -10738,7 +10738,7 @@
           "similarity": 100
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_metrics_dashboard_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-metrics-dashboard-template.md",
           "title": "Safe Metrics Dashboard Template",
           "methodology": "agile",
           "tags": [
@@ -10753,7 +10753,7 @@
           "similarity": 100
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_art_coordination_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-art-coordination-template.md",
           "title": "Safe Art Coordination Template",
           "methodology": "agile",
           "tags": [
@@ -10769,7 +10769,7 @@
           "similarity": 94
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_program_increment_planning_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-program-increment-planning-template.md",
           "title": "Safe Program Increment Planning Template",
           "methodology": "agile",
           "tags": [
@@ -10800,7 +10800,7 @@
       ]
     },
     {
-      "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_portfolio_kanban_template.md",
+      "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-portfolio-kanban-template.md",
       "title": "Safe Portfolio Kanban Template",
       "methodology": "agile",
       "complexity": "advanced",
@@ -10868,7 +10868,7 @@
           "similarity": 88
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_metrics_dashboard_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-metrics-dashboard-template.md",
           "title": "Safe Metrics Dashboard Template",
           "methodology": "agile",
           "tags": [
@@ -10883,7 +10883,7 @@
           "similarity": 88
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_metrics_reporting_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-metrics-reporting-template.md",
           "title": "Safe Metrics Reporting Template",
           "methodology": "agile",
           "tags": [
@@ -10900,7 +10900,7 @@
       ]
     },
     {
-      "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_program_increment_planning_template.md",
+      "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-program-increment-planning-template.md",
       "title": "Safe Program Increment Planning Template",
       "methodology": "agile",
       "complexity": "advanced",
@@ -10953,7 +10953,7 @@
           "similarity": 93
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less_sprint_planning_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-sprint-planning-template.md",
           "title": "Less Sprint Planning Template",
           "methodology": "agile",
           "tags": [
@@ -10983,7 +10983,7 @@
           "similarity": 93
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_metrics_dashboard_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-metrics-dashboard-template.md",
           "title": "Safe Metrics Dashboard Template",
           "methodology": "agile",
           "tags": [
@@ -11227,7 +11227,7 @@
           "similarity": 90
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe_program_increment_planning_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/safe/safe-program-increment-planning-template.md",
           "title": "Safe Program Increment Planning Template",
           "methodology": "agile",
           "tags": [
@@ -11353,7 +11353,7 @@
           "similarity": 86
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less_sprint_planning_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-sprint-planning-template.md",
           "title": "Less Sprint Planning Template",
           "methodology": "agile",
           "tags": [
@@ -11436,7 +11436,7 @@
           "similarity": 93
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less_sprint_planning_template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-sprint-planning-template.md",
           "title": "Less Sprint Planning Template",
           "methodology": "agile",
           "tags": [

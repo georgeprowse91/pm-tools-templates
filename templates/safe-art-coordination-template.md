@@ -520,8 +520,8 @@ Solution Level Metrics:
 
 ## 🔄 Related Templates
 
-- [PI Planning Template](./safe_program_increment_planning_template.md)
-- [Portfolio Kanban Template](./safe_portfolio_kanban_template.md)
+- [PI Planning Template](./safe-program-increment-planning-template.md)
+- [Portfolio Kanban Template](./safe-portfolio-kanban-template.md)
 - [SAFe Metrics Dashboard Template](./metrics_dashboard_template.md)
 
 ---
