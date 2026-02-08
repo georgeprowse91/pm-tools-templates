@@ -1,4 +1,4 @@
-# Sprint Review Template
+# Sprint Retrospective Template
 
 ## 📄 Template Details
 
@@ -8,14 +8,14 @@
 | **Complexity** | advanced |
 | **Owner** | mirichard |
 | **Last Updated** | 2025-08-05 |
-| **Tags** | agile, scrum, technology, stakeholder-management, quality |
-| **File Size** | 7128 bytes |
+| **Tags** | agile, scrum, technology, communication, planning, quality |
+| **File Size** | 9035 bytes |
 
 ## 💡 Usage
 
-title: "Sprint Review Template"
+title: "Sprint Retrospective Template"
 
-[**➡️ View Template File**](/templates/role-based/scrum-master/agile-ceremonies/sprint-review-template.md)
+[**➡️ View Template File**](/templates/role-based/scrum-master/agile-ceremonies/sprint-retrospective-template-template-general.md)
 
 ## 📈 Quality Score
 

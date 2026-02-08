@@ -1,4 +1,4 @@
-# Skills Matrix Template
+# Agile Risk Board Template
 
 ## 📄 Template Details
 
@@ -8,14 +8,14 @@
 | **Complexity** | advanced |
 | **Owner** | mirichard |
 | **Last Updated** | 2025-08-05 |
-| **Tags** | risk-management, stakeholder-management, communication, planning, quality |
-| **File Size** | 18751 bytes |
+| **Tags** | agile, risk-management, stakeholder-management, communication, planning, monitoring, quality |
+| **File Size** | 15228 bytes |
 
 ## 💡 Usage
 
-title: "Skills Matrix Template"
+title: "Agile Risk Board Template"
 
-[**➡️ View Template File**](/templates/all/skills-matrix-template.md)
+[**➡️ View Template File**](/templates/all/agile-risk-board-template-template-general.md)
 
 ## 📈 Quality Score
 

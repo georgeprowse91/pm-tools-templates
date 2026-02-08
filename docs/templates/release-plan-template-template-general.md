@@ -1,21 +1,21 @@
-# Hybrid Team Management Template
+# Agile Release Plan Template
 
 ## 📄 Template Details
 
 | Attribute | Value |
 |---|---|
-| **Methodology** | hybrid |
+| **Methodology** | universal |
 | **Complexity** | advanced |
 | **Owner** | mirichard |
 | **Last Updated** | 2025-08-05 |
-| **Tags** | hybrid, risk-management, stakeholder-management, communication, planning, quality |
-| **File Size** | 37254 bytes |
+| **Tags** | agile, risk-management, stakeholder-management, communication, planning, monitoring, quality |
+| **File Size** | 7806 bytes |
 
 ## 💡 Usage
 
-title: "Hybrid Team Management Template"
+title: "Agile Release Plan Template"
 
-[**➡️ View Template File**](/templates/all/hybrid-team-management-template.md)
+[**➡️ View Template File**](/templates/all/agile-release-plan-template-template-general.md)
 
 ## 📈 Quality Score
 

@@ -1,4 +1,4 @@
-# Risk Management Plan Template
+# Skills Matrix Template
 
 ## 📄 Template Details
 
@@ -8,14 +8,14 @@
 | **Complexity** | advanced |
 | **Owner** | mirichard |
 | **Last Updated** | 2025-08-05 |
-| **Tags** | risk-management, stakeholder-management, communication, planning, monitoring, quality |
-| **File Size** | 10484 bytes |
+| **Tags** | risk-management, stakeholder-management, communication, planning, quality |
+| **File Size** | 18751 bytes |
 
 ## 💡 Usage
 
-title: "Risk Management Plan Template"
+title: "Skills Matrix Template"
 
-[**➡️ View Template File**](/templates/all/risk-management-plan-template.md)
+[**➡️ View Template File**](/templates/all/skills-matrix-template-template-general.md)
 
 ## 📈 Quality Score
 

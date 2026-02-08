@@ -1,4 +1,4 @@
-# Agile Risk Board Template
+# Status Report Template
 
 ## 📄 Template Details
 
@@ -8,14 +8,14 @@
 | **Complexity** | advanced |
 | **Owner** | mirichard |
 | **Last Updated** | 2025-08-05 |
-| **Tags** | agile, risk-management, stakeholder-management, communication, planning, monitoring, quality |
-| **File Size** | 15228 bytes |
+| **Tags** | technology, risk-management, stakeholder-management, communication, quality |
+| **File Size** | 13313 bytes |
 
 ## 💡 Usage
 
-title: "Agile Risk Board Template"
+title: "Status Report Template"
 
-[**➡️ View Template File**](/templates/all/agile-risk-board-template.md)
+[**➡️ View Template File**](/templates/project-lifecycle/04-monitoring-control/progress-tracking/status-report-template-template-general.md)
 
 ## 📈 Quality Score
 

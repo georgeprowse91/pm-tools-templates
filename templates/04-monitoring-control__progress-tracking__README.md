@@ -51,7 +51,7 @@ Effective progress tracking is essential for successful project delivery. This g
 - Perfect for complex programs
 
 ### Status Report Template
-**[→ Download: Status Report Template](status-report-template.md)**
+**[→ Download: Status Report Template](status-report-template-template-general.md)**
 - Structured progress communication
 - Accomplishments, challenges, and next steps
 - Stakeholder-specific formats

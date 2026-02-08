@@ -1,21 +1,21 @@
-# Less Retrospective Template
+# Risk Management Plan Template
 
 ## 📄 Template Details
 
 | Attribute | Value |
 |---|---|
-| **Methodology** | agile |
+| **Methodology** | universal |
 | **Complexity** | advanced |
 | **Owner** | mirichard |
 | **Last Updated** | 2025-08-05 |
-| **Tags** | agile, scrum, stakeholder-management, communication, planning, quality |
-| **File Size** | 15532 bytes |
+| **Tags** | risk-management, stakeholder-management, communication, planning, monitoring, quality |
+| **File Size** | 10484 bytes |
 
 ## 💡 Usage
 
-title: "Less Retrospective Template"
+title: "Risk Management Plan Template"
 
-[**➡️ View Template File**](/templates/all/less-retrospective-template.md)
+[**➡️ View Template File**](/templates/all/risk-management-plan-template-template-general.md)
 
 ## 📈 Quality Score
 

@@ -120,8 +120,8 @@ Scaling frameworks extend Agile practices to handle larger, more complex project
 - Organizations wanting to stay close to Scrum principles
 
 **Templates Available:**
-- [LeSS Sprint Planning Template](../../templates/all/less-sprint-planning-template.md)
-- [LeSS Retrospective Template](../../templates/all/less-retrospective-template.md)
+- [LeSS Sprint Planning Template](../../templates/all/less-sprint-planning-template-template-general.md)
+- [LeSS Retrospective Template](../../templates/all/less-retrospective-template-template-general.md)
 - [Cross Team Coordination Template](../../templates/all/cross_team_coordination_template.md)
 - [Overall Product Backlog Template](../../templates/all/overall_product_backlog_template.md)
 

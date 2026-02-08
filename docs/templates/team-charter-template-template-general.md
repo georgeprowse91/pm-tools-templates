@@ -1,4 +1,4 @@
-# Remediation Action Plan Template
+# Team Charter Template
 
 ## 📄 Template Details
 
@@ -8,14 +8,14 @@
 | **Complexity** | advanced |
 | **Owner** | mirichard |
 | **Last Updated** | 2025-08-05 |
-| **Tags** | technology, risk-management, stakeholder-management, communication, planning, monitoring, quality |
-| **File Size** | 14537 bytes |
+| **Tags** | risk-management, stakeholder-management, communication, planning, monitoring, quality |
+| **File Size** | 12595 bytes |
 
 ## 💡 Usage
 
-title: "Remediation Action Plan Template"
+title: "Team Charter Template"
 
-[**➡️ View Template File**](/templates/all/remediation-action-plan-template.md)
+[**➡️ View Template File**](/templates/all/team-charter-template-template-general.md)
 
 ## 📈 Quality Score
 

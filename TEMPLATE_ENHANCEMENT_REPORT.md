@@ -193,7 +193,7 @@ staging/enhanced-templates/
 ├── 05-testing-and-release-checklist.md
 ├── 06-requirements-matrix.md
 ├── tem-wp1369-defecttrackingmatrix-v02-phm.md
-├── 03-release-planning-template.md
+├── 03-release-planning-template-template-general.md
 ├── management-project-workbook-template-v2.md
 ├── peps-3-2-fte-scope-template.md
 ├── peps-3-2-method-scope-template.md

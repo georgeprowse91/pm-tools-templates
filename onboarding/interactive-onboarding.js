@@ -374,15 +374,15 @@ Need help? Check out:
         } else {
             recommendations.essential.push(
                 { name: 'Project Charter', description: 'Comprehensive project definition', path: 'templates/project-lifecycle/01-initiation/project-charter/project-charter-template.md' },
-                { name: 'Stakeholder Analysis', description: 'Detailed stakeholder management', path: 'templates/project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template.md' },
-                { name: 'Risk Register', description: 'Identify and manage project risks', path: 'templates/project-lifecycle/02-planning/risk-management/risk-register-template.md' }
+                { name: 'Stakeholder Analysis', description: 'Detailed stakeholder management', path: 'templates/project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template-template-general.md' },
+                { name: 'Risk Register', description: 'Identify and manage project risks', path: 'templates/project-lifecycle/02-planning/risk-management/risk-register-template-template-general.md' }
             );
         }
 
         // Add methodology-specific templates
         if (this.userProfile.methodology.includes('Agile')) {
             recommendations.essential.push(
-                { name: 'Sprint Planning Template', description: 'Plan agile sprints effectively', path: 'methodology-frameworks/agile-scrum/sprint-planning-template.md' },
+                { name: 'Sprint Planning Template', description: 'Plan agile sprints effectively', path: 'methodology-frameworks/agile-scrum/sprint-planning-template-template-general.md' },
                 { name: 'Daily Standup Notes', description: 'Track daily progress', path: 'templates/role-based/scrum-master/daily-standup-template.md' }
             );
         }

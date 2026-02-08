@@ -1,4 +1,4 @@
-# Resource Management Plan Template
+# User Story Template
 
 ## 📄 Template Details
 
@@ -8,14 +8,14 @@
 | **Complexity** | advanced |
 | **Owner** | mirichard |
 | **Last Updated** | 2025-08-05 |
-| **Tags** | risk-management, stakeholder-management, communication, planning, monitoring, quality |
-| **File Size** | 13533 bytes |
+| **Tags** | technology, risk-management |
+| **File Size** | 3694 bytes |
 
 ## 💡 Usage
 
-title: "Resource Management Plan Template"
+title: "User Story Template"
 
-[**➡️ View Template File**](/templates/all/resource-management-plan-template.md)
+[**➡️ View Template File**](/templates/all/user-story-template-template-general.md)
 
 ## 📈 Quality Score
 

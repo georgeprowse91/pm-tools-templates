@@ -32,7 +32,7 @@ The project management plan is your project's master document that defines how t
 - Perfect for regulated industries and complex projects
 
 ### Agile Project Plan (Release Plan)
-**[→ Download: Agile Release Plan Template](agile-release-plan-template.md)**
+**[→ Download: Agile Release Plan Template](agile-release-plan-template-template-general.md)**
 - Product roadmap and release planning
 - Epic and feature breakdown
 - Sprint planning framework

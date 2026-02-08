@@ -33,7 +33,7 @@ Well-facilitated ceremonies are the heartbeat of successful Agile teams. This gu
 - Team confident in their ability to deliver
 - Clear understanding of Definition of Done
 
-### **[→ Download: Sprint Planning Template](sprint-planning-template.md)**
+### **[→ Download: Sprint Planning Template](sprint-planning-template-template-general.md)**
 
 ### Agenda (4 hours for 2-week sprint)
 **Part 1: What (2 hours)**
@@ -129,7 +129,7 @@ Well-facilitated ceremonies are the heartbeat of successful Agile teams. This gu
 - Product backlog updated based on input
 - Team celebrates accomplishments
 
-### **[→ Download: Sprint Review Template](sprint-review-template.md)**
+### **[→ Download: Sprint Review Template](sprint-review-template-template-general.md)**
 
 ### Agenda (2 hours for 2-week sprint)
 1. **Welcome & Context** (10 min)
@@ -178,7 +178,7 @@ Well-facilitated ceremonies are the heartbeat of successful Agile teams. This gu
 - Team commitment to changes
 - Psychological safety maintained and strengthened
 
-### **[→ Download: Sprint Retrospective Template](sprint-retrospective-template.md)**
+### **[→ Download: Sprint Retrospective Template](sprint-retrospective-template-template-general.md)**
 
 ### Retrospective Techniques
 

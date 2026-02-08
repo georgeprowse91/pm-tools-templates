@@ -84,4 +84,4 @@ This template provides a structured approach to assessing project management pro
 
 Related Resources:
 - [Governance Assessment](./governance-assessment-template.md)
-- [Risk Management Assessment](./risk-management-assessment-template.md)
+- [Risk Management Assessment](./risk-management-assessment-template-template-general.md)

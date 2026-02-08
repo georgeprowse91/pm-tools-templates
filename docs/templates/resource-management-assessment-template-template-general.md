@@ -1,21 +1,21 @@
-# Agile Release Plan Template
+# Resource Management Assessment Template
 
 ## 📄 Template Details
 
 | Attribute | Value |
 |---|---|
 | **Methodology** | universal |
-| **Complexity** | advanced |
+| **Complexity** | starter |
 | **Owner** | mirichard |
 | **Last Updated** | 2025-08-05 |
-| **Tags** | agile, risk-management, stakeholder-management, communication, planning, monitoring, quality |
-| **File Size** | 7806 bytes |
+| **Tags** | technology, planning, monitoring |
+| **File Size** | 1797 bytes |
 
 ## 💡 Usage
 
-title: "Agile Release Plan Template"
+title: "Resource Management Assessment Template"
 
-[**➡️ View Template File**](/templates/all/agile-release-plan-template.md)
+[**➡️ View Template File**](/templates/all/resource-management-assessment-template-template-general.md)
 
 ## 📈 Quality Score
 

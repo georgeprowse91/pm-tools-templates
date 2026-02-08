@@ -22,28 +22,28 @@ Effective risk management is the difference between projects that succeed despit
 ## 🚀 Quick Start Templates
 
 ### Comprehensive Risk Register
-**[→ Download: Risk Register Template](risk-register-template.md)**
+**[→ Download: Risk Register Template](risk-register-template-template-general.md)**
 - Complete risk tracking from identification to closure
 - Probability/impact matrix with scoring
 - Response plans and ownership assignment
 - Perfect for all project types and methodologies
 
 ### Agile Risk Board
-**[→ Download: Agile Risk Board Template](agile-risk-board-template.md)**
+**[→ Download: Agile Risk Board Template](agile-risk-board-template-template-general.md)**
 - Visual risk management for Agile teams
 - Integration with sprint planning and retrospectives
 - Risk burndown and velocity tracking
 - Ideal for software development and iterative projects
 
 ### Enterprise Risk Assessment
-**[→ Download: Enterprise Risk Assessment Template](enterprise-risk-assessment-template.md)**
+**[→ Download: Enterprise Risk Assessment Template](enterprise-risk-assessment-template-template-general.md)**
 - Comprehensive risk analysis for large projects
 - Multi-level risk categorization and reporting
 - Quantitative risk analysis and Monte Carlo simulation
 - Perfect for complex programs and portfolios
 
 ### Risk Management Plan Template
-**[→ Download: Risk Management Plan Template](risk-management-plan-template.md)**
+**[→ Download: Risk Management Plan Template](risk-management-plan-template-template-general.md)**
 - Complete framework for organizing risk activities
 - Roles, responsibilities, and processes
 - Risk categories and scoring methodology

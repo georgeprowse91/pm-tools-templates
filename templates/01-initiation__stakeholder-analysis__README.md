@@ -23,14 +23,14 @@ Effective stakeholder management is often the difference between project success
 ## 🚀 Quick Start Templates
 
 ### Stakeholder Register & Analysis Matrix
-**[→ Download: Comprehensive Stakeholder Register Template](stakeholder-register-template.md)**
+**[→ Download: Comprehensive Stakeholder Register Template](stakeholder-register-template-template-general.md)**
 - Complete stakeholder identification and analysis
 - Power/Interest grid with engagement strategies
 - Contact information and communication preferences
 - Perfect for all project types and methodologies
 
 ### Agile Stakeholder Map
-**[→ Download: Agile Stakeholder Map Template](agile-stakeholder-map-template.md)**
+**[→ Download: Agile Stakeholder Map Template](agile-stakeholder-map-template-template-general.md)**
 - Visual stakeholder mapping for Agile projects
 - Focus on Product Owner, Users, and Development Team relationships
 - Includes personas and user story mapping connections

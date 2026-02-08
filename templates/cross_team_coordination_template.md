@@ -109,7 +109,7 @@ This template provides frameworks and practices for effective cross-team coordin
 
 #### Multi-Team Sprint Planning
 **Frequency:** Every sprint
-**Duration:** See [LeSS Sprint Planning Template](./less-sprint-planning-template.md)
+**Duration:** See [LeSS Sprint Planning Template](./less-sprint-planning-template-template-general.md)
 **Focus:** Coordinate team plans and dependencies
 
 #### Mid-Sprint Coordination
@@ -497,9 +497,9 @@ Dependencies          Integration          Knowledge
 ---
 
 ## Related Templates
-- [LeSS Sprint Planning Template](./less-sprint-planning-template.md)
+- [LeSS Sprint Planning Template](./less-sprint-planning-template-template-general.md)
 - [Overall Product Backlog Management](./overall_product_backlog_template.md)
-- [LeSS Retrospective Template](./less-retrospective-template.md)
+- [LeSS Retrospective Template](./less-retrospective-template-template-general.md)
 - [LeSS Adoption Roadmap](../../quick-start-kits/less-adoption/README.md)
 
 ---
