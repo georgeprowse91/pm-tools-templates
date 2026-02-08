@@ -109,8 +109,8 @@ matrix_data:
 ## Related Templates
 
 - [Dependency Log Template](../monitoring/dependency-log-template.md)
-- [Status Report Template](../status/status-report-template.md)
-- [Risk Register Template](../risk/risk-register-template.md)
+- [Status Report Template](../status/status-report-template-template-general.md)
+- [Risk Register Template](../risk/risk-register-template-template-general.md)
 
 ---
 

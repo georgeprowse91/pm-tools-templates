@@ -1,4 +1,4 @@
-# Agile Stakeholder Map Template
+# Stakeholder Register Template
 
 ## 📄 Template Details
 
@@ -8,14 +8,14 @@
 | **Complexity** | intermediate |
 | **Owner** | mirichard |
 | **Last Updated** | 2025-08-05 |
-| **Tags** | agile, technology, stakeholder-management, communication, planning, monitoring, quality |
-| **File Size** | 7005 bytes |
+| **Tags** | technology, stakeholder-management, communication, planning |
+| **File Size** | 3107 bytes |
 
 ## 💡 Usage
 
-title: "Agile Stakeholder Map Template"
+title: "Stakeholder Register Template"
 
-[**➡️ View Template File**](/templates/all/agile-stakeholder-map-template.md)
+[**➡️ View Template File**](/templates/project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template-template-general.md)
 
 ## 📈 Quality Score
 

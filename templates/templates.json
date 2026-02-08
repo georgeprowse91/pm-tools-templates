@@ -118,7 +118,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "project-assessment-suite/stakeholder-engagement-assessment-template.md",
+          "path": "project-assessment-suite/stakeholder-engagement-assessment-template-template-general.md",
           "title": "Stakeholder Engagement Assessment Template",
           "methodology": "universal",
           "tags": [
@@ -131,7 +131,7 @@
           "similarity": 92
         },
         {
-          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template-template-general.md",
           "title": "Agile Stakeholder Map Template",
           "methodology": "universal",
           "tags": [
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "path": "templates/project-lifecycle/02-planning/project-management-plan/agile-release-plan-template.md",
+      "path": "templates/project-lifecycle/02-planning/project-management-plan/agile-release-plan-template-template-general.md",
       "title": "Agile Release Plan Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -214,7 +214,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/project-lifecycle/02-planning/risk-management/agile-risk-board-template.md",
+          "path": "templates/project-lifecycle/02-planning/risk-management/agile-risk-board-template-template-general.md",
           "title": "Agile Risk Board Template",
           "methodology": "universal",
           "tags": [
@@ -257,7 +257,7 @@
           "similarity": 93
         },
         {
-          "path": "templates/project-lifecycle/02-planning/resource-planning/resource-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/resource-planning/resource-management-plan-template-template-general.md",
           "title": "Resource Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -273,7 +273,7 @@
       ]
     },
     {
-      "path": "templates/project-lifecycle/02-planning/risk-management/agile-risk-board-template.md",
+      "path": "templates/project-lifecycle/02-planning/risk-management/agile-risk-board-template-template-general.md",
       "title": "Agile Risk Board Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -297,7 +297,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/project-lifecycle/02-planning/project-management-plan/agile-release-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/project-management-plan/agile-release-plan-template-template-general.md",
           "title": "Agile Release Plan Template",
           "methodology": "universal",
           "tags": [
@@ -340,7 +340,7 @@
           "similarity": 93
         },
         {
-          "path": "templates/project-lifecycle/02-planning/resource-planning/resource-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/resource-planning/resource-management-plan-template-template-general.md",
           "title": "Resource Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -356,7 +356,7 @@
       ]
     },
     {
-      "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template.md",
+      "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template-template-general.md",
       "title": "Agile Stakeholder Map Template",
       "methodology": "universal",
       "complexity": "intermediate",
@@ -424,7 +424,7 @@
           "similarity": 83
         },
         {
-          "path": "templates/project-lifecycle/01-initiation/project-charter/agile-team-charter-template.md",
+          "path": "templates/project-lifecycle/01-initiation/project-charter/agile-team-charter-template-template-general.md",
           "title": "Agile Team Charter Template",
           "methodology": "universal",
           "tags": [
@@ -436,7 +436,7 @@
           "similarity": 79
         },
         {
-          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template-template-general.md",
           "title": "Stakeholder Register Template",
           "methodology": "universal",
           "tags": [
@@ -450,7 +450,7 @@
       ]
     },
     {
-      "path": "templates/project-lifecycle/01-initiation/project-charter/agile-team-charter-template.md",
+      "path": "templates/project-lifecycle/01-initiation/project-charter/agile-team-charter-template-template-general.md",
       "title": "Agile Team Charter Template",
       "methodology": "universal",
       "complexity": "intermediate",
@@ -471,7 +471,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template-template-general.md",
           "title": "Stakeholder Register Template",
           "methodology": "universal",
           "tags": [
@@ -483,7 +483,7 @@
           "similarity": 80
         },
         {
-          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template-template-general.md",
           "title": "Agile Stakeholder Map Template",
           "methodology": "universal",
           "tags": [
@@ -562,7 +562,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/role-based/project-manager/essential-templates/timesheet-tracking-template.md",
+          "path": "templates/role-based/project-manager/essential-templates/timesheet-tracking-template-template-general.md",
           "title": "Timesheet Tracking Template",
           "methodology": "universal",
           "tags": [
@@ -571,7 +571,7 @@
           "similarity": 90
         },
         {
-          "path": "templates/role-based/product-owner/user-story-template.md",
+          "path": "templates/role-based/product-owner/user-story-template-template-general.md",
           "title": "User Story Template",
           "methodology": "universal",
           "tags": [
@@ -656,7 +656,7 @@
           "similarity": 100
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-sprint-planning-template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-sprint-planning-template-template-general.md",
           "title": "Less Sprint Planning Template",
           "methodology": "agile",
           "tags": [
@@ -687,7 +687,7 @@
           "similarity": 94
         },
         {
-          "path": "templates/role-based/scrum-master/agile-ceremonies/sprint-planning-template.md",
+          "path": "templates/role-based/scrum-master/agile-ceremonies/sprint-planning-template-template-general.md",
           "title": "Sprint Planning Template",
           "methodology": "agile",
           "tags": [
@@ -703,7 +703,7 @@
           "similarity": 94
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-retrospective-template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-retrospective-template-template-general.md",
           "title": "Less Retrospective Template",
           "methodology": "agile",
           "tags": [
@@ -752,7 +752,7 @@
           "similarity": 90
         },
         {
-          "path": "templates/project-lifecycle/02-planning/risk-management/enterprise-risk-assessment-template.md",
+          "path": "templates/project-lifecycle/02-planning/risk-management/enterprise-risk-assessment-template-template-general.md",
           "title": "Enterprise Risk Assessment Template",
           "methodology": "universal",
           "tags": [
@@ -777,7 +777,7 @@
           "similarity": 83
         },
         {
-          "path": "project-assessment-suite/risk-management-assessment-template.md",
+          "path": "project-assessment-suite/risk-management-assessment-template-template-general.md",
           "title": "Risk Management Assessment Template",
           "methodology": "universal",
           "tags": [
@@ -854,7 +854,7 @@
           "similarity": 100
         },
         {
-          "path": "templates/project-lifecycle/04-monitoring-control/progress-tracking/status-report-template.md",
+          "path": "templates/project-lifecycle/04-monitoring-control/progress-tracking/status-report-template-template-general.md",
           "title": "Status Report Template",
           "methodology": "universal",
           "tags": [
@@ -918,7 +918,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/role-based/scrum-master/agile-ceremonies/sprint-planning-template.md",
+          "path": "templates/role-based/scrum-master/agile-ceremonies/sprint-planning-template-template-general.md",
           "title": "Sprint Planning Template",
           "methodology": "agile",
           "tags": [
@@ -948,7 +948,7 @@
           "similarity": 86
         },
         {
-          "path": "templates/role-based/scrum-master/agile-ceremonies/sprint-retrospective-template.md",
+          "path": "templates/role-based/scrum-master/agile-ceremonies/sprint-retrospective-template-template-general.md",
           "title": "Sprint Retrospective Template",
           "methodology": "agile",
           "tags": [
@@ -1143,7 +1143,7 @@
           "similarity": 83
         },
         {
-          "path": "templates/test-samples/quality-test-plan-template.md",
+          "path": "templates/test-samples/quality-test-plan-template-template-general.md",
           "title": "Quality Test Plan Template",
           "methodology": "universal",
           "tags": [
@@ -1800,7 +1800,7 @@
           "similarity": 100
         },
         {
-          "path": "templates/project-lifecycle/02-planning/resource-planning/resource-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/resource-planning/resource-management-plan-template-template-general.md",
           "title": "Resource Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -1814,7 +1814,7 @@
           "similarity": 100
         },
         {
-          "path": "templates/project-lifecycle/02-planning/risk-management/risk-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/risk-management/risk-management-plan-template-template-general.md",
           "title": "Risk Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -1828,7 +1828,7 @@
           "similarity": 100
         },
         {
-          "path": "templates/project-lifecycle/02-planning/resource-planning/team-charter-template.md",
+          "path": "templates/project-lifecycle/02-planning/resource-planning/team-charter-template-template-general.md",
           "title": "Team Charter Template",
           "methodology": "universal",
           "tags": [
@@ -2187,7 +2187,7 @@
           "similarity": 93
         },
         {
-          "path": "templates/project-lifecycle/02-planning/resource-planning/resource-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/resource-planning/resource-management-plan-template-template-general.md",
           "title": "Resource Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -2423,7 +2423,7 @@
           "similarity": 100
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-sprint-planning-template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-sprint-planning-template-template-general.md",
           "title": "Less Sprint Planning Template",
           "methodology": "agile",
           "tags": [
@@ -2454,7 +2454,7 @@
           "similarity": 94
         },
         {
-          "path": "templates/role-based/scrum-master/agile-ceremonies/sprint-planning-template.md",
+          "path": "templates/role-based/scrum-master/agile-ceremonies/sprint-planning-template-template-general.md",
           "title": "Sprint Planning Template",
           "methodology": "agile",
           "tags": [
@@ -2470,7 +2470,7 @@
           "similarity": 94
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-retrospective-template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-retrospective-template-template-general.md",
           "title": "Less Retrospective Template",
           "methodology": "agile",
           "tags": [
@@ -2722,7 +2722,7 @@
           "similarity": 65
         },
         {
-          "path": "templates/role-based/scrum-master/agile-ceremonies/sprint-planning-template.md",
+          "path": "templates/role-based/scrum-master/agile-ceremonies/sprint-planning-template-template-general.md",
           "title": "Sprint Planning Template",
           "methodology": "agile",
           "tags": [
@@ -2738,7 +2738,7 @@
           "similarity": 65
         },
         {
-          "path": "templates/role-based/scrum-master/agile-ceremonies/sprint-review-template.md",
+          "path": "templates/role-based/scrum-master/agile-ceremonies/sprint-review-template-template-general.md",
           "title": "Sprint Review Template",
           "methodology": "agile",
           "tags": [
@@ -2804,7 +2804,7 @@
           "similarity": 75
         },
         {
-          "path": "project-assessment-suite/resource-management-assessment-template.md",
+          "path": "project-assessment-suite/resource-management-assessment-template-template-general.md",
           "title": "Resource Management Assessment Template",
           "methodology": "universal",
           "tags": [
@@ -2815,7 +2815,7 @@
           "similarity": 67
         },
         {
-          "path": "project-assessment-suite/stakeholder-engagement-assessment-template.md",
+          "path": "project-assessment-suite/stakeholder-engagement-assessment-template-template-general.md",
           "title": "Stakeholder Engagement Assessment Template",
           "methodology": "universal",
           "tags": [
@@ -3063,7 +3063,7 @@
           "similarity": 75
         },
         {
-          "path": "project-assessment-suite/resource-management-assessment-template.md",
+          "path": "project-assessment-suite/resource-management-assessment-template-template-general.md",
           "title": "Resource Management Assessment Template",
           "methodology": "universal",
           "tags": [
@@ -3074,7 +3074,7 @@
           "similarity": 67
         },
         {
-          "path": "project-assessment-suite/stakeholder-engagement-assessment-template.md",
+          "path": "project-assessment-suite/stakeholder-engagement-assessment-template-template-general.md",
           "title": "Stakeholder Engagement Assessment Template",
           "methodology": "universal",
           "tags": [
@@ -3103,7 +3103,7 @@
       ]
     },
     {
-      "path": "templates/project-lifecycle/02-planning/risk-management/enterprise-risk-assessment-template.md",
+      "path": "templates/project-lifecycle/02-planning/risk-management/enterprise-risk-assessment-template-template-general.md",
       "title": "Enterprise Risk Assessment Template",
       "methodology": "universal",
       "complexity": "starter",
@@ -3171,7 +3171,7 @@
           "similarity": 78
         },
         {
-          "path": "templates/project-lifecycle/02-planning/risk-management/risk-register-template.md",
+          "path": "templates/project-lifecycle/02-planning/risk-management/risk-register-template-template-general.md",
           "title": "Risk Register Template",
           "methodology": "universal",
           "tags": [
@@ -3985,7 +3985,7 @@
           "similarity": 79
         },
         {
-          "path": "project-assessment-suite/stakeholder-engagement-assessment-template.md",
+          "path": "project-assessment-suite/stakeholder-engagement-assessment-template-template-general.md",
           "title": "Stakeholder Engagement Assessment Template",
           "methodology": "universal",
           "tags": [
@@ -4390,7 +4390,7 @@
           "similarity": 100
         },
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid-release-planning-template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-release-planning-template-template-general.md",
           "title": "Hybrid Release Planning Template",
           "methodology": "hybrid",
           "tags": [
@@ -4404,7 +4404,7 @@
           "similarity": 93
         },
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid-team-management-template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-team-management-template-template-general.md",
           "title": "Hybrid Team Management Template",
           "methodology": "hybrid",
           "tags": [
@@ -4545,7 +4545,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid-release-planning-template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-release-planning-template-template-general.md",
           "title": "Hybrid Release Planning Template",
           "methodology": "hybrid",
           "tags": [
@@ -4559,7 +4559,7 @@
           "similarity": 92
         },
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid-team-management-template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-team-management-template-template-general.md",
           "title": "Hybrid Team Management Template",
           "methodology": "hybrid",
           "tags": [
@@ -4641,7 +4641,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/project-lifecycle/02-planning/risk-management/enterprise-risk-assessment-template.md",
+          "path": "templates/project-lifecycle/02-planning/risk-management/enterprise-risk-assessment-template-template-general.md",
           "title": "Enterprise Risk Assessment Template",
           "methodology": "universal",
           "tags": [
@@ -4678,7 +4678,7 @@
           "similarity": 80
         },
         {
-          "path": "project-assessment-suite/risk-management-assessment-template.md",
+          "path": "project-assessment-suite/risk-management-assessment-template-template-general.md",
           "title": "Risk Management Assessment Template",
           "methodology": "universal",
           "tags": [
@@ -4788,7 +4788,7 @@
           "similarity": 86
         },
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid-release-planning-template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-release-planning-template-template-general.md",
           "title": "Hybrid Release Planning Template",
           "methodology": "hybrid",
           "tags": [
@@ -4804,7 +4804,7 @@
       ]
     },
     {
-      "path": "templates/hybrid/Hybrid/Templates/hybrid-release-planning-template.md",
+      "path": "templates/hybrid/Hybrid/Templates/hybrid-release-planning-template-template-general.md",
       "title": "Hybrid Release Planning Template",
       "methodology": "hybrid",
       "complexity": "advanced",
@@ -4827,7 +4827,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid-team-management-template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-team-management-template-template-general.md",
           "title": "Hybrid Team Management Template",
           "methodology": "hybrid",
           "tags": [
@@ -4901,7 +4901,7 @@
       ]
     },
     {
-      "path": "templates/hybrid/Hybrid/Templates/hybrid-team-management-template.md",
+      "path": "templates/hybrid/Hybrid/Templates/hybrid-team-management-template-template-general.md",
       "title": "Hybrid Team Management Template",
       "methodology": "hybrid",
       "complexity": "advanced",
@@ -4924,7 +4924,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid-release-planning-template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-release-planning-template-template-general.md",
           "title": "Hybrid Release Planning Template",
           "methodology": "hybrid",
           "tags": [
@@ -5387,7 +5387,7 @@
           "similarity": 100
         },
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid-release-planning-template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-release-planning-template-template-general.md",
           "title": "Hybrid Release Planning Template",
           "methodology": "hybrid",
           "tags": [
@@ -5401,7 +5401,7 @@
           "similarity": 93
         },
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid-team-management-template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-team-management-template-template-general.md",
           "title": "Hybrid Team Management Template",
           "methodology": "hybrid",
           "tags": [
@@ -5539,7 +5539,7 @@
       ]
     },
     {
-      "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-retrospective-template.md",
+      "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-retrospective-template-template-general.md",
       "title": "Less Retrospective Template",
       "methodology": "agile",
       "complexity": "advanced",
@@ -5592,7 +5592,7 @@
           "similarity": 93
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-sprint-planning-template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-sprint-planning-template-template-general.md",
           "title": "Less Sprint Planning Template",
           "methodology": "agile",
           "tags": [
@@ -5623,7 +5623,7 @@
           "similarity": 88
         },
         {
-          "path": "templates/role-based/scrum-master/agile-ceremonies/sprint-planning-template.md",
+          "path": "templates/role-based/scrum-master/agile-ceremonies/sprint-planning-template-template-general.md",
           "title": "Sprint Planning Template",
           "methodology": "agile",
           "tags": [
@@ -5641,7 +5641,7 @@
       ]
     },
     {
-      "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-sprint-planning-template.md",
+      "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-sprint-planning-template-template-general.md",
       "title": "Less Sprint Planning Template",
       "methodology": "agile",
       "complexity": "advanced",
@@ -5711,7 +5711,7 @@
           "similarity": 94
         },
         {
-          "path": "templates/role-based/scrum-master/agile-ceremonies/sprint-planning-template.md",
+          "path": "templates/role-based/scrum-master/agile-ceremonies/sprint-planning-template-template-general.md",
           "title": "Sprint Planning Template",
           "methodology": "agile",
           "tags": [
@@ -5727,7 +5727,7 @@
           "similarity": 94
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-retrospective-template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-retrospective-template-template-general.md",
           "title": "Less Retrospective Template",
           "methodology": "agile",
           "tags": [
@@ -6088,7 +6088,7 @@
           "similarity": 73
         },
         {
-          "path": "project-assessment-suite/risk-management-assessment-template.md",
+          "path": "project-assessment-suite/risk-management-assessment-template-template-general.md",
           "title": "Risk Management Assessment Template",
           "methodology": "universal",
           "tags": [
@@ -6254,7 +6254,7 @@
           "similarity": 92
         },
         {
-          "path": "project-assessment-suite/stakeholder-engagement-assessment-template.md",
+          "path": "project-assessment-suite/stakeholder-engagement-assessment-template-template-general.md",
           "title": "Stakeholder Engagement Assessment Template",
           "methodology": "universal",
           "tags": [
@@ -6467,7 +6467,7 @@
           "similarity": 88
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-sprint-planning-template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-sprint-planning-template-template-general.md",
           "title": "Less Sprint Planning Template",
           "methodology": "agile",
           "tags": [
@@ -6870,7 +6870,7 @@
           "similarity": 50
         },
         {
-          "path": "templates/project-lifecycle/02-planning/project-management-plan/agile-release-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/project-management-plan/agile-release-plan-template-template-general.md",
           "title": "Agile Release Plan Template",
           "methodology": "universal",
           "tags": [
@@ -6885,7 +6885,7 @@
           "similarity": 50
         },
         {
-          "path": "templates/project-lifecycle/02-planning/risk-management/agile-risk-board-template.md",
+          "path": "templates/project-lifecycle/02-planning/risk-management/agile-risk-board-template-template-general.md",
           "title": "Agile Risk Board Template",
           "methodology": "universal",
           "tags": [
@@ -7042,7 +7042,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "project-assessment-suite/risk-management-assessment-template.md",
+          "path": "project-assessment-suite/risk-management-assessment-template-template-general.md",
           "title": "Risk Management Assessment Template",
           "methodology": "universal",
           "tags": [
@@ -7754,7 +7754,7 @@
           "similarity": 100
         },
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid-release-planning-template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-release-planning-template-template-general.md",
           "title": "Hybrid Release Planning Template",
           "methodology": "hybrid",
           "tags": [
@@ -7768,7 +7768,7 @@
           "similarity": 93
         },
         {
-          "path": "templates/hybrid/Hybrid/Templates/hybrid-team-management-template.md",
+          "path": "templates/hybrid/Hybrid/Templates/hybrid-team-management-template-template-general.md",
           "title": "Hybrid Team Management Template",
           "methodology": "hybrid",
           "tags": [
@@ -8061,7 +8061,7 @@
           "similarity": 100
         },
         {
-          "path": "templates/project-lifecycle/04-monitoring-control/progress-tracking/status-report-template.md",
+          "path": "templates/project-lifecycle/04-monitoring-control/progress-tracking/status-report-template-template-general.md",
           "title": "Status Report Template",
           "methodology": "universal",
           "tags": [
@@ -8916,7 +8916,7 @@
       ]
     },
     {
-      "path": "templates/test-samples/quality-test-plan-template.md",
+      "path": "templates/test-samples/quality-test-plan-template-template-general.md",
       "title": "Quality Test Plan Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -8976,7 +8976,7 @@
           "similarity": 90
         },
         {
-          "path": "templates/project-lifecycle/04-monitoring-control/progress-tracking/status-report-template.md",
+          "path": "templates/project-lifecycle/04-monitoring-control/progress-tracking/status-report-template-template-general.md",
           "title": "Status Report Template",
           "methodology": "universal",
           "tags": [
@@ -9311,7 +9311,7 @@
           "similarity": 100
         },
         {
-          "path": "templates/project-lifecycle/02-planning/resource-planning/resource-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/resource-planning/resource-management-plan-template-template-general.md",
           "title": "Resource Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -9325,7 +9325,7 @@
           "similarity": 100
         },
         {
-          "path": "templates/project-lifecycle/02-planning/risk-management/risk-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/risk-management/risk-management-plan-template-template-general.md",
           "title": "Risk Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -9339,7 +9339,7 @@
           "similarity": 100
         },
         {
-          "path": "templates/project-lifecycle/02-planning/resource-planning/team-charter-template.md",
+          "path": "templates/project-lifecycle/02-planning/resource-planning/team-charter-template-template-general.md",
           "title": "Team Charter Template",
           "methodology": "universal",
           "tags": [
@@ -9355,7 +9355,7 @@
       ]
     },
     {
-      "path": "project-assessment-suite/remediation-action-plan-template.md",
+      "path": "project-assessment-suite/remediation-action-plan-template-template-general.md",
       "title": "Remediation Action Plan Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -9504,7 +9504,7 @@
           "similarity": 100
         },
         {
-          "path": "templates/project-lifecycle/04-monitoring-control/progress-tracking/status-report-template.md",
+          "path": "templates/project-lifecycle/04-monitoring-control/progress-tracking/status-report-template-template-general.md",
           "title": "Status Report Template",
           "methodology": "universal",
           "tags": [
@@ -9644,7 +9644,7 @@
       ]
     },
     {
-      "path": "project-assessment-suite/resource-management-assessment-template.md",
+      "path": "project-assessment-suite/resource-management-assessment-template-template-general.md",
       "title": "Resource Management Assessment Template",
       "methodology": "universal",
       "complexity": "starter",
@@ -9676,7 +9676,7 @@
           "similarity": 78
         },
         {
-          "path": "project-assessment-suite/risk-management-assessment-template.md",
+          "path": "project-assessment-suite/risk-management-assessment-template-template-general.md",
           "title": "Risk Management Assessment Template",
           "methodology": "universal",
           "tags": [
@@ -9732,7 +9732,7 @@
       ]
     },
     {
-      "path": "templates/project-lifecycle/02-planning/resource-planning/resource-management-plan-template.md",
+      "path": "templates/project-lifecycle/02-planning/resource-planning/resource-management-plan-template-template-general.md",
       "title": "Resource Management Plan Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -9783,7 +9783,7 @@
           "similarity": 100
         },
         {
-          "path": "templates/project-lifecycle/02-planning/risk-management/risk-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/risk-management/risk-management-plan-template-template-general.md",
           "title": "Risk Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -9797,7 +9797,7 @@
           "similarity": 100
         },
         {
-          "path": "templates/project-lifecycle/02-planning/resource-planning/team-charter-template.md",
+          "path": "templates/project-lifecycle/02-planning/resource-planning/team-charter-template-template-general.md",
           "title": "Team Charter Template",
           "methodology": "universal",
           "tags": [
@@ -9904,7 +9904,7 @@
       ]
     },
     {
-      "path": "project-assessment-suite/risk-management-assessment-template.md",
+      "path": "project-assessment-suite/risk-management-assessment-template-template-general.md",
       "title": "Risk Management Assessment Template",
       "methodology": "universal",
       "complexity": "starter",
@@ -10000,7 +10000,7 @@
       ]
     },
     {
-      "path": "templates/project-lifecycle/02-planning/risk-management/risk-management-plan-template.md",
+      "path": "templates/project-lifecycle/02-planning/risk-management/risk-management-plan-template-template-general.md",
       "title": "Risk Management Plan Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -10051,7 +10051,7 @@
           "similarity": 100
         },
         {
-          "path": "templates/project-lifecycle/02-planning/resource-planning/resource-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/resource-planning/resource-management-plan-template-template-general.md",
           "title": "Resource Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -10065,7 +10065,7 @@
           "similarity": 100
         },
         {
-          "path": "templates/project-lifecycle/02-planning/resource-planning/team-charter-template.md",
+          "path": "templates/project-lifecycle/02-planning/resource-planning/team-charter-template-template-general.md",
           "title": "Team Charter Template",
           "methodology": "universal",
           "tags": [
@@ -10081,10 +10081,10 @@
       ]
     },
     {
-      "path": "templates/project-lifecycle/02-planning/risk-management/risk-register-template.md",
+      "path": "templates/project-lifecycle/02-planning/risk-management/risk-register-template-template-general.md",
       "canonical_path": "templates/traditional/Traditional/Templates/risk_register_template.md",
       "alternate_paths": [
-        "templates/project-lifecycle/02-planning/risk-management/risk-register-template.md"
+        "templates/project-lifecycle/02-planning/risk-management/risk-register-template-template-general.md"
       ],
       "title": "Risk Register Template",
       "methodology": "universal",
@@ -10106,7 +10106,7 @@
       ],
       "relatedTemplates": [
         {
-          "path": "templates/project-lifecycle/02-planning/resource-planning/skills-matrix-template.md",
+          "path": "templates/project-lifecycle/02-planning/resource-planning/skills-matrix-template-template-general.md",
           "title": "Skills Matrix Template",
           "methodology": "universal",
           "tags": [
@@ -10303,7 +10303,7 @@
           "similarity": 94
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-sprint-planning-template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-sprint-planning-template-template-general.md",
           "title": "Less Sprint Planning Template",
           "methodology": "agile",
           "tags": [
@@ -10705,7 +10705,7 @@
           "similarity": 93
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-sprint-planning-template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-sprint-planning-template-template-general.md",
           "title": "Less Sprint Planning Template",
           "methodology": "agile",
           "tags": [
@@ -10752,7 +10752,7 @@
       ]
     },
     {
-      "path": "templates/project-lifecycle/02-planning/resource-planning/skills-matrix-template.md",
+      "path": "templates/project-lifecycle/02-planning/resource-planning/skills-matrix-template-template-general.md",
       "title": "Skills Matrix Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -10915,7 +10915,7 @@
       "path": "templates/agile/sprint_planning_template.md",
       "canonical_path": "templates/agile/sprint_planning_template.md",
       "alternate_paths": [
-        "templates/role-based/scrum-master/agile-ceremonies/sprint-planning-template.md",
+        "templates/role-based/scrum-master/agile-ceremonies/sprint-planning-template-template-general.md",
         "methodology-frameworks/agile-scrum/sprint-planning/sprint_planning_template.md"
       ],
       "title": "Sprint Planning Template",
@@ -11078,7 +11078,7 @@
           "similarity": 86
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-sprint-planning-template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-sprint-planning-template-template-general.md",
           "title": "Less Sprint Planning Template",
           "methodology": "agile",
           "tags": [
@@ -11161,7 +11161,7 @@
           "similarity": 93
         },
         {
-          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-sprint-planning-template.md",
+          "path": "methodology-frameworks/agile-scrum/scaling-frameworks/less/less-sprint-planning-template-template-general.md",
           "title": "Less Sprint Planning Template",
           "methodology": "agile",
           "tags": [
@@ -11204,7 +11204,7 @@
       ]
     },
     {
-      "path": "project-assessment-suite/stakeholder-engagement-assessment-template.md",
+      "path": "project-assessment-suite/stakeholder-engagement-assessment-template-template-general.md",
       "title": "Stakeholder Engagement Assessment Template",
       "methodology": "universal",
       "complexity": "starter",
@@ -11296,10 +11296,10 @@
       ]
     },
     {
-      "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template.md",
+      "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template-template-general.md",
       "canonical_path": "templates/role-based/project-manager/essential-templates/stakeholder-register.md",
       "alternate_paths": [
-        "templates/project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template.md"
+        "templates/project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template-template-general.md"
       ],
       "title": "Stakeholder Register Template",
       "methodology": "universal",
@@ -11334,7 +11334,7 @@
           "similarity": 80
         },
         {
-          "path": "project-assessment-suite/stakeholder-engagement-assessment-template.md",
+          "path": "project-assessment-suite/stakeholder-engagement-assessment-template-template-general.md",
           "title": "Stakeholder Engagement Assessment Template",
           "methodology": "universal",
           "tags": [
@@ -11347,7 +11347,7 @@
           "similarity": 80
         },
         {
-          "path": "templates/project-lifecycle/01-initiation/project-charter/agile-team-charter-template.md",
+          "path": "templates/project-lifecycle/01-initiation/project-charter/agile-team-charter-template-template-general.md",
           "title": "Agile Team Charter Template",
           "methodology": "universal",
           "tags": [
@@ -11359,7 +11359,7 @@
           "similarity": 80
         },
         {
-          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template-template-general.md",
           "title": "Agile Stakeholder Map Template",
           "methodology": "universal",
           "tags": [
@@ -11392,10 +11392,10 @@
       ]
     },
     {
-      "path": "templates/project-lifecycle/04-monitoring-control/progress-tracking/status-report-template.md",
+      "path": "templates/project-lifecycle/04-monitoring-control/progress-tracking/status-report-template-template-general.md",
       "canonical_path": "templates/traditional/Traditional/Templates/status_report_template.md",
       "alternate_paths": [
-        "templates/project-lifecycle/04-monitoring-control/progress-tracking/status-report-template.md"
+        "templates/project-lifecycle/04-monitoring-control/progress-tracking/status-report-template-template-general.md"
       ],
       "title": "Status Report Template",
       "methodology": "universal",
@@ -11485,7 +11485,7 @@
       ]
     },
     {
-      "path": "templates/project-lifecycle/02-planning/resource-planning/team-charter-template.md",
+      "path": "templates/project-lifecycle/02-planning/resource-planning/team-charter-template-template-general.md",
       "title": "Team Charter Template",
       "methodology": "universal",
       "complexity": "advanced",
@@ -11536,7 +11536,7 @@
           "similarity": 100
         },
         {
-          "path": "templates/project-lifecycle/02-planning/resource-planning/resource-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/resource-planning/resource-management-plan-template-template-general.md",
           "title": "Resource Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -11550,7 +11550,7 @@
           "similarity": 100
         },
         {
-          "path": "templates/project-lifecycle/02-planning/risk-management/risk-management-plan-template.md",
+          "path": "templates/project-lifecycle/02-planning/risk-management/risk-management-plan-template-template-general.md",
           "title": "Risk Management Plan Template",
           "methodology": "universal",
           "tags": [
@@ -11863,7 +11863,7 @@
       ]
     },
     {
-      "path": "templates/role-based/project-manager/essential-templates/timesheet-tracking-template.md",
+      "path": "templates/role-based/project-manager/essential-templates/timesheet-tracking-template-template-general.md",
       "title": "Timesheet Tracking Template",
       "methodology": "universal",
       "complexity": "intermediate",
@@ -11891,7 +11891,7 @@
           "similarity": 90
         },
         {
-          "path": "templates/role-based/product-owner/user-story-template.md",
+          "path": "templates/role-based/product-owner/user-story-template-template-general.md",
           "title": "User Story Template",
           "methodology": "universal",
           "tags": [
@@ -11901,7 +11901,7 @@
           "similarity": 65
         },
         {
-          "path": "templates/project-lifecycle/01-initiation/project-charter/agile-team-charter-template.md",
+          "path": "templates/project-lifecycle/01-initiation/project-charter/agile-team-charter-template-template-general.md",
           "title": "Agile Team Charter Template",
           "methodology": "universal",
           "tags": [
@@ -11913,7 +11913,7 @@
           "similarity": 63
         },
         {
-          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template-template-general.md",
           "title": "Stakeholder Register Template",
           "methodology": "universal",
           "tags": [
@@ -11925,7 +11925,7 @@
           "similarity": 63
         },
         {
-          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template.md",
+          "path": "templates/project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeholder-map-template-template-general.md",
           "title": "Agile Stakeholder Map Template",
           "methodology": "universal",
           "tags": [
@@ -12005,7 +12005,7 @@
           "similarity": 83
         },
         {
-          "path": "templates/project-lifecycle/02-planning/risk-management/risk-register-template.md",
+          "path": "templates/project-lifecycle/02-planning/risk-management/risk-register-template-template-general.md",
           "title": "Risk Register Template",
           "methodology": "universal",
           "tags": [
@@ -12380,7 +12380,7 @@
           "similarity": 88
         },
         {
-          "path": "templates/role-based/product-owner/user-story-template.md",
+          "path": "templates/role-based/product-owner/user-story-template-template-general.md",
           "title": "User Story Template",
           "methodology": "universal",
           "tags": [
@@ -12432,7 +12432,7 @@
       ]
     },
     {
-      "path": "templates/role-based/product-owner/user-story-template.md",
+      "path": "templates/role-based/product-owner/user-story-template-template-general.md",
       "title": "User Story Template",
       "methodology": "universal",
       "complexity": "advanced",

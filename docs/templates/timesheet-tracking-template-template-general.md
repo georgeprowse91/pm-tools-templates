@@ -1,21 +1,21 @@
-# Risk Management Assessment Template
+# Timesheet Tracking Template
 
 ## 📄 Template Details
 
 | Attribute | Value |
 |---|---|
 | **Methodology** | universal |
-| **Complexity** | starter |
+| **Complexity** | intermediate |
 | **Owner** | mirichard |
 | **Last Updated** | 2025-08-05 |
-| **Tags** | technology, risk-management, stakeholder-management, communication, planning, monitoring |
-| **File Size** | 1885 bytes |
+| **Tags** | technology |
+| **File Size** | 5682 bytes |
 
 ## 💡 Usage
 
-title: "Risk Management Assessment Template"
+title: "Timesheet Tracking Template"
 
-[**➡️ View Template File**](/templates/all/risk-management-assessment-template.md)
+[**➡️ View Template File**](/templates/all/timesheet-tracking-template-template-general.md)
 
 ## 📈 Quality Score
 

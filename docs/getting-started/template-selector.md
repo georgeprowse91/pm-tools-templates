@@ -168,9 +168,9 @@ Once comfortable with basics:
 ### Agile/Scrum Projects
 **Core Templates:**
 - [Product Backlog](../../methodology-frameworks/agile-scrum/product-backlog-template.md)
-- [Sprint Planning](../../methodology-frameworks/agile-scrum/sprint-planning-template.md)
-- [Sprint Review](../../methodology-frameworks/agile-scrum/sprint-review-template.md)
-- [Sprint Retrospective](../../methodology-frameworks/agile-scrum/sprint-retrospective-template.md)
+- [Sprint Planning](../../methodology-frameworks/agile-scrum/sprint-planning-template-template-general.md)
+- [Sprint Review](../../methodology-frameworks/agile-scrum/sprint-review-template-template-general.md)
+- [Sprint Retrospective](../../methodology-frameworks/agile-scrum/sprint-retrospective-template-template-general.md)
 
 **Role-Specific:**
 - [Scrum Master Toolkit](../../templates/role-based/scrum-master/)
@@ -277,16 +277,16 @@ Traditional Project ──> Traditional/Waterfall Templates
 ### P-R
 - [Product Backlog](../../methodology-frameworks/agile-scrum/product-backlog-template.md)
 - [Project Charter](../../templates/project-lifecycle/01-initiation/project-charter/project-charter-template.md)
-- [Risk Register](../../templates/project-lifecycle/02-planning/risk-management/risk-register-template.md)
+- [Risk Register](../../templates/project-lifecycle/02-planning/risk-management/risk-register-template-template-general.md)
 - [ROI Tracking](../../templates/business-stakeholder/financial-governance/roi-tracking.md)
 
 ### S-U
-- [Sprint Planning](../../methodology-frameworks/agile-scrum/sprint-planning-template.md)
-- [Sprint Review](../../methodology-frameworks/agile-scrum/sprint-review-template.md)
-- [Sprint Retrospective](../../methodology-frameworks/agile-scrum/sprint-retrospective-template.md)
-- [Stakeholder Register](../../templates/project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template.md)
-- [Status Report](../../templates/project-lifecycle/04-monitoring-control/status-reporting/status-report-template.md)
-- [User Stories](../../methodology-frameworks/agile-scrum/user-story-template.md)
+- [Sprint Planning](../../methodology-frameworks/agile-scrum/sprint-planning-template-template-general.md)
+- [Sprint Review](../../methodology-frameworks/agile-scrum/sprint-review-template-template-general.md)
+- [Sprint Retrospective](../../methodology-frameworks/agile-scrum/sprint-retrospective-template-template-general.md)
+- [Stakeholder Register](../../templates/project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-register-template-template-general.md)
+- [Status Report](../../templates/project-lifecycle/04-monitoring-control/status-reporting/status-report-template-template-general.md)
+- [User Stories](../../methodology-frameworks/agile-scrum/user-story-template-template-general.md)
 
 ### V-Z
 - [Work Breakdown Structure](../../methodology-frameworks/traditional-waterfall/wbs-template.md)

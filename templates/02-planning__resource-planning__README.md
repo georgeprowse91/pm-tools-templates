@@ -22,7 +22,7 @@ Resource planning is about ensuring your project has the people, skills, and cap
 ## 🚀 Quick Start Templates
 
 ### Resource Management Plan
-**[→ Download: Resource Management Plan Template](resource-management-plan-template.md)**
+**[→ Download: Resource Management Plan Template](resource-management-plan-template-template-general.md)**
 - Complete framework for resource planning and management
 - Roles, responsibilities, and reporting relationships
 <a id="team-charter-raci-matrix"></a>
@@ -30,7 +30,7 @@ Resource planning is about ensuring your project has the people, skills, and cap
 - Perfect for all project types and methodologies
 
 ### Team Charter & RACI Matrix
-**[→ Download: Team Charter Template](team-charter-template.md)**
+**[→ Download: Team Charter Template](team-charter-template-template-general.md)**
 - Team formation and working agreements
 - RACI matrix for clear accountability
 - Communication and decision-making protocols
@@ -53,7 +53,7 @@ Resource planning is about ensuring your project has the people, skills, and cap
 - Perfect for detailed planning and budgeting
 
 ### Skills Matrix & Development Plan
-**[→ Download: Skills Matrix Template](skills-matrix-template.md)**
+**[→ Download: Skills Matrix Template](skills-matrix-template-template-general.md)**
 - Team skills assessment and gap analysis
 <a id="team-structure-design"></a>
 - Training and development planning

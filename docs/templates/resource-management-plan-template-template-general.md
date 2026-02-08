@@ -1,21 +1,21 @@
-# Resource Management Assessment Template
+# Resource Management Plan Template
 
 ## 📄 Template Details
 
 | Attribute | Value |
 |---|---|
 | **Methodology** | universal |
-| **Complexity** | starter |
+| **Complexity** | advanced |
 | **Owner** | mirichard |
 | **Last Updated** | 2025-08-05 |
-| **Tags** | technology, planning, monitoring |
-| **File Size** | 1797 bytes |
+| **Tags** | risk-management, stakeholder-management, communication, planning, monitoring, quality |
+| **File Size** | 13533 bytes |
 
 ## 💡 Usage
 
-title: "Resource Management Assessment Template"
+title: "Resource Management Plan Template"
 
-[**➡️ View Template File**](/templates/all/resource-management-assessment-template.md)
+[**➡️ View Template File**](/templates/all/resource-management-plan-template-template-general.md)
 
 ## 📈 Quality Score
 

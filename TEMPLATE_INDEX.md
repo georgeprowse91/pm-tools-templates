@@ -10,8 +10,8 @@
 
 Examples:
 - `agile-project-charter-template.md`
-- `hybrid-risk-register-template.md`
-- `traditional-status-report-template.md`
+- `hybrid-risk-register-template-template-general.md`
+- `traditional-status-report-template-template-general.md`
 - `project-charter-template-agile.md`
 - `risk-register-template-traditional-var2.md`
 
@@ -19,10 +19,10 @@ Examples:
 |---|---|---|
 | [Advanced Business Case Template](templates/all/advanced-business-case-template.md) | universal | advanced |
 | [Agile Project Assessment Template](templates/all/agile-project-assessment-template.md) | universal | starter |
-| [Agile Release Plan Template](templates/all/agile-release-plan-template.md) | universal | advanced |
-| [Agile Risk Board Template](templates/all/agile-risk-board-template.md) | universal | advanced |
-| [Agile Stakeholder Map Template](templates/all/agile-stakeholder-map-template.md) | universal | intermediate |
-| [Agile Team Charter Template](templates/all/agile-team-charter-template.md) | universal | intermediate |
+| [Agile Release Plan Template](templates/all/agile-release-plan-template-template-general.md) | universal | advanced |
+| [Agile Risk Board Template](templates/all/agile-risk-board-template-template-general.md) | universal | advanced |
+| [Agile Stakeholder Map Template](templates/all/agile-stakeholder-map-template-template-general.md) | universal | intermediate |
+| [Agile Team Charter Template](templates/all/agile-team-charter-template-template-general.md) | universal | intermediate |
 | [Api Documentation Template](templates/all/api_documentation_template.md) | universal | advanced |
 | [Art Coordination Template](templates/all/art_coordination_template.md) | agile | advanced |
 | [Assessment Report Template](templates/all/assessment-report-template.md) | universal | starter |
@@ -52,7 +52,7 @@ Examples:
 | [Devsecops Template](templates/all/devsecops_template.md) | universal | advanced |
 | [Digital Transformation Strategy Template](templates/all/digital_transformation_strategy_template.md) | universal | advanced |
 | [Disaster Recovery Template](templates/all/disaster_recovery_template.md) | universal | starter |
-| [Enterprise Risk Assessment Template](templates/all/enterprise-risk-assessment-template.md) | universal | starter |
+| [Enterprise Risk Assessment Template](templates/all/enterprise-risk-assessment-template-template-general.md) | universal | starter |
 | [Enterprise Stakeholder Analysis Template](templates/all/enterprise-stakeholder-analysis-template.md) | universal | advanced |
 | [Equipment Qualification Protocol Template](templates/all/equipment_qualification_protocol_template.md) | universal | advanced |
 | [Evm Dashboard Template](templates/all/evm-dashboard-template.md) | universal | advanced |
@@ -70,16 +70,16 @@ Examples:
 | [Hybrid Project Charter Template](templates/all/hybrid-project-charter-metadata-template.md) | hybrid | advanced |
 | [Hybrid Project Management Plan Template](templates/all/hybrid-project-management-plan-template.md) | universal | starter |
 | [Hybrid Quality Management Template](templates/all/hybrid-quality-management-template.md) | hybrid | advanced |
-| [Hybrid Release Planning Template](templates/all/hybrid-release-planning-template.md) | hybrid | advanced |
-| [Hybrid Team Management Template](templates/all/hybrid-team-management-template.md) | hybrid | advanced |
+| [Hybrid Release Planning Template](templates/all/hybrid-release-planning-template-template-general.md) | hybrid | advanced |
+| [Hybrid Team Management Template](templates/all/hybrid-team-management-template-template-general.md) | hybrid | advanced |
 | [Incident Response Template](templates/all/incident_response_template.md) | universal | advanced |
 | [Infrastructure As Code Template](templates/all/infrastructure_as_code_template.md) | universal | advanced |
 | [Infrastructure Assessment Template](templates/all/infrastructure_assessment_template.md) | universal | advanced |
 | [Installation Qualification Protocol Template](templates/all/installation_qualification_protocol_template.md) | universal | advanced |
 | [Integrated Change Strategy Template](templates/all/integrated_change_strategy_template.md) | hybrid | advanced |
 | [Issue Log Template](templates/all/issue_log_template.md) | traditional | advanced |
-| [Less Retrospective Template](templates/all/less-retrospective-template.md) | agile | advanced |
-| [Less Sprint Planning Template](templates/all/less-sprint-planning-template.md) | agile | advanced |
+| [Less Retrospective Template](templates/all/less-retrospective-template-template-general.md) | agile | advanced |
+| [Less Sprint Planning Template](templates/all/less-sprint-planning-template-template-general.md) | agile | advanced |
 | [Manufacturing Batch Record Template](templates/all/manufacturing_batch_record_template.md) | universal | advanced |
 | [Meeting Templates](templates/all/meeting-templates.md) | universal | advanced |
 | [Metrics Dashboard Template](templates/all/metrics_dashboard_template.md) | agile | advanced |
@@ -113,19 +113,19 @@ Examples:
 | [Project Schedule Template](templates/all/project_schedule_template.md) | traditional | advanced |
 | [Purchase Order Template](templates/all/purchase_order_template.md) | traditional | intermediate |
 | [Quality Management Review Template](templates/all/quality_management_review_template.md) | universal | advanced |
-| [Quality Test Plan Template](templates/all/quality-test-plan-template.md) | universal | advanced |
+| [Quality Test Plan Template](templates/all/quality-test-plan-template-template-general.md) | universal | advanced |
 | [Raid Log Template](templates/all/raid_log_template.md) | traditional | advanced |
 | [Regulatory Inspection Readiness Plan Template](templates/all/regulatory_inspection_readiness_plan_template.md) | universal | advanced |
 | [Regulatory Strategy Plan Template](templates/all/regulatory_strategy_plan_template.md) | universal | intermediate |
 | [Release Management Template](templates/all/release_management_template.md) | universal | advanced |
-| [Remediation Action Plan Template](templates/all/remediation-action-plan-template.md) | universal | advanced |
+| [Remediation Action Plan Template](templates/all/remediation-action-plan-template-template-general.md) | universal | advanced |
 | [Requirements Specification Template](templates/all/requirements_specification_template.md) | universal | advanced |
 | [Requirements Traceability Matrix Template](templates/all/requirements_traceability_matrix_template.md) | traditional | advanced |
-| [Resource Management Assessment Template](templates/all/resource-management-assessment-template.md) | universal | starter |
-| [Resource Management Plan Template](templates/all/resource-management-plan-template.md) | universal | advanced |
+| [Resource Management Assessment Template](templates/all/resource-management-assessment-template-template-general.md) | universal | starter |
+| [Resource Management Plan Template](templates/all/resource-management-plan-template-template-general.md) | universal | advanced |
 | [Risk Assessment Template](templates/all/risk_assessment_template.md) | universal | advanced |
-| [Risk Management Assessment Template](templates/all/risk-management-assessment-template.md) | universal | starter |
-| [Risk Management Plan Template](templates/all/risk-management-plan-template.md) | universal | advanced |
+| [Risk Management Assessment Template](templates/all/risk-management-assessment-template-template-general.md) | universal | starter |
+| [Risk Management Plan Template](templates/all/risk-management-plan-template-template-general.md) | universal | advanced |
 | [Risk Register Template](templates/all/risk_register_template.md) | universal | advanced |
 | [Roi Tracking Template](templates/all/roi_tracking_template.md) | traditional | advanced |
 | [Safe Art Coordination Template](templates/all/safe-art-coordination-template.md) | agile | advanced |
@@ -133,26 +133,26 @@ Examples:
 | [Safe Metrics Reporting Template](templates/all/safe-metrics-reporting-template.md) | agile | advanced |
 | [Safe Portfolio Kanban Template](templates/all/safe-portfolio-kanban-template.md) | agile | advanced |
 | [Safe Program Increment Planning Template](templates/all/safe-program-increment-planning-template.md) | agile | advanced |
-| [Skills Matrix Template](templates/all/skills-matrix-template.md) | universal | advanced |
+| [Skills Matrix Template](templates/all/skills-matrix-template-template-general.md) | universal | advanced |
 | [Software Requirements Specification Template](templates/all/software_requirements_specification_template.md) | universal | advanced |
 | [Sprint Planning Template](templates/all/sprint_planning_template.md) | agile | intermediate |
 | [Sprint Retrospective Template](templates/all/sprint_retrospective_template.md) | agile | advanced |
 | [Sprint Review Template](templates/all/sprint_review_template.md) | agile | advanced |
-| [Stakeholder Engagement Assessment Template](templates/all/stakeholder-engagement-assessment-template.md) | universal | starter |
+| [Stakeholder Engagement Assessment Template](templates/all/stakeholder-engagement-assessment-template-template-general.md) | universal | starter |
 | [Stakeholder Register Template](templates/all/stakeholder-register.md) | universal | intermediate |
 | [Status Report Template](templates/all/status_report_template.md) | universal | advanced |
-| [Team Charter Template](templates/all/team-charter-template.md) | universal | advanced |
+| [Team Charter Template](templates/all/team-charter-template-template-general.md) | universal | advanced |
 | [Team Performance Assessment Template](templates/all/team_performance_assessment_template.md) | traditional | intermediate |
 | [Technical Design Document Template](templates/all/technical_design_document_template.md) | universal | advanced |
 | [Test Plan Template](templates/all/test_plan_template.md) | universal | advanced |
-| [Timesheet Tracking Template](templates/all/timesheet-tracking-template.md) | universal | intermediate |
+| [Timesheet Tracking Template](templates/all/timesheet-tracking-template-template-general.md) | universal | intermediate |
 | [Traditional Project Charter Template](templates/all/traditional-project-charter-template.md) | universal | advanced |
 | [Traditional Project Management Plan Template](templates/all/traditional-project-management-plan-template.md) | universal | intermediate |
 | [Uat Plan Template](templates/all/uat_plan_template.md) | traditional | advanced |
 | [Uat Strategy Template](templates/all/uat_strategy_template.md) | traditional | advanced |
 | [User Empathy Mapping Template](templates/all/user_empathy_mapping_template.md) | universal | advanced |
 | [User Story Mapping Template](templates/all/user_story_mapping_template.md) | universal | advanced |
-| [User Story Template](templates/all/user-story-template.md) | universal | advanced |
+| [User Story Template](templates/all/user-story-template-template-general.md) | universal | advanced |
 | [Validation Master Plan Template](templates/all/validation_master_plan_template.md) | universal | advanced |
 | [Waterfall Project Assessment Template](templates/all/waterfall-project-assessment-template.md) | traditional | starter |
 | [Work Breakdown Structure Template](templates/all/work_breakdown_structure_template.md) | traditional | advanced |

@@ -1,21 +1,21 @@
-# Status Report Template
+# Hybrid Team Management Template
 
 ## 📄 Template Details
 
 | Attribute | Value |
 |---|---|
-| **Methodology** | universal |
+| **Methodology** | hybrid |
 | **Complexity** | advanced |
 | **Owner** | mirichard |
 | **Last Updated** | 2025-08-05 |
-| **Tags** | technology, risk-management, stakeholder-management, communication, quality |
-| **File Size** | 13313 bytes |
+| **Tags** | hybrid, risk-management, stakeholder-management, communication, planning, quality |
+| **File Size** | 37254 bytes |
 
 ## 💡 Usage
 
-title: "Status Report Template"
+title: "Hybrid Team Management Template"
 
-[**➡️ View Template File**](/templates/project-lifecycle/04-monitoring-control/progress-tracking/status-report-template.md)
+[**➡️ View Template File**](/templates/all/hybrid-team-management-template-template-general.md)
 
 ## 📈 Quality Score
 

@@ -1,4 +1,4 @@
-# Enterprise Risk Assessment Template
+# Risk Management Assessment Template
 
 ## 📄 Template Details
 
@@ -8,14 +8,14 @@
 | **Complexity** | starter |
 | **Owner** | mirichard |
 | **Last Updated** | 2025-08-05 |
-| **Tags** | risk-management, stakeholder-management, communication |
-| **File Size** | 1044 bytes |
+| **Tags** | technology, risk-management, stakeholder-management, communication, planning, monitoring |
+| **File Size** | 1885 bytes |
 
 ## 💡 Usage
 
-title: "Enterprise Risk Assessment Template"
+title: "Risk Management Assessment Template"
 
-[**➡️ View Template File**](/templates/all/enterprise-risk-assessment-template-template-general.md)
+[**➡️ View Template File**](/templates/all/risk-management-assessment-template-template-general.md)
 
 ## 📈 Quality Score
 

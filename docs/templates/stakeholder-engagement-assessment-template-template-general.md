@@ -15,7 +15,7 @@
 
 title: "Stakeholder Engagement Assessment Template"
 
-[**➡️ View Template File**](/templates/all/stakeholder-engagement-assessment-template.md)
+[**➡️ View Template File**](/templates/all/stakeholder-engagement-assessment-template-template-general.md)
 
 ## 📈 Quality Score
 

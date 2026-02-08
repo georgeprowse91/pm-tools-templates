@@ -7,7 +7,7 @@ The initial documents are based on repository templates and customized for the C
 - `hybrid-project-charter-draft-template.md` – baseline project charter
 - `project_initiation_checklist.md` – initiation readiness checklist
 - `hybrid-project-management-plan-draft-template.md` – consolidated management plan
-- `hybrid-release-plan-template.md` – cross-release planning guide
+- `hybrid-release-plan-template-template-general.md` – cross-release planning guide
 - `progressive_acceptance_plan.md` – incremental acceptance approach
 - `sprint1_planning.md` – sprint planning record for Sprint 1
 - `sprint1_review.md` – sprint review template

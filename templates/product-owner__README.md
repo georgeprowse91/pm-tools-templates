@@ -131,7 +131,7 @@ Epic
 ### User Story Format
 **Capture requirements from user perspective**
 
-### **[→ Download: User Story Template](user-story-template.md)**
+### **[→ Download: User Story Template](user-story-template-template-general.md)**
 
 **Standard Format:**
 ```

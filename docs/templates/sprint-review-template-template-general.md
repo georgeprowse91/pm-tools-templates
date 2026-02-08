@@ -1,21 +1,21 @@
-# Risk Register Template
+# Sprint Review Template
 
 ## 📄 Template Details
 
 | Attribute | Value |
 |---|---|
-| **Methodology** | universal |
+| **Methodology** | agile |
 | **Complexity** | advanced |
 | **Owner** | mirichard |
 | **Last Updated** | 2025-08-05 |
-| **Tags** | risk-management, stakeholder-management, communication, planning |
-| **File Size** | 2316 bytes |
+| **Tags** | agile, scrum, technology, stakeholder-management, quality |
+| **File Size** | 7128 bytes |
 
 ## 💡 Usage
 
-title: "Risk Register Template"
+title: "Sprint Review Template"
 
-[**➡️ View Template File**](/templates/project-lifecycle/02-planning/risk-management/risk-register-template.md)
+[**➡️ View Template File**](/templates/role-based/scrum-master/agile-ceremonies/sprint-review-template-template-general.md)
 
 ## 📈 Quality Score
 

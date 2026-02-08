@@ -1,21 +1,21 @@
-# User Story Template
+# Hybrid Release Planning Template
 
 ## 📄 Template Details
 
 | Attribute | Value |
 |---|---|
-| **Methodology** | universal |
+| **Methodology** | hybrid |
 | **Complexity** | advanced |
 | **Owner** | mirichard |
 | **Last Updated** | 2025-08-05 |
-| **Tags** | technology, risk-management |
-| **File Size** | 3694 bytes |
+| **Tags** | hybrid, risk-management, stakeholder-management, communication, planning, quality |
+| **File Size** | 23663 bytes |
 
 ## 💡 Usage
 
-title: "User Story Template"
+title: "Hybrid Release Planning Template"
 
-[**➡️ View Template File**](/templates/all/user-story-template.md)
+[**➡️ View Template File**](/templates/all/hybrid-release-planning-template-template-general.md)
 
 ## 📈 Quality Score
 

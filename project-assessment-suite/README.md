@@ -28,14 +28,14 @@ The assessment follows a structured approach:
 - **[Current State Analysis](./current-state-analysis-template.md)** - Detailed current state documentation
 - **[Future State Blueprint](./future-state-blueprint-template.md)** - Target state definition using best practices
 - **[Gap Analysis Matrix](./gap-analysis-matrix-template.md)** - Systematic gap identification and prioritization
-- **[Remediation Action Plan](./remediation-action-plan-template.md)** - Structured improvement planning
+- **[Remediation Action Plan](./remediation-action-plan-template-template-general.md)** - Structured improvement planning
 
 ### Specialized Assessments
 - **[Governance Assessment](./governance-assessment-template.md)** - Project governance evaluation
-- **[Risk Management Assessment](./risk-management-assessment-template.md)** - Risk management maturity evaluation
-- **[Stakeholder Engagement Assessment](./stakeholder-engagement-assessment-template.md)** - Stakeholder management effectiveness
+- **[Risk Management Assessment](./risk-management-assessment-template-template-general.md)** - Risk management maturity evaluation
+- **[Stakeholder Engagement Assessment](./stakeholder-engagement-assessment-template-template-general.md)** - Stakeholder management effectiveness
 - **[Process Maturity Assessment](./process-maturity-assessment-template.md)** - Process and methodology maturity
-- **[Resource Management Assessment](./resource-management-assessment-template.md)** - Resource allocation and management
+- **[Resource Management Assessment](./resource-management-assessment-template-template-general.md)** - Resource allocation and management
 
 ### Methodology-Specific Templates
 - **[Agile Assessment](./agile-project-assessment-template.md)** - Agile-specific project evaluation

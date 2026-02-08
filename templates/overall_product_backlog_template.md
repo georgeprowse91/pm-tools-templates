@@ -206,8 +206,8 @@ Stakeholder Satisfaction:
 ---
 
 ## Related Templates
-- [LeSS Sprint Planning Template](./less-sprint-planning-template.md)
-- [LeSS Retrospective Template](./less-retrospective-template.md)
+- [LeSS Sprint Planning Template](./less-sprint-planning-template-template-general.md)
+- [LeSS Retrospective Template](./less-retrospective-template-template-general.md)
 - [LeSS Adoption Roadmap](../../quick-start-kits/less-adoption/README.md)
 
 ---

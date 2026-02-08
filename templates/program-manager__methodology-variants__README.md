@@ -18,6 +18,6 @@ Guidance and template mappings for Traditional, Agile-at-Scale, and Hybrid progr
 
 ## Hybrid
 - Hybrid Project Management Professional → templates/hybrid-project-management-plan-template.md
-- Release Planning → templates/hybrid-release-planning-template.md
+- Release Planning → templates/hybrid-release-planning-template-template-general.md
 - Quality & Readiness → templates/hybrid-quality-management-template.md
 - Stakeholder Communication → templates/stakeholder_communication_planning.md

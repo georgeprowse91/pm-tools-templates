@@ -164,7 +164,7 @@ create_template_file "templates/project-lifecycle/02-planning/project-management
     "Hybrid Project Management Plan" \
     "Project management plan template combining traditional and agile methodologies."
 
-create_template_file "templates/project-lifecycle/02-planning/risk-management/enterprise-risk-assessment-template.md" \
+create_template_file "templates/project-lifecycle/02-planning/risk-management/enterprise-risk-assessment-template-template-general.md" \
     "Enterprise Risk Assessment" \
     "Comprehensive risk assessment template for enterprise-level projects."
 
