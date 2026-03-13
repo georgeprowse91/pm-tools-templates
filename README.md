@@ -60,11 +60,11 @@
 
 ### Most Popular Templates
 
-- [Project Charter Template](templates/traditional/Traditional/Process_Groups/Initiating/project_charter_template.md) - Start any project
-- [Sprint Planning Template](templates/agile/sprint_planning_template.md) - Plan agile sprints  
-- [Risk Register Template](templates/traditional/Traditional/Templates/risk_register_template.md) - Manage project risks
-- [Status Report Template](templates/traditional/Traditional/Templates/status_report_template.md) - Report progress
-- [Stakeholder Register Template](role-based-toolkits/project-manager/essential-templates/stakeholder-register.md) - Manage stakeholders
+- [Project Charter Template](templates/all/project_charter_template.md) - Start any project
+- [Sprint Planning Template](templates/all/sprint_planning_template.md) - Plan agile sprints  
+- [Risk Register Template](templates/all/risk_register_template.md) - Manage project risks
+- [Status Report Template](templates/all/status_report_template.md) - Report progress
+- [Stakeholder Register Template](templates/all/stakeholder-register.md) - Manage stakeholders
 
 ### Popular Tags
 
@@ -85,8 +85,8 @@ The templates are organized by methodology and use case:
 ```mermaid
 graph TD
     A[pm-tools-templates] --> B[📁 templates/]
-    A --> C[📁 project-lifecycle/]
-    A --> D[📁 role-based-toolkits/]
+    A --> C[📁 templates/project-lifecycle/]
+    A --> D[📁 templates/role-based/]
     A --> E[📁 industry-specializations/]
     A --> F[📁 methodology-frameworks/]
     A --> G[📁 integration-guides/]

@@ -22,7 +22,7 @@ This guide helps you quickly get oriented and find the resources you need, wheth
 🔄 **Start here:** [Methodology Transition Guide](#methodology-transition)
 
 ### I Need Executive Reporting
-📊 **Start here:** [Business Stakeholder Suite](../../business-stakeholder-suite/)
+📊 **Start here:** [Business Stakeholder Suite](../../templates/business-stakeholder/)
 
 ---
 <a id="step-1-understand-your-options"></a>
@@ -44,16 +44,16 @@ This guide helps you quickly get oriented and find the resources you need, wheth
 - Download starter kits for common scenarios
 
 ### Step 3: Set Up Your Project
-**[→ Go to: Project Lifecycle Templates](../../project-lifecycle/)**
-- Start with [Project Charter](../../project-lifecycle/01-initiation/project-charter/)
+**[→ Go to: Project Lifecycle Templates](../../templates/project-lifecycle/)**
+- Start with [Project Charter](../../templates/project-lifecycle/01-initiation/project-charter/)
 - Follow the phase-by-phase guidance
 
 ### Step 4: Choose Your Role Toolkit
-**[→ Browse: Role-Based Toolkits](../../role-based-toolkits/)**
-- **Project Manager:** [Essential Templates](../../role-based-toolkits/project-manager/essential-templates/)
+**[→ Browse: Role-Based Toolkits](../../templates/role-based/)**
+- **Project Manager:** [Essential Templates](../../templates/role-based/project-manager/essential-templates/)
 <a id="immediate-actions-week-1"></a>
-- **Scrum Master:** [Agile Ceremonies](../../role-based-toolkits/scrum-master/agile-ceremonies/)
-- **Product Owner:** [Product Owner Toolkit](../../role-based-toolkits/product-owner/)
+- **Scrum Master:** [Agile Ceremonies](../../templates/role-based/scrum-master/agile-ceremonies/)
+- **Product Owner:** [Product Owner Toolkit](../../templates/role-based/product-owner/)
 
 ---
 <a id="planning-phase-week-2-3"></a>
@@ -62,19 +62,19 @@ This guide helps you quickly get oriented and find the resources you need, wheth
 ## Project Kickoff Kit
 
 ### Immediate Actions (Week 1)
-1. **[Create Project Charter](../../project-lifecycle/01-initiation/project-charter/)**
-2. **[Analyze Stakeholders](../../project-lifecycle/01-initiation/stakeholder-analysis/)**
-3. **[Set Up Communication Plan](../../project-lifecycle/02-planning/communication-planning/)**
+1. **[Create Project Charter](../../templates/project-lifecycle/01-initiation/project-charter/)**
+2. **[Analyze Stakeholders](../../templates/project-lifecycle/01-initiation/stakeholder-analysis/)**
+3. **[Set Up Communication Plan](../../templates/project-lifecycle/02-planning/communication-planning/)**
 
 ### Planning Phase (Week 2-3)
-1. **[Develop Project Management Plan](../../project-lifecycle/02-planning/project-management-plan/)**
-2. **[Create Risk Register](../../project-lifecycle/02-planning/risk-management/)**
-3. **[Plan Resources](../../project-lifecycle/02-planning/resource-planning/)**
+1. **[Develop Project Management Plan](../../templates/project-lifecycle/02-planning/project-management-plan/)**
+2. **[Create Risk Register](../../templates/project-lifecycle/02-planning/risk-management/)**
+3. **[Plan Resources](../../templates/project-lifecycle/02-planning/resource-planning/)**
 
 ### Ongoing Management
-1. **[Track Progress](../../project-lifecycle/04-monitoring-control/progress-tracking/)**
-2. **[Manage Issues](../../project-lifecycle/04-monitoring-control/issue-management/)**
-3. **[Report Status](../../role-based-toolkits/project-manager/reporting-dashboards/)**
+1. **[Track Progress](../../templates/project-lifecycle/04-monitoring-control/progress-tracking/)**
+2. **[Manage Issues](../../templates/project-lifecycle/04-monitoring-control/issue-management/)**
+3. **[Report Status](../../templates/role-based/project-manager/reporting-dashboards/)**
 
 ---
 <a id="from-agile-to-scaledenterprise"></a>
@@ -135,20 +135,20 @@ This guide helps you quickly get oriented and find the resources you need, wheth
 - [Exporting Templates](../exporting-templates.md)
 
 ### Templates by Frequency of Use
-1. **Daily:** [Daily Standup Notes](../../role-based-toolkits/scrum-master/agile-ceremonies/) | [Issue Log](../../project-lifecycle/04-monitoring-control/issue-management/)
-2. **Weekly:** [Status Reports](../../role-based-toolkits/project-manager/reporting-dashboards/) | [Risk Reviews](../../project-lifecycle/02-planning/risk-management/)
-3. **Monthly:** [Executive Dashboards](../../business-stakeholder-suite/executive-dashboards/) | [Stakeholder Updates](../../business-stakeholder-suite/communication-automation/)
+1. **Daily:** [Daily Standup Notes](../../templates/role-based/scrum-master/agile-ceremonies/) | [Issue Log](../../templates/project-lifecycle/04-monitoring-control/issue-management/)
+2. **Weekly:** [Status Reports](../../templates/role-based/project-manager/reporting-dashboards/) | [Risk Reviews](../../templates/project-lifecycle/02-planning/risk-management/)
+3. **Monthly:** [Executive Dashboards](../../templates/business-stakeholder/executive-dashboards/) | [Stakeholder Updates](../../templates/business-stakeholder/communication-automation/)
 <a id="pro-tips"></a>
 
 ### Templates by Project Size
 - **Small Projects (< 6 months):** [First Time PM Starter](../../quick-start-kits/first-time-pm-starter/)
-- **Large Projects (> 1 year):** [Enterprise Templates](../../role-based-toolkits/project-manager/)
-- **Complex Programs:** [Release Train Engineer Toolkit](../../role-based-toolkits/release-train-engineer/)
+- **Large Projects (> 1 year):** [Enterprise Templates](../../templates/role-based/project-manager/)
+- **Complex Programs:** [Release Train Engineer Toolkit](../../templates/role-based/release-train-engineer/)
 
 ### Industry-Specific Starting Points
-- **IT Projects:** [Project Lifecycle Templates](../../project-lifecycle/)
+- **IT Projects:** [Project Lifecycle Templates](../../templates/project-lifecycle/)
 - **Agile Projects:** [Agile-Scrum Framework](../../methodology-frameworks/agile-scrum/)
-- **Enterprise Projects:** [Business Stakeholder Suite](../../business-stakeholder-suite/)
+- **Enterprise Projects:** [Business Stakeholder Suite](../../templates/business-stakeholder/)
 
 ---
 

@@ -1954,8 +1954,8 @@
                 "width": 395,
                 "height": 50
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/README.md\">",
-              "nodeLabel": "README\nbusiness-stakeholder-suite/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/README.md\">",
+              "nodeLabel": "README\ntemplates/business-stakeholder/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -1973,8 +1973,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/communication-automation/README.md\">",
-              "nodeLabel": "README\nbusiness-stakeholder-suite/communication-automation/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/communication-automation/README.md\">",
+              "nodeLabel": "README\ntemplates/business-stakeholder/communication-automation/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -1992,8 +1992,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/DEMO_SHOWCASE.md\">",
-              "nodeLabel": "DEMO SHOWCASE\nbusiness-stakeholder-suite/executive-dashboards/DEMO_SHOWCASE.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/DEMO_SHOWCASE.md\">",
+              "nodeLabel": "DEMO SHOWCASE\ntemplates/business-stakeholder/executive-dashboards/DEMO_SHOWCASE.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2011,8 +2011,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/Excel/Executive-Da…\">",
-              "nodeLabel": "Executive Dashboard Workbook\nbusiness-stakeholder-suite/executive-dashboards/Ex…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/Excel/Executive-Da…\">",
+              "nodeLabel": "Executive Dashboard Workbook\ntemplates/business-stakeholder/executive-dashboards/Ex…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2030,8 +2030,8 @@
                 "width": 395,
                 "height": 78
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/Outlook/Executive-…\">",
-              "nodeLabel": "Executive Communication Automation\nbusiness-stakeholder-suite/executive-dashboa…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/Outlook/Executive-…\">",
+              "nodeLabel": "Executive Communication Automation\ntemplates/business-stakeholder/executive-dashboa…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2049,8 +2049,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/PEER_REVIEW.md\">",
-              "nodeLabel": "PEER REVIEW\nbusiness-stakeholder-suite/executive-dashboards/PEER_REVIEW.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/PEER_REVIEW.md\">",
+              "nodeLabel": "PEER REVIEW\ntemplates/business-stakeholder/executive-dashboards/PEER_REVIEW.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2068,8 +2068,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/PEER_REVIEW_RESULT…\">",
-              "nodeLabel": "PEER REVIEW RESULTS\nbusiness-stakeholder-suite/executive-dashboards/PEER_REVIEW…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/PEER_REVIEW_RESULT…\">",
+              "nodeLabel": "PEER REVIEW RESULTS\ntemplates/business-stakeholder/executive-dashboards/PEER_REVIEW…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2087,8 +2087,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/PowerPoint/Executi…\">",
-              "nodeLabel": "Executive Dashboard Slides\nbusiness-stakeholder-suite/executive-dashboards/Powe…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/PowerPoint/Executi…\">",
+              "nodeLabel": "Executive Dashboard Slides\ntemplates/business-stakeholder/executive-dashboards/Powe…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2106,8 +2106,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/README.md\">",
-              "nodeLabel": "README\nbusiness-stakeholder-suite/executive-dashboards/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/README.md\">",
+              "nodeLabel": "README\ntemplates/business-stakeholder/executive-dashboards/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2125,8 +2125,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/SECURITY_COMPLIANC…\">",
-              "nodeLabel": "SECURITY COMPLIANCE\nbusiness-stakeholder-suite/executive-dashboards/SECURITY_CO…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/SECURITY_COMPLIANC…\">",
+              "nodeLabel": "SECURITY COMPLIANCE\ntemplates/business-stakeholder/executive-dashboards/SECURITY_CO…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2144,8 +2144,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/SECURITY_VALIDATIO…\">",
-              "nodeLabel": "SECURITY VALIDATION\nbusiness-stakeholder-suite/executive-dashboards/SECURITY_VA…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/SECURITY_VALIDATIO…\">",
+              "nodeLabel": "SECURITY VALIDATION\ntemplates/business-stakeholder/executive-dashboards/SECURITY_VA…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2163,8 +2163,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/TESTING_VALIDATION…\">",
-              "nodeLabel": "TESTING VALIDATION\nbusiness-stakeholder-suite/executive-dashboards/TESTING_VALI…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/TESTING_VALIDATION…\">",
+              "nodeLabel": "TESTING VALIDATION\ntemplates/business-stakeholder/executive-dashboards/TESTING_VALI…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2182,8 +2182,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/USER_ACCEPTANCE.md\">",
-              "nodeLabel": "USER ACCEPTANCE\nbusiness-stakeholder-suite/executive-dashboards/USER_ACCEPTANCE…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/USER_ACCEPTANCE.md\">",
+              "nodeLabel": "USER ACCEPTANCE\ntemplates/business-stakeholder/executive-dashboards/USER_ACCEPTANCE…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2201,8 +2201,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/Word/Executive-Rep…\">",
-              "nodeLabel": "Executive Report Templates\nbusiness-stakeholder-suite/executive-dashboards/Word…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/Word/Executive-Rep…\">",
+              "nodeLabel": "Executive Report Templates\ntemplates/business-stakeholder/executive-dashboards/Word…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2220,8 +2220,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/api-integration/re…\">",
-              "nodeLabel": "real time data sync\nbusiness-stakeholder-suite/executive-dashboards/api-integra…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/api-integration/re…\">",
+              "nodeLabel": "real time data sync\ntemplates/business-stakeholder/executive-dashboards/api-integra…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2239,8 +2239,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/board-presentation…\">",
-              "nodeLabel": "README\nbusiness-stakeholder-suite/executive-dashboards/board-presentations/READ…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/board-presentation…\">",
+              "nodeLabel": "README\ntemplates/business-stakeholder/executive-dashboards/board-presentations/READ…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2258,8 +2258,8 @@
                 "width": 395,
                 "height": 78
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/data-validation/da…\">",
-              "nodeLabel": "data quality framework\nbusiness-stakeholder-suite/executive-dashboards/data-val…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/data-validation/da…\">",
+              "nodeLabel": "data quality framework\ntemplates/business-stakeholder/executive-dashboards/data-val…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2277,8 +2277,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/excel-workbooks/RE…\">",
-              "nodeLabel": "README\nbusiness-stakeholder-suite/executive-dashboards/excel-workbooks/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/excel-workbooks/RE…\">",
+              "nodeLabel": "README\ntemplates/business-stakeholder/executive-dashboards/excel-workbooks/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2296,8 +2296,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/executive-reports/…\">",
-              "nodeLabel": "README\nbusiness-stakeholder-suite/executive-dashboards/executive-reports/README…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/executive-reports/…\">",
+              "nodeLabel": "README\ntemplates/business-stakeholder/executive-dashboards/executive-reports/README…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2315,8 +2315,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/financial-integrat…\">",
-              "nodeLabel": "ROI Setup Guide\nbusiness-stakeholder-suite/executive-dashboards/financial-integ…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/financial-integrat…\">",
+              "nodeLabel": "ROI Setup Guide\ntemplates/business-stakeholder/executive-dashboards/financial-integ…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2334,8 +2334,8 @@
                 "width": 395,
                 "height": 78
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/financial-integrat…\">",
-              "nodeLabel": "financial forecasting models\nbusiness-stakeholder-suite/executive-dashboards/fi…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/financial-integrat…\">",
+              "nodeLabel": "financial forecasting models\ntemplates/business-stakeholder/executive-dashboards/fi…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2353,8 +2353,8 @@
                 "width": 395,
                 "height": 78
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/financial-integrat…\">",
-              "nodeLabel": "portfolio financial aggregation\nbusiness-stakeholder-suite/executive-dashboards…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/financial-integrat…\">",
+              "nodeLabel": "portfolio financial aggregation\ntemplates/business-stakeholder/executive-dashboards…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2372,8 +2372,8 @@
                 "width": 395,
                 "height": 78
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/financial-integrat…\">",
-              "nodeLabel": "real time budget variance analysis\nbusiness-stakeholder-suite/executive-dashboa…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/financial-integrat…\">",
+              "nodeLabel": "real time budget variance analysis\ntemplates/business-stakeholder/executive-dashboa…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2391,8 +2391,8 @@
                 "width": 395,
                 "height": 78
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/financial-integrat…\">",
-              "nodeLabel": "roi tracking automation\nbusiness-stakeholder-suite/executive-dashboards/financi…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/financial-integrat…\">",
+              "nodeLabel": "roi tracking automation\ntemplates/business-stakeholder/executive-dashboards/financi…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2410,8 +2410,8 @@
                 "width": 395,
                 "height": 78
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/health-scoring/das…\">",
-              "nodeLabel": "dashboard health scoring system\nbusiness-stakeholder-suite/executive-dashboards…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/health-scoring/das…\">",
+              "nodeLabel": "dashboard health scoring system\ntemplates/business-stakeholder/executive-dashboards…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2429,8 +2429,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/performance-monito…\">",
-              "nodeLabel": "performance monitoring analytics\nbusiness-stakeholder-suite/executive-dashboard…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/performance-monito…\">",
+              "nodeLabel": "performance monitoring analytics\ntemplates/business-stakeholder/executive-dashboard…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2448,8 +2448,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/powerbi-integratio…\">",
-              "nodeLabel": "README\nbusiness-stakeholder-suite/executive-dashboards/powerbi-integration/READ…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/powerbi-integratio…\">",
+              "nodeLabel": "README\ntemplates/business-stakeholder/executive-dashboards/powerbi-integration/READ…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2467,8 +2467,8 @@
                 "width": 395,
                 "height": 78
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/powerbi-integratio…\">",
-              "nodeLabel": "data connection guides\nbusiness-stakeholder-suite/executive-dashboards/powerbi-…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/powerbi-integratio…\">",
+              "nodeLabel": "data connection guides\ntemplates/business-stakeholder/executive-dashboards/powerbi-…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2486,8 +2486,8 @@
                 "width": 395,
                 "height": 78
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/powerbi-integratio…\">",
-              "nodeLabel": "executive dashboard template\nbusiness-stakeholder-suite/executive-dashboards/po…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/powerbi-integratio…\">",
+              "nodeLabel": "executive dashboard template\ntemplates/business-stakeholder/executive-dashboards/po…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2505,8 +2505,8 @@
                 "width": 395,
                 "height": 78
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/powerbi-integratio…\">",
-              "nodeLabel": "sample data and measures\nbusiness-stakeholder-suite/executive-dashboards/powerb…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/powerbi-integratio…\">",
+              "nodeLabel": "sample data and measures\ntemplates/business-stakeholder/executive-dashboards/powerb…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2524,8 +2524,8 @@
                 "width": 395,
                 "height": 78
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/real-time-dashboar…\">",
-              "nodeLabel": "executive real time dashboard\nbusiness-stakeholder-suite/executive-dashboards/r…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/real-time-dashboar…\">",
+              "nodeLabel": "executive real time dashboard\ntemplates/business-stakeholder/executive-dashboards/r…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2543,8 +2543,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/tableau-integratio…\">",
-              "nodeLabel": "README\nbusiness-stakeholder-suite/executive-dashboards/tableau-integration/READ…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/tableau-integratio…\">",
+              "nodeLabel": "README\ntemplates/business-stakeholder/executive-dashboards/tableau-integration/READ…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2562,8 +2562,8 @@
                 "width": 395,
                 "height": 78
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/executive-dashboards/tableau-integratio…\">",
-              "nodeLabel": "executive dashboard template\nbusiness-stakeholder-suite/executive-dashboards/ta…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/executive-dashboards/tableau-integratio…\">",
+              "nodeLabel": "executive dashboard template\ntemplates/business-stakeholder/executive-dashboards/ta…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2581,8 +2581,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/financial-governance/README.md\">",
-              "nodeLabel": "README\nbusiness-stakeholder-suite/financial-governance/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/financial-governance/README.md\">",
+              "nodeLabel": "README\ntemplates/business-stakeholder/financial-governance/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2600,8 +2600,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/financial-governance/benefit-realizatio…\">",
-              "nodeLabel": "benefit realization framework\nbusiness-stakeholder-suite/financial-governance/b…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/financial-governance/benefit-realizatio…\">",
+              "nodeLabel": "benefit realization framework\ntemplates/business-stakeholder/financial-governance/b…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2619,8 +2619,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/financial-governance/budget-dashboard-t…\">",
-              "nodeLabel": "budget dashboard template\nbusiness-stakeholder-suite/financial-governance/budge…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/financial-governance/budget-dashboard-t…\">",
+              "nodeLabel": "budget dashboard template\ntemplates/business-stakeholder/financial-governance/budge…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2638,8 +2638,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/financial-governance/cash-flow-manageme…\">",
-              "nodeLabel": "cash flow management\nbusiness-stakeholder-suite/financial-governance/cash-flow-…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/financial-governance/cash-flow-manageme…\">",
+              "nodeLabel": "cash flow management\ntemplates/business-stakeholder/financial-governance/cash-flow-…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2657,8 +2657,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/financial-governance/cost-management-fr…\">",
-              "nodeLabel": "cost management framework\nbusiness-stakeholder-suite/financial-governance/cost-…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/financial-governance/cost-management-fr…\">",
+              "nodeLabel": "cost management framework\ntemplates/business-stakeholder/financial-governance/cost-…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2676,8 +2676,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/financial-governance/enhanced-business-…\">",
-              "nodeLabel": "README\nbusiness-stakeholder-suite/financial-governance/enhanced-business-cases/…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/financial-governance/enhanced-business-…\">",
+              "nodeLabel": "README\ntemplates/business-stakeholder/financial-governance/enhanced-business-cases/…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2695,8 +2695,8 @@
                 "width": 395,
                 "height": 78
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/financial-governance/enhanced-business-…\">",
-              "nodeLabel": "advanced business case template\nbusiness-stakeholder-suite/financial-governance…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/financial-governance/enhanced-business-…\">",
+              "nodeLabel": "advanced business case template\ntemplates/business-stakeholder/financial-governance…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2714,8 +2714,8 @@
                 "width": 395,
                 "height": 78
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/financial-governance/enhanced-business-…\">",
-              "nodeLabel": "evm dashboard template\nbusiness-stakeholder-suite/financial-governance/enhanced…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/financial-governance/enhanced-business-…\">",
+              "nodeLabel": "evm dashboard template\ntemplates/business-stakeholder/financial-governance/enhanced…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2733,8 +2733,8 @@
                 "width": 395,
                 "height": 78
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/financial-governance/enhanced-business-…\">",
-              "nodeLabel": "financial performance tracker\nbusiness-stakeholder-suite/financial-governance/e…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/financial-governance/enhanced-business-…\">",
+              "nodeLabel": "financial performance tracker\ntemplates/business-stakeholder/financial-governance/e…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2752,8 +2752,8 @@
                 "width": 395,
                 "height": 78
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/financial-governance/enhanced-business-…\">",
-              "nodeLabel": "value analysis framework\nbusiness-stakeholder-suite/financial-governance/enhanc…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/financial-governance/enhanced-business-…\">",
+              "nodeLabel": "value analysis framework\ntemplates/business-stakeholder/financial-governance/enhanc…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2771,8 +2771,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/financial-governance/financial-risk-man…\">",
-              "nodeLabel": "financial risk management\nbusiness-stakeholder-suite/financial-governance/finan…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/financial-governance/financial-risk-man…\">",
+              "nodeLabel": "financial risk management\ntemplates/business-stakeholder/financial-governance/finan…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2790,8 +2790,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/financial-governance/investment-approva…\">",
-              "nodeLabel": "investment approval process\nbusiness-stakeholder-suite/financial-governance/inv…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/financial-governance/investment-approva…\">",
+              "nodeLabel": "investment approval process\ntemplates/business-stakeholder/financial-governance/inv…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2809,8 +2809,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/financial-governance/portfolio-financia…\">",
-              "nodeLabel": "portfolio financial oversight\nbusiness-stakeholder-suite/financial-governance/p…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/financial-governance/portfolio-financia…\">",
+              "nodeLabel": "portfolio financial oversight\ntemplates/business-stakeholder/financial-governance/p…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2828,8 +2828,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/financial-governance/roi-tracking-dashb…\">",
-              "nodeLabel": "roi tracking dashboard\nbusiness-stakeholder-suite/financial-governance/roi-trac…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/financial-governance/roi-tracking-dashb…\">",
+              "nodeLabel": "roi tracking dashboard\ntemplates/business-stakeholder/financial-governance/roi-trac…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2847,8 +2847,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/financial-governance/value-stream-analy…\">",
-              "nodeLabel": "value stream analysis\nbusiness-stakeholder-suite/financial-governance/value-str…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/financial-governance/value-stream-analy…\">",
+              "nodeLabel": "value stream analysis\ntemplates/business-stakeholder/financial-governance/value-str…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -2866,8 +2866,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview business-stakeholder-suite/safe-executive-dashboards/README.md\">",
-              "nodeLabel": "README\nbusiness-stakeholder-suite/safe-executive-dashboards/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/business-stakeholder/safe-executive-dashboards/README.md\">",
+              "nodeLabel": "README\ntemplates/business-stakeholder/safe-executive-dashboards/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -17743,8 +17743,8 @@
                 "width": 395,
                 "height": 50
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/01-initiation/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/01-initiation/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/01-initiation/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/01-initiation/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -17762,8 +17762,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/01-initiation/business-case/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/01-initiation/business-case/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/01-initiation/business-case/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/01-initiation/business-case/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -17781,8 +17781,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/01-initiation/feasibility-study/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/01-initiation/feasibility-study/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/01-initiation/feasibility-study/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/01-initiation/feasibility-study/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -17800,8 +17800,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/01-initiation/project-charter/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/01-initiation/project-charter/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/01-initiation/project-charter/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/01-initiation/project-charter/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -17819,8 +17819,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/01-initiation/project-charter/agile-team-charter…\">",
-              "nodeLabel": "agile team charter template\nproject-lifecycle/01-initiation/project-charter/agi…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/01-initiation/project-charter/agile-team-charter…\">",
+              "nodeLabel": "agile team charter template\ntemplates/project-lifecycle/01-initiation/project-charter/agi…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -17838,8 +17838,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/01-initiation/project-charter/hybrid-project-cha…\">",
-              "nodeLabel": "hybrid project charter template\nproject-lifecycle/01-initiation/project-charter…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/01-initiation/project-charter/hybrid-project-cha…\">",
+              "nodeLabel": "hybrid project charter template\ntemplates/project-lifecycle/01-initiation/project-charter…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -17857,8 +17857,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/01-initiation/project-charter/traditional-projec…\">",
-              "nodeLabel": "traditional project charter template\nproject-lifecycle/01-initiation/project-ch…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/01-initiation/project-charter/traditional-projec…\">",
+              "nodeLabel": "traditional project charter template\ntemplates/project-lifecycle/01-initiation/project-ch…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -17876,8 +17876,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/01-initiation/stakeholder-analysis/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/01-initiation/stakeholder-analysis/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/01-initiation/stakeholder-analysis/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/01-initiation/stakeholder-analysis/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -17895,8 +17895,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeho…\">",
-              "nodeLabel": "agile stakeholder map template\nproject-lifecycle/01-initiation/stakeholder-anal…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/01-initiation/stakeholder-analysis/agile-stakeho…\">",
+              "nodeLabel": "agile stakeholder map template\ntemplates/project-lifecycle/01-initiation/stakeholder-anal…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -17914,8 +17914,8 @@
                 "width": 395,
                 "height": 78
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/01-initiation/stakeholder-analysis/enterprise-st…\">",
-              "nodeLabel": "enterprise stakeholder analysis template\nproject-lifecycle/01-initiation/stakeh…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/01-initiation/stakeholder-analysis/enterprise-st…\">",
+              "nodeLabel": "enterprise stakeholder analysis template\ntemplates/project-lifecycle/01-initiation/stakeh…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -17933,8 +17933,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-r…\">",
-              "nodeLabel": "stakeholder register template\nproject-lifecycle/01-initiation/stakeholder-analy…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/01-initiation/stakeholder-analysis/stakeholder-r…\">",
+              "nodeLabel": "stakeholder register template\ntemplates/project-lifecycle/01-initiation/stakeholder-analy…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -17952,8 +17952,8 @@
                 "width": 395,
                 "height": 50
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/02-planning/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/02-planning/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/02-planning/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/02-planning/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -17971,8 +17971,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/02-planning/business-requirements/business_requi…\">",
-              "nodeLabel": "business requirements document template\nproject-lifecycle/02-planning/business-…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/02-planning/business-requirements/business_requi…\">",
+              "nodeLabel": "business requirements document template\ntemplates/project-lifecycle/02-planning/business-…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -17990,8 +17990,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/02-planning/communication-planning/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/02-planning/communication-planning/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/02-planning/communication-planning/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/02-planning/communication-planning/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18009,8 +18009,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/02-planning/cost-management/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/02-planning/cost-management/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/02-planning/cost-management/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/02-planning/cost-management/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18028,8 +18028,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/02-planning/project-management-plan/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/02-planning/project-management-plan/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/02-planning/project-management-plan/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/02-planning/project-management-plan/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18047,8 +18047,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/02-planning/project-management-plan/agile-releas…\">",
-              "nodeLabel": "agile release plan template\nproject-lifecycle/02-planning/project-management-pl…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/02-planning/project-management-plan/agile-releas…\">",
+              "nodeLabel": "agile release plan template\ntemplates/project-lifecycle/02-planning/project-management-pl…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18066,8 +18066,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/02-planning/project-management-plan/hybrid-proje…\">",
-              "nodeLabel": "hybrid project management plan template\nproject-lifecycle/02-planning/project-m…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/02-planning/project-management-plan/hybrid-proje…\">",
+              "nodeLabel": "hybrid project management plan template\ntemplates/project-lifecycle/02-planning/project-m…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18085,8 +18085,8 @@
                 "width": 395,
                 "height": 78
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/02-planning/project-management-plan/traditional-…\">",
-              "nodeLabel": "traditional project management plan template\nproject-lifecycle/02-planning/proj…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/02-planning/project-management-plan/traditional-…\">",
+              "nodeLabel": "traditional project management plan template\ntemplates/project-lifecycle/02-planning/proj…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18104,8 +18104,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/02-planning/quality-management/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/02-planning/quality-management/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/02-planning/quality-management/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/02-planning/quality-management/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18123,8 +18123,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/02-planning/resource-planning/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/02-planning/resource-planning/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/02-planning/resource-planning/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/02-planning/resource-planning/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18142,8 +18142,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/02-planning/resource-planning/resource-managemen…\">",
-              "nodeLabel": "resource management plan template\nproject-lifecycle/02-planning/resource-planni…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/02-planning/resource-planning/resource-managemen…\">",
+              "nodeLabel": "resource management plan template\ntemplates/project-lifecycle/02-planning/resource-planni…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18161,8 +18161,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/02-planning/resource-planning/skills-matrix-temp…\">",
-              "nodeLabel": "skills matrix template\nproject-lifecycle/02-planning/resource-planning/skills-m…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/02-planning/resource-planning/skills-matrix-temp…\">",
+              "nodeLabel": "skills matrix template\ntemplates/project-lifecycle/02-planning/resource-planning/skills-m…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18180,8 +18180,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/02-planning/resource-planning/team-charter-templ…\">",
-              "nodeLabel": "team charter template\nproject-lifecycle/02-planning/resource-planning/team-char…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/02-planning/resource-planning/team-charter-templ…\">",
+              "nodeLabel": "team charter template\ntemplates/project-lifecycle/02-planning/resource-planning/team-char…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18199,8 +18199,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/02-planning/risk-management/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/02-planning/risk-management/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/02-planning/risk-management/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/02-planning/risk-management/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18218,8 +18218,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/02-planning/risk-management/agile-risk-board-tem…\">",
-              "nodeLabel": "agile risk board template\nproject-lifecycle/02-planning/risk-management/agile-r…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/02-planning/risk-management/agile-risk-board-tem…\">",
+              "nodeLabel": "agile risk board template\ntemplates/project-lifecycle/02-planning/risk-management/agile-r…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18237,8 +18237,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/02-planning/risk-management/enterprise-risk-asse…\">",
-              "nodeLabel": "enterprise risk assessment template\nproject-lifecycle/02-planning/risk-manageme…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/02-planning/risk-management/enterprise-risk-asse…\">",
+              "nodeLabel": "enterprise risk assessment template\ntemplates/project-lifecycle/02-planning/risk-manageme…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18256,8 +18256,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/02-planning/risk-management/risk-management-plan…\">",
-              "nodeLabel": "risk management plan template\nproject-lifecycle/02-planning/risk-management/ris…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/02-planning/risk-management/risk-management-plan…\">",
+              "nodeLabel": "risk management plan template\ntemplates/project-lifecycle/02-planning/risk-management/ris…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18275,8 +18275,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/02-planning/risk-management/risk-register-templa…\">",
-              "nodeLabel": "risk register template\nproject-lifecycle/02-planning/risk-management/risk-regis…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/02-planning/risk-management/risk-register-templa…\">",
+              "nodeLabel": "risk register template\ntemplates/project-lifecycle/02-planning/risk-management/risk-regis…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18294,8 +18294,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/02-planning/schedule-planning/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/02-planning/schedule-planning/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/02-planning/schedule-planning/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/02-planning/schedule-planning/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18313,8 +18313,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/02-planning/scope-management/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/02-planning/scope-management/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/02-planning/scope-management/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/02-planning/scope-management/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18332,8 +18332,8 @@
                 "width": 395,
                 "height": 50
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/03-execution/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/03-execution/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/03-execution/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/03-execution/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18351,8 +18351,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/03-execution/change-management/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/03-execution/change-management/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/03-execution/change-management/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/03-execution/change-management/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18370,8 +18370,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/03-execution/quality-assurance/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/03-execution/quality-assurance/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/03-execution/quality-assurance/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/03-execution/quality-assurance/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18389,8 +18389,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/03-execution/team-coordination/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/03-execution/team-coordination/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/03-execution/team-coordination/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/03-execution/team-coordination/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18408,8 +18408,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/03-execution/vendor-management/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/03-execution/vendor-management/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/03-execution/vendor-management/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/03-execution/vendor-management/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18427,8 +18427,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/03-execution/work-management/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/03-execution/work-management/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/03-execution/work-management/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/03-execution/work-management/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18446,8 +18446,8 @@
                 "width": 395,
                 "height": 50
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/04-monitoring-control/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/04-monitoring-control/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/04-monitoring-control/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/04-monitoring-control/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18465,8 +18465,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/04-monitoring-control/change-control/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/04-monitoring-control/change-control/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/04-monitoring-control/change-control/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/04-monitoring-control/change-control/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18484,8 +18484,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/04-monitoring-control/decision-making/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/04-monitoring-control/decision-making/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/04-monitoring-control/decision-making/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/04-monitoring-control/decision-making/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18503,8 +18503,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/04-monitoring-control/issue-management/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/04-monitoring-control/issue-management/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/04-monitoring-control/issue-management/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/04-monitoring-control/issue-management/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18522,8 +18522,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/04-monitoring-control/issue-management/issue-log…\">",
-              "nodeLabel": "issue log template\nproject-lifecycle/04-monitoring-control/issue-management/iss…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/04-monitoring-control/issue-management/issue-log…\">",
+              "nodeLabel": "issue log template\ntemplates/project-lifecycle/04-monitoring-control/issue-management/iss…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18541,8 +18541,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/04-monitoring-control/performance-measurement/RE…\">",
-              "nodeLabel": "README\nproject-lifecycle/04-monitoring-control/performance-measurement/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/04-monitoring-control/performance-measurement/RE…\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/04-monitoring-control/performance-measurement/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18560,8 +18560,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/04-monitoring-control/progress-tracking/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/04-monitoring-control/progress-tracking/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/04-monitoring-control/progress-tracking/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/04-monitoring-control/progress-tracking/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18579,8 +18579,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/04-monitoring-control/progress-tracking/project-…\">",
-              "nodeLabel": "project dashboard template\nproject-lifecycle/04-monitoring-control/progress-tra…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/04-monitoring-control/progress-tracking/project-…\">",
+              "nodeLabel": "project dashboard template\ntemplates/project-lifecycle/04-monitoring-control/progress-tra…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18598,8 +18598,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/04-monitoring-control/progress-tracking/status-r…\">",
-              "nodeLabel": "status report template\nproject-lifecycle/04-monitoring-control/progress-trackin…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/04-monitoring-control/progress-tracking/status-r…\">",
+              "nodeLabel": "status report template\ntemplates/project-lifecycle/04-monitoring-control/progress-trackin…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18617,8 +18617,8 @@
                 "width": 395,
                 "height": 50
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/05-closure/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/05-closure/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/05-closure/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/05-closure/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18636,8 +18636,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/05-closure/knowledge-transfer/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/05-closure/knowledge-transfer/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/05-closure/knowledge-transfer/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/05-closure/knowledge-transfer/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18655,8 +18655,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/05-closure/lessons-learned/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/05-closure/lessons-learned/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/05-closure/lessons-learned/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/05-closure/lessons-learned/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18674,8 +18674,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/05-closure/project-closure/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/05-closure/project-closure/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/05-closure/project-closure/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/05-closure/project-closure/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18693,8 +18693,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/05-closure/transition-to-operations/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/05-closure/transition-to-operations/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/05-closure/transition-to-operations/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/05-closure/transition-to-operations/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -18712,8 +18712,8 @@
                 "width": 395,
                 "height": 50
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview project-lifecycle/README.md\">",
-              "nodeLabel": "README\nproject-lifecycle/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/project-lifecycle/README.md\">",
+              "nodeLabel": "README\ntemplates/project-lifecycle/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19206,8 +19206,8 @@
                 "width": 395,
                 "height": 50
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/README.md\">",
-              "nodeLabel": "README\nrole-based-toolkits/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/README.md\">",
+              "nodeLabel": "README\ntemplates/role-based/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19225,8 +19225,8 @@
                 "width": 395,
                 "height": 50
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/product-owner/README.md\">",
-              "nodeLabel": "README\nrole-based-toolkits/product-owner/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/product-owner/README.md\">",
+              "nodeLabel": "README\ntemplates/role-based/product-owner/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19244,8 +19244,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/product-owner/backlog-management-template.md\">",
-              "nodeLabel": "backlog management template\nrole-based-toolkits/product-owner/backlog-managemen…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/product-owner/backlog-management-template.md\">",
+              "nodeLabel": "backlog management template\ntemplates/role-based/product-owner/backlog-managemen…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19263,8 +19263,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/product-owner/backlog-management/README.md\">",
-              "nodeLabel": "README\nrole-based-toolkits/product-owner/backlog-management/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/product-owner/backlog-management/README.md\">",
+              "nodeLabel": "README\ntemplates/role-based/product-owner/backlog-management/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19282,8 +19282,8 @@
                 "width": 395,
                 "height": 50
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/product-owner/okr-template.md\">",
-              "nodeLabel": "okr template\nrole-based-toolkits/product-owner/okr-template.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/product-owner/okr-template.md\">",
+              "nodeLabel": "okr template\ntemplates/role-based/product-owner/okr-template.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19301,8 +19301,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/product-owner/prioritization-framework-guide.md\">",
-              "nodeLabel": "prioritization framework guide\nrole-based-toolkits/product-owner/prioritization…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/product-owner/prioritization-framework-guide.md\">",
+              "nodeLabel": "prioritization framework guide\ntemplates/role-based/product-owner/prioritization…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19320,8 +19320,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/product-owner/product-metrics-dashboard.md\">",
-              "nodeLabel": "product metrics dashboard\nrole-based-toolkits/product-owner/product-metrics-das…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/product-owner/product-metrics-dashboard.md\">",
+              "nodeLabel": "product metrics dashboard\ntemplates/role-based/product-owner/product-metrics-das…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19339,8 +19339,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/product-owner/product-strategy-canvas.md\">",
-              "nodeLabel": "product strategy canvas\nrole-based-toolkits/product-owner/product-strategy-canv…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/product-owner/product-strategy-canvas.md\">",
+              "nodeLabel": "product strategy canvas\ntemplates/role-based/product-owner/product-strategy-canv…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19358,8 +19358,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/product-owner/product-strategy/README.md\">",
-              "nodeLabel": "README\nrole-based-toolkits/product-owner/product-strategy/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/product-owner/product-strategy/README.md\">",
+              "nodeLabel": "README\ntemplates/role-based/product-owner/product-strategy/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19377,8 +19377,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/product-owner/product-vision-template.md\">",
-              "nodeLabel": "product vision template\nrole-based-toolkits/product-owner/product-vision-templa…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/product-owner/product-vision-template.md\">",
+              "nodeLabel": "product vision template\ntemplates/role-based/product-owner/product-vision-templa…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19396,8 +19396,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/product-owner/stakeholder-collaboration-framew…\">",
-              "nodeLabel": "stakeholder collaboration framework\nrole-based-toolkits/product-owner/stakehold…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/product-owner/stakeholder-collaboration-framew…\">",
+              "nodeLabel": "stakeholder collaboration framework\ntemplates/role-based/product-owner/stakehold…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19415,8 +19415,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/product-owner/stakeholder-collaboration/README…\">",
-              "nodeLabel": "README\nrole-based-toolkits/product-owner/stakeholder-collaboration/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/product-owner/stakeholder-collaboration/README…\">",
+              "nodeLabel": "README\ntemplates/role-based/product-owner/stakeholder-collaboration/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19434,8 +19434,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/product-owner/story-writing-checklist.md\">",
-              "nodeLabel": "story writing checklist\nrole-based-toolkits/product-owner/story-writing-checkli…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/product-owner/story-writing-checklist.md\">",
+              "nodeLabel": "story writing checklist\ntemplates/role-based/product-owner/story-writing-checkli…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19453,8 +19453,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/product-owner/user-story-template.md\">",
-              "nodeLabel": "user story template\nrole-based-toolkits/product-owner/user-story-template.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/product-owner/user-story-template.md\">",
+              "nodeLabel": "user story template\ntemplates/role-based/product-owner/user-story-template.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19472,8 +19472,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/product-owner/value-measurement/README.md\">",
-              "nodeLabel": "README\nrole-based-toolkits/product-owner/value-measurement/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/product-owner/value-measurement/README.md\">",
+              "nodeLabel": "README\ntemplates/role-based/product-owner/value-measurement/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19491,8 +19491,8 @@
                 "width": 395,
                 "height": 50
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/README.md\">",
-              "nodeLabel": "README\nrole-based-toolkits/program-manager/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/README.md\">",
+              "nodeLabel": "README\ntemplates/role-based/program-manager/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19510,8 +19510,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/benefits-realization/README.md\">",
-              "nodeLabel": "README\nrole-based-toolkits/program-manager/benefits-realization/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/benefits-realization/README.md\">",
+              "nodeLabel": "README\ntemplates/role-based/program-manager/benefits-realization/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19529,8 +19529,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/benefits-realization/benefits-…\">",
-              "nodeLabel": "benefits governance\nrole-based-toolkits/program-manager/benefits-realization/be…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/benefits-realization/benefits-…\">",
+              "nodeLabel": "benefits governance\ntemplates/role-based/program-manager/benefits-realization/be…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19548,8 +19548,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/benefits-realization/benefits-…\">",
-              "nodeLabel": "benefits realization plan\nrole-based-toolkits/program-manager/benefits-realizat…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/benefits-realization/benefits-…\">",
+              "nodeLabel": "benefits realization plan\ntemplates/role-based/program-manager/benefits-realizat…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19567,8 +19567,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/benefits-realization/benefits-…\">",
-              "nodeLabel": "benefits register\nrole-based-toolkits/program-manager/benefits-realization/bene…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/benefits-realization/benefits-…\">",
+              "nodeLabel": "benefits register\ntemplates/role-based/program-manager/benefits-realization/bene…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19586,8 +19586,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/benefits-realization/kpi-track…\">",
-              "nodeLabel": "kpi tracker\nrole-based-toolkits/program-manager/benefits-realization/kpi-tracke…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/benefits-realization/kpi-track…\">",
+              "nodeLabel": "kpi tracker\ntemplates/role-based/program-manager/benefits-realization/kpi-tracke…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19605,8 +19605,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/communications/README.md\">",
-              "nodeLabel": "README\nrole-based-toolkits/program-manager/communications/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/communications/README.md\">",
+              "nodeLabel": "README\ntemplates/role-based/program-manager/communications/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19624,8 +19624,8 @@
                 "width": 395,
                 "height": 78
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/communications/escalation-noti…\">",
-              "nodeLabel": "escalation notification templates\nrole-based-toolkits/program-manager/communica…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/communications/escalation-noti…\">",
+              "nodeLabel": "escalation notification templates\ntemplates/role-based/program-manager/communica…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19643,8 +19643,8 @@
                 "width": 395,
                 "height": 78
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/communications/integration-com…\">",
-              "nodeLabel": "integration communication guidelines\nrole-based-toolkits/program-manager/commun…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/communications/integration-com…\">",
+              "nodeLabel": "integration communication guidelines\ntemplates/role-based/program-manager/commun…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19662,8 +19662,8 @@
                 "width": 395,
                 "height": 78
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/communications/integration-map…\">",
-              "nodeLabel": "integration mapping matrix\nrole-based-toolkits/program-manager/communications/i…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/communications/integration-map…\">",
+              "nodeLabel": "integration mapping matrix\ntemplates/role-based/program-manager/communications/i…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19681,8 +19681,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/communications/integration-rac…\">",
-              "nodeLabel": "integration raci\nrole-based-toolkits/program-manager/communications/integration…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/communications/integration-rac…\">",
+              "nodeLabel": "integration raci\ntemplates/role-based/program-manager/communications/integration…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19700,8 +19700,8 @@
                 "width": 395,
                 "height": 78
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/communications/interface-contr…\">",
-              "nodeLabel": "interface control document\nrole-based-toolkits/program-manager/communications/i…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/communications/interface-contr…\">",
+              "nodeLabel": "interface control document\ntemplates/role-based/program-manager/communications/i…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19719,8 +19719,8 @@
                 "width": 395,
                 "height": 78
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/communications/multi-level-com…\">",
-              "nodeLabel": "multi level communication plan\nrole-based-toolkits/program-manager/communicatio…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/communications/multi-level-com…\">",
+              "nodeLabel": "multi level communication plan\ntemplates/role-based/program-manager/communicatio…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19738,8 +19738,8 @@
                 "width": 395,
                 "height": 78
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/communications/program-status-…\">",
-              "nodeLabel": "program status reporting framework\nrole-based-toolkits/program-manager/communic…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/communications/program-status-…\">",
+              "nodeLabel": "program status reporting framework\ntemplates/role-based/program-manager/communic…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19757,8 +19757,8 @@
                 "width": 395,
                 "height": 78
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/communications/stakeholder-com…\">",
-              "nodeLabel": "stakeholder communication calendar\nrole-based-toolkits/program-manager/communic…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/communications/stakeholder-com…\">",
+              "nodeLabel": "stakeholder communication calendar\ntemplates/role-based/program-manager/communic…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19776,8 +19776,8 @@
                 "width": 395,
                 "height": 78
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/communications/status-communic…\">",
-              "nodeLabel": "status communication workflows\nrole-based-toolkits/program-manager/communicatio…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/communications/status-communic…\">",
+              "nodeLabel": "status communication workflows\ntemplates/role-based/program-manager/communicatio…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19795,8 +19795,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/governance-framework/README.md\">",
-              "nodeLabel": "README\nrole-based-toolkits/program-manager/governance-framework/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/governance-framework/README.md\">",
+              "nodeLabel": "README\ntemplates/role-based/program-manager/governance-framework/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19814,8 +19814,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/governance-framework/change-co…\">",
-              "nodeLabel": "change control board charter\nrole-based-toolkits/program-manager/governance-fra…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/governance-framework/change-co…\">",
+              "nodeLabel": "change control board charter\ntemplates/role-based/program-manager/governance-fra…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19833,8 +19833,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/governance-framework/decision-…\">",
-              "nodeLabel": "decision authority matrix\nrole-based-toolkits/program-manager/governance-framew…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/governance-framework/decision-…\">",
+              "nodeLabel": "decision authority matrix\ntemplates/role-based/program-manager/governance-framew…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19852,8 +19852,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/governance-framework/governanc…\">",
-              "nodeLabel": "governance charter\nrole-based-toolkits/program-manager/governance-framework/gov…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/governance-framework/governanc…\">",
+              "nodeLabel": "governance charter\ntemplates/role-based/program-manager/governance-framework/gov…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19871,8 +19871,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/governance-framework/program-q…\">",
-              "nodeLabel": "program quality management plan\nrole-based-toolkits/program-manager/governance-…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/governance-framework/program-q…\">",
+              "nodeLabel": "program quality management plan\ntemplates/role-based/program-manager/governance-…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19890,8 +19890,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/governance-framework/steering-…\">",
-              "nodeLabel": "steering committee charter\nrole-based-toolkits/program-manager/governance-frame…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/governance-framework/steering-…\">",
+              "nodeLabel": "steering committee charter\ntemplates/role-based/program-manager/governance-frame…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19909,8 +19909,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/methodology-variants/README.md\">",
-              "nodeLabel": "README\nrole-based-toolkits/program-manager/methodology-variants/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/methodology-variants/README.md\">",
+              "nodeLabel": "README\ntemplates/role-based/program-manager/methodology-variants/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19928,8 +19928,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/portfolio-management/README.md\">",
-              "nodeLabel": "README\nrole-based-toolkits/program-manager/portfolio-management/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/portfolio-management/README.md\">",
+              "nodeLabel": "README\ntemplates/role-based/program-manager/portfolio-management/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19947,8 +19947,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/portfolio-management/benefits-…\">",
-              "nodeLabel": "benefits tracking dashboard\nrole-based-toolkits/program-manager/portfolio-manag…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/portfolio-management/benefits-…\">",
+              "nodeLabel": "benefits tracking dashboard\ntemplates/role-based/program-manager/portfolio-manag…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19966,8 +19966,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/portfolio-management/governanc…\">",
-              "nodeLabel": "governance cadence\nrole-based-toolkits/program-manager/portfolio-management/gov…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/portfolio-management/governanc…\">",
+              "nodeLabel": "governance cadence\ntemplates/role-based/program-manager/portfolio-management/gov…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -19985,8 +19985,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/portfolio-management/portfolio…\">",
-              "nodeLabel": "portfolio kanban\nrole-based-toolkits/program-manager/portfolio-management/portf…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/portfolio-management/portfolio…\">",
+              "nodeLabel": "portfolio kanban\ntemplates/role-based/program-manager/portfolio-management/portf…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20004,8 +20004,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/portfolio-management/prioritiz…\">",
-              "nodeLabel": "prioritization model\nrole-based-toolkits/program-manager/portfolio-management/p…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/portfolio-management/prioritiz…\">",
+              "nodeLabel": "prioritization model\ntemplates/role-based/program-manager/portfolio-management/p…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20023,8 +20023,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/program-charter/README.md\">",
-              "nodeLabel": "README\nrole-based-toolkits/program-manager/program-charter/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/program-charter/README.md\">",
+              "nodeLabel": "README\ntemplates/role-based/program-manager/program-charter/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20042,8 +20042,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/program-lifecycle/README.md\">",
-              "nodeLabel": "README\nrole-based-toolkits/program-manager/program-lifecycle/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/program-lifecycle/README.md\">",
+              "nodeLabel": "README\ntemplates/role-based/program-manager/program-lifecycle/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20061,8 +20061,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/program-planning/README.md\">",
-              "nodeLabel": "README\nrole-based-toolkits/program-manager/program-planning/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/program-planning/README.md\">",
+              "nodeLabel": "README\ntemplates/role-based/program-manager/program-planning/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20080,8 +20080,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/program-planning/program-manag…\">",
-              "nodeLabel": "program management plan\nrole-based-toolkits/program-manager/program-planning/pr…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/program-planning/program-manag…\">",
+              "nodeLabel": "program management plan\ntemplates/role-based/program-manager/program-planning/pr…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20099,8 +20099,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/program-planning/program-roadm…\">",
-              "nodeLabel": "program roadmap\nrole-based-toolkits/program-manager/program-planning/program-ro…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/program-planning/program-roadm…\">",
+              "nodeLabel": "program roadmap\ntemplates/role-based/program-manager/program-planning/program-ro…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20118,8 +20118,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/program-planning/program-wbs.md\">",
-              "nodeLabel": "program wbs\nrole-based-toolkits/program-manager/program-planning/program-wbs.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/program-planning/program-wbs.md\">",
+              "nodeLabel": "program wbs\ntemplates/role-based/program-manager/program-planning/program-wbs.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20137,8 +20137,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/program-planning/resource-capa…\">",
-              "nodeLabel": "resource capacity plan\nrole-based-toolkits/program-manager/program-planning/res…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/program-planning/resource-capa…\">",
+              "nodeLabel": "resource capacity plan\ntemplates/role-based/program-manager/program-planning/res…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20156,8 +20156,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/risk-management/README.md\">",
-              "nodeLabel": "README\nrole-based-toolkits/program-manager/risk-management/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/risk-management/README.md\">",
+              "nodeLabel": "README\ntemplates/role-based/program-manager/risk-management/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20175,8 +20175,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/risk-management/dependency-ris…\">",
-              "nodeLabel": "dependency risk matrix\nrole-based-toolkits/program-manager/risk-management/depe…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/risk-management/dependency-ris…\">",
+              "nodeLabel": "dependency risk matrix\ntemplates/role-based/program-manager/risk-management/depe…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20194,8 +20194,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/risk-management/escalation-iss…\">",
-              "nodeLabel": "escalation issue resolution\nrole-based-toolkits/program-manager/risk-management…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/risk-management/escalation-iss…\">",
+              "nodeLabel": "escalation issue resolution\ntemplates/role-based/program-manager/risk-management…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20213,8 +20213,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/risk-management/program-risk-m…\">",
-              "nodeLabel": "program risk management plan\nrole-based-toolkits/program-manager/risk-managemen…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/risk-management/program-risk-m…\">",
+              "nodeLabel": "program risk management plan\ntemplates/role-based/program-manager/risk-managemen…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20232,8 +20232,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/risk-management/program-risk-r…\">",
-              "nodeLabel": "program risk register\nrole-based-toolkits/program-manager/risk-management/progr…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/risk-management/program-risk-r…\">",
+              "nodeLabel": "program risk register\ntemplates/role-based/program-manager/risk-management/progr…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20251,8 +20251,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/stakeholder-management/README.…\">",
-              "nodeLabel": "README\nrole-based-toolkits/program-manager/stakeholder-management/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/stakeholder-management/README.…\">",
+              "nodeLabel": "README\ntemplates/role-based/program-manager/stakeholder-management/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20270,8 +20270,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/stakeholder-management/change-…\">",
-              "nodeLabel": "change readiness impact\nrole-based-toolkits/program-manager/stakeholder-managem…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/stakeholder-management/change-…\">",
+              "nodeLabel": "change readiness impact\ntemplates/role-based/program-manager/stakeholder-managem…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20289,8 +20289,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/stakeholder-management/engagem…\">",
-              "nodeLabel": "engagement strategies\nrole-based-toolkits/program-manager/stakeholder-managemen…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/stakeholder-management/engagem…\">",
+              "nodeLabel": "engagement strategies\ntemplates/role-based/program-manager/stakeholder-managemen…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20308,8 +20308,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/stakeholder-management/influen…\">",
-              "nodeLabel": "influence interest matrix\nrole-based-toolkits/program-manager/stakeholder-manag…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/stakeholder-management/influen…\">",
+              "nodeLabel": "influence interest matrix\ntemplates/role-based/program-manager/stakeholder-manag…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20327,8 +20327,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/program-manager/stakeholder-management/stakeho…\">",
-              "nodeLabel": "stakeholder analysis mapping\nrole-based-toolkits/program-manager/stakeholder-ma…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/program-manager/stakeholder-management/stakeho…\">",
+              "nodeLabel": "stakeholder analysis mapping\ntemplates/role-based/program-manager/stakeholder-ma…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20346,8 +20346,8 @@
                 "width": 395,
                 "height": 50
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/README.md\">",
-              "nodeLabel": "README\nrole-based-toolkits/project-manager/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/README.md\">",
+              "nodeLabel": "README\ntemplates/role-based/project-manager/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20365,8 +20365,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/essential-templates/README.md\">",
-              "nodeLabel": "README\nrole-based-toolkits/project-manager/essential-templates/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/essential-templates/README.md\">",
+              "nodeLabel": "README\ntemplates/role-based/project-manager/essential-templates/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20384,8 +20384,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/essential-templates/budget-tem…\">",
-              "nodeLabel": "budget template\nrole-based-toolkits/project-manager/essential-templates/budget-…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/essential-templates/budget-tem…\">",
+              "nodeLabel": "budget template\ntemplates/role-based/project-manager/essential-templates/budget-…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20403,8 +20403,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/essential-templates/business-c…\">",
-              "nodeLabel": "business case\nrole-based-toolkits/project-manager/essential-templates/business-…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/essential-templates/business-c…\">",
+              "nodeLabel": "business case\ntemplates/role-based/project-manager/essential-templates/business-…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20422,8 +20422,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/essential-templates/change-req…\">",
-              "nodeLabel": "change request\nrole-based-toolkits/project-manager/essential-templates/change-r…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/essential-templates/change-req…\">",
+              "nodeLabel": "change request\ntemplates/role-based/project-manager/essential-templates/change-r…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20441,8 +20441,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/essential-templates/closure-ch…\">",
-              "nodeLabel": "closure checklist\nrole-based-toolkits/project-manager/essential-templates/closu…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/essential-templates/closure-ch…\">",
+              "nodeLabel": "closure checklist\ntemplates/role-based/project-manager/essential-templates/closu…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20460,8 +20460,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/essential-templates/communicat…\">",
-              "nodeLabel": "communication plan\nrole-based-toolkits/project-manager/essential-templates/comm…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/essential-templates/communicat…\">",
+              "nodeLabel": "communication plan\ntemplates/role-based/project-manager/essential-templates/comm…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20479,8 +20479,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/essential-templates/decision-l…\">",
-              "nodeLabel": "decision log\nrole-based-toolkits/project-manager/essential-templates/decision-l…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/essential-templates/decision-l…\">",
+              "nodeLabel": "decision log\ntemplates/role-based/project-manager/essential-templates/decision-l…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20498,8 +20498,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/essential-templates/final-repo…\">",
-              "nodeLabel": "final report\nrole-based-toolkits/project-manager/essential-templates/final-repo…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/essential-templates/final-repo…\">",
+              "nodeLabel": "final report\ntemplates/role-based/project-manager/essential-templates/final-repo…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20517,8 +20517,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/essential-templates/handover-t…\">",
-              "nodeLabel": "handover template\nrole-based-toolkits/project-manager/essential-templates/hando…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/essential-templates/handover-t…\">",
+              "nodeLabel": "handover template\ntemplates/role-based/project-manager/essential-templates/hando…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20536,8 +20536,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/essential-templates/issue-log.…\">",
-              "nodeLabel": "issue log\nrole-based-toolkits/project-manager/essential-templates/issue-log.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/essential-templates/issue-log.…\">",
+              "nodeLabel": "issue log\ntemplates/role-based/project-manager/essential-templates/issue-log.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20555,8 +20555,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/essential-templates/lessons-le…\">",
-              "nodeLabel": "lessons learned\nrole-based-toolkits/project-manager/essential-templates/lessons…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/essential-templates/lessons-le…\">",
+              "nodeLabel": "lessons learned\ntemplates/role-based/project-manager/essential-templates/lessons…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20574,8 +20574,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/essential-templates/meeting-te…\">",
-              "nodeLabel": "meeting templates\nrole-based-toolkits/project-manager/essential-templates/meeti…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/essential-templates/meeting-te…\">",
+              "nodeLabel": "meeting templates\ntemplates/role-based/project-manager/essential-templates/meeti…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20593,8 +20593,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/essential-templates/milestone-…\">",
-              "nodeLabel": "milestone review\nrole-based-toolkits/project-manager/essential-templates/milest…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/essential-templates/milestone-…\">",
+              "nodeLabel": "milestone review\ntemplates/role-based/project-manager/essential-templates/milest…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20612,8 +20612,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/essential-templates/performanc…\">",
-              "nodeLabel": "performance dashboard\nrole-based-toolkits/project-manager/essential-templates/p…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/essential-templates/performanc…\">",
+              "nodeLabel": "performance dashboard\ntemplates/role-based/project-manager/essential-templates/p…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20631,8 +20631,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/essential-templates/project-ch…\">",
-              "nodeLabel": "project charter\nrole-based-toolkits/project-manager/essential-templates/project…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/essential-templates/project-ch…\">",
+              "nodeLabel": "project charter\ntemplates/role-based/project-manager/essential-templates/project…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20650,8 +20650,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/essential-templates/project-sc…\">",
-              "nodeLabel": "project schedule\nrole-based-toolkits/project-manager/essential-templates/projec…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/essential-templates/project-sc…\">",
+              "nodeLabel": "project schedule\ntemplates/role-based/project-manager/essential-templates/projec…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20669,8 +20669,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/essential-templates/quality-ch…\">",
-              "nodeLabel": "quality checklist\nrole-based-toolkits/project-manager/essential-templates/quali…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/essential-templates/quality-ch…\">",
+              "nodeLabel": "quality checklist\ntemplates/role-based/project-manager/essential-templates/quali…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20688,8 +20688,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/essential-templates/resource-p…\">",
-              "nodeLabel": "resource planning\nrole-based-toolkits/project-manager/essential-templates/resou…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/essential-templates/resource-p…\">",
+              "nodeLabel": "resource planning\ntemplates/role-based/project-manager/essential-templates/resou…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20707,8 +20707,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/essential-templates/risk-regis…\">",
-              "nodeLabel": "risk register\nrole-based-toolkits/project-manager/essential-templates/risk-regi…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/essential-templates/risk-regis…\">",
+              "nodeLabel": "risk register\ntemplates/role-based/project-manager/essential-templates/risk-regi…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20726,8 +20726,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/essential-templates/scope-stat…\">",
-              "nodeLabel": "scope statement\nrole-based-toolkits/project-manager/essential-templates/scope-s…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/essential-templates/scope-stat…\">",
+              "nodeLabel": "scope statement\ntemplates/role-based/project-manager/essential-templates/scope-s…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20745,8 +20745,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/essential-templates/stakeholde…\">",
-              "nodeLabel": "stakeholder register\nrole-based-toolkits/project-manager/essential-templates/st…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/essential-templates/stakeholde…\">",
+              "nodeLabel": "stakeholder register\ntemplates/role-based/project-manager/essential-templates/st…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20764,8 +20764,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/essential-templates/status-rep…\">",
-              "nodeLabel": "status report\nrole-based-toolkits/project-manager/essential-templates/status-re…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/essential-templates/status-rep…\">",
+              "nodeLabel": "status report\ntemplates/role-based/project-manager/essential-templates/status-re…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20783,8 +20783,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/essential-templates/team-chart…\">",
-              "nodeLabel": "team charter\nrole-based-toolkits/project-manager/essential-templates/team-chart…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/essential-templates/team-chart…\">",
+              "nodeLabel": "team charter\ntemplates/role-based/project-manager/essential-templates/team-chart…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20802,8 +20802,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/essential-templates/timesheet-…\">",
-              "nodeLabel": "timesheet tracking template\nrole-based-toolkits/project-manager/essential-templ…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/essential-templates/timesheet-…\">",
+              "nodeLabel": "timesheet tracking template\ntemplates/role-based/project-manager/essential-templ…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20821,8 +20821,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/essential-templates/work-break…\">",
-              "nodeLabel": "work breakdown structure\nrole-based-toolkits/project-manager/essential-template…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/essential-templates/work-break…\">",
+              "nodeLabel": "work breakdown structure\ntemplates/role-based/project-manager/essential-template…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20840,8 +20840,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/governance-tools/README.md\">",
-              "nodeLabel": "README\nrole-based-toolkits/project-manager/governance-tools/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/governance-tools/README.md\">",
+              "nodeLabel": "README\ntemplates/role-based/project-manager/governance-tools/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20859,8 +20859,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/governance-tools/change-contro…\">",
-              "nodeLabel": "change control process\nrole-based-toolkits/project-manager/governance-tools/cha…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/governance-tools/change-contro…\">",
+              "nodeLabel": "change control process\ntemplates/role-based/project-manager/governance-tools/cha…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20878,8 +20878,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/governance-tools/decision-auth…\">",
-              "nodeLabel": "decision authority\nrole-based-toolkits/project-manager/governance-tools/decisio…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/governance-tools/decision-auth…\">",
+              "nodeLabel": "decision authority\ntemplates/role-based/project-manager/governance-tools/decisio…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20897,8 +20897,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/governance-tools/decision-fram…\">",
-              "nodeLabel": "decision framework\nrole-based-toolkits/project-manager/governance-tools/decisio…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/governance-tools/decision-fram…\">",
+              "nodeLabel": "decision framework\ntemplates/role-based/project-manager/governance-tools/decisio…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20916,8 +20916,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/governance-tools/escalation-ma…\">",
-              "nodeLabel": "escalation matrix\nrole-based-toolkits/project-manager/governance-tools/escalati…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/governance-tools/escalation-ma…\">",
+              "nodeLabel": "escalation matrix\ntemplates/role-based/project-manager/governance-tools/escalati…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20935,8 +20935,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/governance-tools/governance-ch…\">",
-              "nodeLabel": "governance charter\nrole-based-toolkits/project-manager/governance-tools/governa…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/governance-tools/governance-ch…\">",
+              "nodeLabel": "governance charter\ntemplates/role-based/project-manager/governance-tools/governa…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20954,8 +20954,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/governance-tools/governance-fr…\">",
-              "nodeLabel": "governance framework\nrole-based-toolkits/project-manager/governance-tools/gover…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/governance-tools/governance-fr…\">",
+              "nodeLabel": "governance framework\ntemplates/role-based/project-manager/governance-tools/gover…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20973,8 +20973,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/governance-tools/governance-ro…\">",
-              "nodeLabel": "governance roles\nrole-based-toolkits/project-manager/governance-tools/governanc…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/governance-tools/governance-ro…\">",
+              "nodeLabel": "governance roles\ntemplates/role-based/project-manager/governance-tools/governanc…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -20992,8 +20992,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/governance-tools/quality-gates…\">",
-              "nodeLabel": "quality gates\nrole-based-toolkits/project-manager/governance-tools/quality-gate…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/governance-tools/quality-gates…\">",
+              "nodeLabel": "quality gates\ntemplates/role-based/project-manager/governance-tools/quality-gate…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -21011,8 +21011,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/reporting-dashboards/README.md\">",
-              "nodeLabel": "README\nrole-based-toolkits/project-manager/reporting-dashboards/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/reporting-dashboards/README.md\">",
+              "nodeLabel": "README\ntemplates/role-based/project-manager/reporting-dashboards/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -21030,8 +21030,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/reporting-dashboards/executive…\">",
-              "nodeLabel": "executive dashboard\nrole-based-toolkits/project-manager/reporting-dashboards/ex…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/reporting-dashboards/executive…\">",
+              "nodeLabel": "executive dashboard\ntemplates/role-based/project-manager/reporting-dashboards/ex…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -21049,8 +21049,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/reporting-dashboards/executive…\">",
-              "nodeLabel": "executive status report\nrole-based-toolkits/project-manager/reporting-dashboard…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/reporting-dashboards/executive…\">",
+              "nodeLabel": "executive status report\ntemplates/role-based/project-manager/reporting-dashboard…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -21068,8 +21068,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/reporting-dashboards/stakehold…\">",
-              "nodeLabel": "stakeholder update\nrole-based-toolkits/project-manager/reporting-dashboards/sta…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/reporting-dashboards/stakehold…\">",
+              "nodeLabel": "stakeholder update\ntemplates/role-based/project-manager/reporting-dashboards/sta…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -21087,8 +21087,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/reporting-dashboards/team-dash…\">",
-              "nodeLabel": "team dashboard\nrole-based-toolkits/project-manager/reporting-dashboards/team-da…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/reporting-dashboards/team-dash…\">",
+              "nodeLabel": "team dashboard\ntemplates/role-based/project-manager/reporting-dashboards/team-da…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -21106,8 +21106,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/stakeholder-engagement/README.…\">",
-              "nodeLabel": "README\nrole-based-toolkits/project-manager/stakeholder-engagement/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/stakeholder-engagement/README.…\">",
+              "nodeLabel": "README\ntemplates/role-based/project-manager/stakeholder-engagement/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -21125,8 +21125,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/stakeholder-engagement/communi…\">",
-              "nodeLabel": "communication calendar\nrole-based-toolkits/project-manager/stakeholder-engageme…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/stakeholder-engagement/communi…\">",
+              "nodeLabel": "communication calendar\ntemplates/role-based/project-manager/stakeholder-engageme…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -21144,8 +21144,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/stakeholder-engagement/communi…\">",
-              "nodeLabel": "communication matrix\nrole-based-toolkits/project-manager/stakeholder-engagement…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/stakeholder-engagement/communi…\">",
+              "nodeLabel": "communication matrix\ntemplates/role-based/project-manager/stakeholder-engagement…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -21163,8 +21163,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/stakeholder-engagement/engagem…\">",
-              "nodeLabel": "engagement plan\nrole-based-toolkits/project-manager/stakeholder-engagement/enga…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/stakeholder-engagement/engagem…\">",
+              "nodeLabel": "engagement plan\ntemplates/role-based/project-manager/stakeholder-engagement/enga…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -21182,8 +21182,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/stakeholder-engagement/raci-ma…\">",
-              "nodeLabel": "raci matrix\nrole-based-toolkits/project-manager/stakeholder-engagement/raci-mat…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/stakeholder-engagement/raci-ma…\">",
+              "nodeLabel": "raci matrix\ntemplates/role-based/project-manager/stakeholder-engagement/raci-mat…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -21201,8 +21201,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/stakeholder-engagement/stakeho…\">",
-              "nodeLabel": "stakeholder analysis\nrole-based-toolkits/project-manager/stakeholder-engagement…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/stakeholder-engagement/stakeho…\">",
+              "nodeLabel": "stakeholder analysis\ntemplates/role-based/project-manager/stakeholder-engagement…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -21220,8 +21220,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/project-manager/stakeholder-engagement/stakeho…\">",
-              "nodeLabel": "stakeholder mapping\nrole-based-toolkits/project-manager/stakeholder-engagement/…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/project-manager/stakeholder-engagement/stakeho…\">",
+              "nodeLabel": "stakeholder mapping\ntemplates/role-based/project-manager/stakeholder-engagement/…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -21239,8 +21239,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/release-train-engineer/README.md\">",
-              "nodeLabel": "README\nrole-based-toolkits/release-train-engineer/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/release-train-engineer/README.md\">",
+              "nodeLabel": "README\ntemplates/role-based/release-train-engineer/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -21258,8 +21258,8 @@
                 "width": 395,
                 "height": 50
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/scrum-master/README.md\">",
-              "nodeLabel": "README\nrole-based-toolkits/scrum-master/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/scrum-master/README.md\">",
+              "nodeLabel": "README\ntemplates/role-based/scrum-master/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -21277,8 +21277,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/scrum-master/agile-ceremonies/README.md\">",
-              "nodeLabel": "README\nrole-based-toolkits/scrum-master/agile-ceremonies/README.md",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/scrum-master/agile-ceremonies/README.md\">",
+              "nodeLabel": "README\ntemplates/role-based/scrum-master/agile-ceremonies/README.md",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -21296,8 +21296,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/scrum-master/agile-ceremonies/backlog-refineme…\">",
-              "nodeLabel": "backlog refinement template\nrole-based-toolkits/scrum-master/agile-ceremonies/b…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/scrum-master/agile-ceremonies/backlog-refineme…\">",
+              "nodeLabel": "backlog refinement template\ntemplates/role-based/scrum-master/agile-ceremonies/b…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -21315,8 +21315,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/scrum-master/agile-ceremonies/daily-standup-te…\">",
-              "nodeLabel": "daily standup template\nrole-based-toolkits/scrum-master/agile-ceremonies/daily-…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/scrum-master/agile-ceremonies/daily-standup-te…\">",
+              "nodeLabel": "daily standup template\ntemplates/role-based/scrum-master/agile-ceremonies/daily-…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -21334,8 +21334,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/scrum-master/agile-ceremonies/sprint-planning-…\">",
-              "nodeLabel": "sprint planning template\nrole-based-toolkits/scrum-master/agile-ceremonies/spri…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/scrum-master/agile-ceremonies/sprint-planning-…\">",
+              "nodeLabel": "sprint planning template\ntemplates/role-based/scrum-master/agile-ceremonies/spri…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -21353,8 +21353,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/scrum-master/agile-ceremonies/sprint-retrospec…\">",
-              "nodeLabel": "sprint retrospective template\nrole-based-toolkits/scrum-master/agile-ceremonies…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/scrum-master/agile-ceremonies/sprint-retrospec…\">",
+              "nodeLabel": "sprint retrospective template\ntemplates/role-based/scrum-master/agile-ceremonies…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           },
@@ -21372,8 +21372,8 @@
                 "width": 395,
                 "height": 64
               },
-              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview role-based-toolkits/scrum-master/agile-ceremonies/sprint-review-te…\">",
-              "nodeLabel": "sprint review template\nrole-based-toolkits/scrum-master/agile-ceremonies/sprint…",
+              "snippet": "<button class=\"file-item\" type=\"button\" aria-label=\"Preview templates/role-based/scrum-master/agile-ceremonies/sprint-review-te…\">",
+              "nodeLabel": "sprint review template\ntemplates/role-based/scrum-master/agile-ceremonies/sprint…",
               "explanation": "Fix any of the following:\n  Text inside the element is not included in the accessible name"
             }
           }

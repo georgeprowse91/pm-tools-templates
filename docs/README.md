@@ -45,15 +45,15 @@ Change management, tool integration, and scaling practices
 ## 🎯 Popular Resources
 
 ### By Role
-- **[Project Manager Toolkit](../role-based-toolkits/project-manager/)** - Essential PM templates and dashboards
-- **[Scrum Master Toolkit](../role-based-toolkits/scrum-master/)** - Agile ceremonies and team facilitation
-- **[Executive Suite](../business-stakeholder-suite/)** - Dashboards and governance for business stakeholders
+- **[Project Manager Toolkit](../templates/role-based/project-manager/)** - Essential PM templates and dashboards
+- **[Scrum Master Toolkit](../templates/role-based/scrum-master/)** - Agile ceremonies and team facilitation
+- **[Executive Suite](../templates/business-stakeholder/)** - Dashboards and governance for business stakeholders
 
 ### By Project Phase
-- **[Project Initiation](../project-lifecycle/01-initiation/)** - Charters, stakeholder analysis, business cases
+- **[Project Initiation](../templates/project-lifecycle/01-initiation/)** - Charters, stakeholder analysis, business cases
 <a id="need-help"></a>
-- **[Project Planning](../project-lifecycle/02-planning/)** - Comprehensive planning templates
-- **[Project Execution](../project-lifecycle/03-execution/)** - Work management and team coordination
+- **[Project Planning](../templates/project-lifecycle/02-planning/)** - Comprehensive planning templates
+- **[Project Execution](../templates/project-lifecycle/03-execution/)** - Work management and team coordination
 
 ### By Industry
 - **[Information Technology](../industry-specializations/information-technology/)**

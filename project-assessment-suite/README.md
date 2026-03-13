@@ -38,7 +38,7 @@ The assessment follows a structured approach:
 - **[Resource Management Assessment](./resource-management-assessment-template.md)** - Resource allocation and management
 
 ### Methodology-Specific Templates
-- **[Agile Assessment](./agile-project-assessment-template.md)** - Agile-specific project evaluation
+- **[Agile Assessment](./agile-project-assessment-template-template-agile.md)** - Agile-specific project evaluation
 - **[Waterfall Assessment](./waterfall-project-assessment-template.md)** - Traditional project management assessment
 - **[Hybrid Assessment](./hybrid-project-assessment-template.md)** - Hybrid methodology assessment
 
@@ -46,7 +46,7 @@ The assessment follows a structured approach:
 - **[Assessment Planning Guide](./assessment-planning-guide.md)** - How to plan and conduct assessments
 - **[Scoring and Rating Guide](./scoring-rating-guide.md)** - Standardized scoring methodology
 - **[Executive Summary Template](./executive-summary-template.md)** - Executive reporting format
-- **[Assessment Report Template](./assessment-report-template.md)** - Comprehensive assessment documentation
+- **[Assessment Report Template](./assessment-report-template-template-general.md)** - Comprehensive assessment documentation
 
 ## Usage Guidelines
 
@@ -110,8 +110,8 @@ The assessment follows a structured approach:
 This assessment suite is designed to integrate with the existing repository structure:
 
 - **Methodology Alignment**: Use with [Traditional](../Traditional/), [Agile](../Agile/), or [Hybrid](../Hybrid/) frameworks
-- **Lifecycle Integration**: Connect with [Project Lifecycle](../project-lifecycle/) templates
-- **Role-Based Tools**: Complement [Role-Based Toolkits](../role-based-toolkits/)
+- **Lifecycle Integration**: Connect with [Project Lifecycle](../templates/project-lifecycle/) templates
+- **Role-Based Tools**: Complement [Role-Based Toolkits](../templates/role-based/)
 - **Organizational Framework**: Align with [Organizational Frameworks](../organizational-frameworks/)
 
 ## Success Metrics

@@ -15,7 +15,7 @@
 
 title: "Timesheet Tracking Template"
 
-[**➡️ View Template File**](/role-based-toolkits/project-manager/essential-templates/timesheet-tracking-template.md)
+[**➡️ View Template File**](/templates/all/timesheet-tracking-template.md)
 
 ## 📈 Quality Score
 

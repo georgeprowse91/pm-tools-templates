@@ -15,7 +15,7 @@
 
 title: "Budget Template"
 
-[**➡️ View Template File**](/role-based-toolkits/project-manager/essential-templates/budget-template.md)
+[**➡️ View Template File**](/templates/all/budget-template-template-general.md)
 
 ## 📈 Quality Score
 

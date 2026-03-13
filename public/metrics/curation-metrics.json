@@ -485,7 +485,7 @@
       "lastUpdated": "2025-06-20T13:11:26.172Z"
     },
     {
-      "id": "hybrid_project_charter_template",
+      "id": "hybrid-project-charter-metadata-template",
       "name": "Hybrid Project Charter Template",
       "tier": "STANDARD",
       "overallScore": 77,
@@ -499,7 +499,7 @@
       "lastUpdated": "2025-06-20T13:11:27.948Z"
     },
     {
-      "id": "hybrid_quality_management_template",
+      "id": "hybrid-quality-management-template",
       "name": "Hybrid Quality Management Template",
       "tier": "STANDARD",
       "overallScore": 99,
@@ -513,7 +513,7 @@
       "lastUpdated": "2025-06-20T13:11:27.968Z"
     },
     {
-      "id": "hybrid_release_planning_template",
+      "id": "hybrid-release-planning-template",
       "name": "Hybrid Release Planning Template",
       "tier": "STANDARD",
       "overallScore": 89,
@@ -527,7 +527,7 @@
       "lastUpdated": "2025-06-20T13:11:27.941Z"
     },
     {
-      "id": "hybrid_team_management_template",
+      "id": "hybrid-team-management-template",
       "name": "Hybrid Team Management Template",
       "tier": "STANDARD",
       "overallScore": 61,

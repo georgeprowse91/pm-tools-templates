@@ -49,7 +49,7 @@ This starter kit contains 5-7 essential templates that every new project manager
 Once you're comfortable with these basics, consider:
 - **[Agile Transformation Kit](../agile-transformation/)** if moving to agile
 - **[Executive Reporting Kit](../executive-reporting/)** for senior stakeholder management
-- **[Full Project Manager Toolkit](../../role-based-toolkits/project-manager/)** for advanced templates
+- **[Full Project Manager Toolkit](../../templates/role-based/project-manager/)** for advanced templates
 
 ## Success Metrics
 

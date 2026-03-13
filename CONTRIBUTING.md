@@ -32,9 +32,9 @@ This repository serves project managers worldwide, and your contributions help i
 
 ### 2. Understand Our Organization
 We organize content around **how PMs actually work**:
-- **[Project Lifecycle](project-lifecycle/)**: Universal phases, methodology-agnostic
-- **[Role-Based Toolkits](role-based-toolkits/)**: Curated for specific PM roles
-- **[Business Stakeholder Suite](business-stakeholder-suite/)**: Executive-ready tools
+- **[Project Lifecycle](templates/project-lifecycle/)**: Universal phases, methodology-agnostic
+- **[Role-Based Toolkits](templates/role-based/)**: Curated for specific PM roles
+- **[Business Stakeholder Suite](templates/business-stakeholder/)**: Executive-ready tools
 - **[Methodology Frameworks](methodology-frameworks/)**: Deep methodology-specific content
 
 ### 3. Follow Our Principles
@@ -135,9 +135,9 @@ template-name/
    ```
 
 3. **Choose the Right Location**
-   - **New PM Role?** → `role-based-toolkits/[role-name]/`
-   - **Project Phase Template?** → `project-lifecycle/[phase]/`
-   - **Executive Tool?** → `business-stakeholder-suite/`
+   - **New PM Role?** → `templates/role-based/[role-name]/`
+   - **Project Phase Template?** → `templates/project-lifecycle/[phase]/`
+   - **Executive Tool?** → `templates/business-stakeholder/`
    - **Methodology-Specific?** → `methodology-frameworks/[methodology]/`
 
 ### Step 2: Create Your Content

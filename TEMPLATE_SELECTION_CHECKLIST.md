@@ -14,29 +14,29 @@
 **Select all that apply:**
 
 - [ ] **New to project management** → Start with [Quick Start Kits](quick-start-kits/)
-- [ ] **Experienced PM** → Go to [Role-Based Toolkits](role-based-toolkits/)
-- [ ] **Executive/Sponsor** → Use [Business Stakeholder Suite](business-stakeholder-suite/)
+- [ ] **Experienced PM** → Go to [Role-Based Toolkits](templates/role-based/)
+- [ ] **Executive/Sponsor** → Use [Business Stakeholder Suite](templates/business-stakeholder/)
 - [ ] **Team Lead/Scrum Master** → Check [Agile Templates](methodology-frameworks/agile-scrum/)
 - [ ] **Traditional/Waterfall** → Explore [Traditional Templates](methodology-frameworks/traditional-waterfall/)
 
 ### Step 2: Project Phase
 **Where are you in the project lifecycle?**
 
-- [ ] **Just Starting** → [Project Initiation](project-lifecycle/01-initiation/)
-- [ ] **Planning Phase** → [Project Planning](project-lifecycle/02-planning/)
-- [ ] **Currently Executing** → [Project Execution](project-lifecycle/03-execution/)
-- [ ] **Need Monitoring** → [Monitoring & Control](project-lifecycle/04-monitoring-control/)
-- [ ] **Wrapping Up** → [Project Closure](project-lifecycle/05-closure/)
+- [ ] **Just Starting** → [Project Initiation](templates/project-lifecycle/01-initiation/)
+- [ ] **Planning Phase** → [Project Planning](templates/project-lifecycle/02-planning/)
+- [ ] **Currently Executing** → [Project Execution](templates/project-lifecycle/03-execution/)
+- [ ] **Need Monitoring** → [Monitoring & Control](templates/project-lifecycle/04-monitoring-control/)
+- [ ] **Wrapping Up** → [Project Closure](templates/project-lifecycle/05-closure/)
 
 ### Step 3: Immediate Need
 **What do you need right now?**
 
-- [ ] **Project Charter** → [Project Charter Template](project-lifecycle/01-initiation/project-charter/)
-- [ ] **Status Report** → [Status Reporting](role-based-toolkits/project-manager/reporting-dashboards/)
-- [ ] **Risk Management** → [Risk Register](project-lifecycle/02-planning/risk-management/)
-- [ ] **Team Communication** → [Communication Plan](project-lifecycle/02-planning/communication-planning/)
-- [ ] **Executive Updates** → [Executive Dashboard](business-stakeholder-suite/executive-dashboards/)
-- [ ] **Budget Tracking** → [Financial Governance](business-stakeholder-suite/financial-governance/)
+- [ ] **Project Charter** → [Project Charter Template](templates/project-lifecycle/01-initiation/project-charter/)
+- [ ] **Status Report** → [Status Reporting](templates/role-based/project-manager/reporting-dashboards/)
+- [ ] **Risk Management** → [Risk Register](templates/project-lifecycle/02-planning/risk-management/)
+- [ ] **Team Communication** → [Communication Plan](templates/project-lifecycle/02-planning/communication-planning/)
+- [ ] **Executive Updates** → [Executive Dashboard](templates/business-stakeholder/executive-dashboards/)
+- [ ] **Budget Tracking** → [Financial Governance](templates/business-stakeholder/financial-governance/)
 
 ---
 
@@ -77,29 +77,29 @@
 ### Starter Pack (New PM)
 **Essential templates for first-time project managers:**
 
-1. [Project Charter Template](project-lifecycle/01-initiation/project-charter/)
-2. [Communication Plan](project-lifecycle/02-planning/communication-planning/)
-3. [Status Report Template](role-based-toolkits/project-manager/reporting-dashboards/)
-4. [Risk Register](project-lifecycle/02-planning/risk-management/)
-5. [Team Meeting Template](role-based-toolkits/project-manager/team-collaboration/)
+1. [Project Charter Template](templates/project-lifecycle/01-initiation/project-charter/)
+2. [Communication Plan](templates/project-lifecycle/02-planning/communication-planning/)
+3. [Status Report Template](templates/role-based/project-manager/reporting-dashboards/)
+4. [Risk Register](templates/project-lifecycle/02-planning/risk-management/)
+5. [Team Meeting Template](templates/role-based/project-manager/team-collaboration/)
 
 ### Professional Pack (Experienced PM)
 **Comprehensive suite for seasoned professionals:**
 
-1. [Full Project Management Plan](project-lifecycle/02-planning/project-management-plan/)
-2. [Stakeholder Management](project-lifecycle/02-planning/stakeholder-management/)
-3. [Change Management Plan](project-lifecycle/02-planning/change-management/)
-4. [Executive Dashboard](business-stakeholder-suite/executive-dashboards/)
-5. [Project Closure Kit](project-lifecycle/05-closure/)
+1. [Full Project Management Plan](templates/project-lifecycle/02-planning/project-management-plan/)
+2. [Stakeholder Management](templates/project-lifecycle/02-planning/stakeholder-management/)
+3. [Change Management Plan](templates/project-lifecycle/02-planning/change-management/)
+4. [Executive Dashboard](templates/business-stakeholder/executive-dashboards/)
+5. [Project Closure Kit](templates/project-lifecycle/05-closure/)
 
 ### Executive Pack (Sponsors/Leaders)
 **High-level oversight and governance:**
 
-1. [Executive Dashboard](business-stakeholder-suite/executive-dashboards/)
-2. [Strategic Alignment Tools](business-stakeholder-suite/strategic-alignment/)
-3. [Financial Governance](business-stakeholder-suite/financial-governance/)
-4. [Portfolio Overview](role-based-toolkits/executive-sponsor/)
-5. [Communication Automation](business-stakeholder-suite/communication-automation/)
+1. [Executive Dashboard](templates/business-stakeholder/executive-dashboards/)
+2. [Strategic Alignment Tools](templates/business-stakeholder/strategic-alignment/)
+3. [Financial Governance](templates/business-stakeholder/financial-governance/)
+4. [Portfolio Overview](templates/role-based/executive-sponsor/)
+5. [Communication Automation](templates/business-stakeholder/communication-automation/)
 
 ---
 
@@ -110,11 +110,11 @@
 
 | **Situation** | **Template** | **Time to Implement** |
 |---------------|--------------|----------------------|
-| Project just approved | [Project Charter](project-lifecycle/01-initiation/project-charter/) | 30 minutes |
-| Need to report status | [Status Report](role-based-toolkits/project-manager/reporting-dashboards/) | 15 minutes |
-| Risk identified | [Risk Register](project-lifecycle/02-planning/risk-management/) | 20 minutes |
-| Stakeholder confused | [Communication Plan](project-lifecycle/02-planning/communication-planning/) | 45 minutes |
-| Executive asking questions | [Executive Summary](business-stakeholder-suite/executive-dashboards/) | 25 minutes |
+| Project just approved | [Project Charter](templates/project-lifecycle/01-initiation/project-charter/) | 30 minutes |
+| Need to report status | [Status Report](templates/role-based/project-manager/reporting-dashboards/) | 15 minutes |
+| Risk identified | [Risk Register](templates/project-lifecycle/02-planning/risk-management/) | 20 minutes |
+| Stakeholder confused | [Communication Plan](templates/project-lifecycle/02-planning/communication-planning/) | 45 minutes |
+| Executive asking questions | [Executive Summary](templates/business-stakeholder/executive-dashboards/) | 25 minutes |
 
 ---
 
@@ -143,14 +143,14 @@
 
 #### PM Maturity Level
 - [ ] **Ad-hoc/Informal** → [Quick Start Kits](quick-start-kits/) + basic templates
-- [ ] **Developing** → [Project Lifecycle](project-lifecycle/) templates
-- [ ] **Defined** → [Role-Based Toolkits](role-based-toolkits/) + specializations
-- [ ] **Managed** → [Business Stakeholder Suite](business-stakeholder-suite/) + governance
+- [ ] **Developing** → [Project Lifecycle](templates/project-lifecycle/) templates
+- [ ] **Defined** → [Role-Based Toolkits](templates/role-based/) + specializations
+- [ ] **Managed** → [Business Stakeholder Suite](templates/business-stakeholder/) + governance
 - [ ] **Optimizing** → [Integration Toolkits](integration-toolkits/) + automation
 
 #### Stakeholder Sophistication
 - [ ] **Internal/Informal** → Focus on execution templates
-- [ ] **Business Stakeholders** → [Executive Communication](business-stakeholder-suite/)
+- [ ] **Business Stakeholders** → [Executive Communication](templates/business-stakeholder/)
 - [ ] **External Clients** → Professional reporting + governance
 - [ ] **Regulatory Environment** → Compliance + audit trail templates
 
@@ -163,7 +163,7 @@
 2. [User Story Management](methodology-frameworks/agile-scrum/backlog-management/)
 3. [Retrospective Tools](methodology-frameworks/agile-scrum/team-ceremonies/)
 4. [Release Planning](methodology-frameworks/agile-scrum/release-management/)
-5. [Agile Metrics Dashboard](role-based-toolkits/scrum-master/agile-metrics/)
+5. [Agile Metrics Dashboard](templates/role-based/scrum-master/agile-metrics/)
 
 ### "I have a full day to set up properly"
 

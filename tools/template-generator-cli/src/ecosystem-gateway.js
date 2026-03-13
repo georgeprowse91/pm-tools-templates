@@ -499,7 +499,7 @@ class EcosystemOrchestrator {
   }
 
   async createBusinessDashboards(assessment, recommendation) {
-    // Connect to business-stakeholder-suite/
+    // Connect to templates/business-stakeholder/
     const dashboards = {
       executive: await this.generateExecutiveDashboard(assessment, recommendation),
       financial: await this.generateFinancialDashboard(assessment, recommendation),

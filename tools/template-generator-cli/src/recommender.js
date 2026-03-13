@@ -236,8 +236,8 @@ class MethodologyRecommender {
         'status_report_template.md'
       ],
       hybrid: [
-        'hybrid_project_charter_template.md',
-        'hybrid_release_planning_template.md',
+        'hybrid-project-charter-metadata-template.md',
+        'hybrid-release-planning-template.md',
         'integrated_change_strategy_template.md',
         'progressive_acceptance_plan_template.md'
       ]
@@ -260,7 +260,7 @@ class MethodologyRecommender {
     // Add complexity-based templates
     if (assessment.complexity === 'complex' || assessment.complexity === 'highly_complex') {
       templates.push('risk_register_template.md');
-      templates.push('change_request_template.md');
+      templates.push('change-request-template-template-general.md');
     }
 
     return templates;

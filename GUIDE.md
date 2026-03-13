@@ -103,7 +103,7 @@ This guide will help you understand:
 | **Communication Plan** | Framework for project communications with stakeholders | Early planning stages | `Traditional/Templates/communication_plan_template.md` |
 | **Risk Register** | Documentation and management of project risks | Throughout project lifecycle | `Traditional/Templates/risk_register_template.md` |
 | **Issue Log** | Tracking and resolution of project issues | During project execution | `Traditional/Templates/issue_log_template.md` |
-| **Change Request Form** | Formal documentation and approval of project changes | When changes to baseline are needed | `Traditional/Templates/change_request_template.md` |
+| **Change Request Form** | Formal documentation and approval of project changes | When changes to baseline are needed | `Traditional/Templates/change-request-template-template-general.md` |
 
 ### Agile Templates
 
@@ -118,9 +118,9 @@ This guide will help you understand:
 
 | Template | Description | When to Use | Path |
 |----------|-------------|-------------|------|
-| **Hybrid Project Charter** | Project authorization with balanced traditional and agile elements | Project initiation in hybrid environments | `Hybrid/Templates/hybrid_project_charter_template.md` |
-| **Hybrid Release Planning** | Framework for planning releases using mixed methods | Early planning in hybrid projects | `Hybrid/Templates/hybrid_release_planning_template.md` |
-| **Hybrid Team Management** | Guidance for managing teams across methodologies | Team formation and development | `Hybrid/Templates/hybrid_team_management_template.md` |
+| **Hybrid Project Charter** | Project authorization with balanced traditional and agile elements | Project initiation in hybrid environments | `Hybrid/Templates/hybrid-project-charter-metadata-template.md` |
+| **Hybrid Release Planning** | Framework for planning releases using mixed methods | Early planning in hybrid projects | `Hybrid/Templates/hybrid-release-planning-template.md` |
+| **Hybrid Team Management** | Guidance for managing teams across methodologies | Team formation and development | `Hybrid/Templates/hybrid-team-management-template.md` |
 
 ## Methodology Selection Guidance
 

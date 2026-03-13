@@ -10,8 +10,8 @@ INDEX_MD = os.path.join(REPO_ROOT, "TEMPLATE_INDEX.md")
 
 PREFERRED_PREFIXES = (
     "templates/",
-    "role-based-toolkits/",
-    "project-lifecycle/",
+    "templates/role-based/",
+    "templates/project-lifecycle/",
     "project-assessment-suite/",
     "industry-specializations/",
 )
@@ -98,7 +98,7 @@ def main() -> int:
     header_note = (
         "# Template Index\n\n"
         "Note on canonicalization:\n"
-        "- This index prefers canonical paths under templates/ and role-based-toolkits/ when multiple equivalents exist.\n"
+        "- This index prefers canonical paths under templates/ and templates/role-based/ when multiple equivalents exist.\n"
         "- Duplicates and aliases are omitted for clarity; see templates/templates.json for alternate_paths.\n\n"
         "<a id=\"beginner-templates\"></a>\n"
         "<a id=\"intermediate-templates\"></a>\n"

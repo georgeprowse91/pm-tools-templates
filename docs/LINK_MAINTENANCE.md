@@ -14,9 +14,9 @@ This document outlines the practices for maintaining links in the PM Tools Templ
 
 ### Internal Links (Preferred)
 ```markdown
-✅ Good: [Project Charter](../../project-lifecycle/01-initiation/project-charter/)
+✅ Good: [Project Charter](../../templates/project-lifecycle/01-initiation/project-charter/)
 ✅ Good: [Risk Management](../risk-management/)
-❌ Avoid: [Project Charter](https://github.com/org/repo/tree/main/project-lifecycle/01-initiation/project-charter/)
+❌ Avoid: [Project Charter](https://github.com/org/repo/tree/main/templates/project-lifecycle/01-initiation/project-charter/)
 ```
 
 ### External Links
@@ -70,12 +70,12 @@ This document outlines the practices for maintaining links in the PM Tools Templ
 ### Issue: Cross-Section Links
 **Problem:** Links between major sections break when restructuring
 ```markdown
-❌ [Business Suite](../../business-stakeholder-suite/specific-feature/)
+❌ [Business Suite](../../templates/business-stakeholder/specific-feature/)
 ```
 
 **Solution:** Use directory-level links when possible
 ```markdown
-✅ [Business Stakeholder Suite](../../business-stakeholder-suite/)
+✅ [Business Stakeholder Suite](../../templates/business-stakeholder/)
 ```
 
 ### Issue: External Link Rot

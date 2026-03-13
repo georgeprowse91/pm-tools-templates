@@ -15,7 +15,7 @@
 
 title: "Sprint Planning Template"
 
-[**➡️ View Template File**](/role-based-toolkits/scrum-master/agile-ceremonies/sprint-planning-template.md)
+[**➡️ View Template File**](/templates/role-based/scrum-master/agile-ceremonies/sprint-planning-template.md)
 
 ## 📈 Quality Score
 

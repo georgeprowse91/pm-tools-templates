@@ -81,5 +81,5 @@ By signing below, stakeholders agree this project should proceed as described:
 
 ---
 
-*This is a simplified version. For complex projects, use the [full project charter template](../../project-lifecycle/01-initiation/project-charter/).*
+*This is a simplified version. For complex projects, use the [full project charter template](../../templates/project-lifecycle/01-initiation/project-charter/).*
 

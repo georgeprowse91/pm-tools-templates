@@ -30,8 +30,8 @@ Create comprehensive SAFe templates to support enterprise agile transformation.
 
 **Files to Create:**
 - `methodology-frameworks/agile-scrum/scaling-frameworks/safe/`
-- `role-based-toolkits/release-train-engineer/`
-- `business-stakeholder-suite/safe-executive-dashboards/`
+- `templates/role-based/release-train-engineer/`
+- `templates/business-stakeholder/safe-executive-dashboards/`
 
 **Dependencies:**
 - Completion of Phase 1 Agile Transformation Kit
@@ -79,7 +79,7 @@ Create templates that bridge project management and DevOps practices.
 **Files to Create:**
 - `methodology-frameworks/emerging-methods/devops/`
 - `integration_guides/devops_tools/`
-- `role-based-toolkits/devops-engineer/`
+- `templates/role-based/devops-engineer/`
 
 ---
 
@@ -145,7 +145,7 @@ Create automated workflows using Microsoft Power Automate for common PM tasks.
 
 **Files to Create:**
 - `integration_guides/power_automate/`
-- `business-stakeholder-suite/communication-automation/power-automate/`
+- `templates/business-stakeholder/communication-automation/power-automate/`
 
 ---
 
@@ -166,7 +166,7 @@ Develop Zapier-based automation templates for cross-platform integration.
 
 **Files to Create:**
 - `integration_guides/zapier_automation/`
-- `role-based-toolkits/project-manager/automation-workflows/`
+- `templates/role-based/project-manager/automation-workflows/`
 
 ---
 
@@ -214,12 +214,12 @@ Develop comprehensive template suite specifically designed for Product Owner rol
 - [ ] Real-world examples and case studies
 
 **Files to Create:**
-- `role-based-toolkits/product-owner/`
-- `role-based-toolkits/product-owner/product-vision-templates/`
-- `role-based-toolkits/product-owner/backlog-management/`
-- `role-based-toolkits/product-owner/roadmap-planning/`
-- `role-based-toolkits/product-owner/stakeholder-communication/`
-- `role-based-toolkits/product-owner/metrics-tracking/`
+- `templates/role-based/product-owner/`
+- `templates/role-based/product-owner/product-vision-templates/`
+- `templates/role-based/product-owner/backlog-management/`
+- `templates/role-based/product-owner/roadmap-planning/`
+- `templates/role-based/product-owner/stakeholder-communication/`
+- `templates/role-based/product-owner/metrics-tracking/`
 - `integration_guides/product_management_tools/`
 - `quick-start-kits/product-owner-starter/`
 
@@ -247,13 +247,13 @@ Create specialized templates for Release Manager responsibilities including depl
 - [ ] Release metrics and success tracking
 
 **Files to Create:**
-- `role-based-toolkits/release-manager/`
-- `role-based-toolkits/release-manager/release-planning/`
-- `role-based-toolkits/release-manager/deployment-procedures/`
-- `role-based-toolkits/release-manager/communication-frameworks/`
-- `role-based-toolkits/release-manager/quality-gates/`
-- `role-based-toolkits/release-manager/risk-management/`
-- `role-based-toolkits/release-manager/monitoring-feedback/`
+- `templates/role-based/release-manager/`
+- `templates/role-based/release-manager/release-planning/`
+- `templates/role-based/release-manager/deployment-procedures/`
+- `templates/role-based/release-manager/communication-frameworks/`
+- `templates/role-based/release-manager/quality-gates/`
+- `templates/role-based/release-manager/risk-management/`
+- `templates/role-based/release-manager/monitoring-feedback/`
 - `integration_guides/cicd_integration/`
 - `quick-start-kits/release-manager-starter/`
 
@@ -276,7 +276,7 @@ Enhance Excel templates with advanced automation, macros, and integration capabi
 
 **Files to Create:**
 - `integration_guides/excel_automation/advanced/`
-- `business-stakeholder-suite/excel-automation/`
+- `templates/business-stakeholder/excel-automation/`
 
 ---
 

@@ -17,5 +17,5 @@ Quick start kit for establishing and managing remote project teams.
 
 ---
 Related Resources:
-- [Communication Planning](../../project-lifecycle/02-planning/communication-planning/)
-- [Team Management](../../role-based-toolkits/project-manager/team-management/)
+- [Communication Planning](../../templates/project-lifecycle/02-planning/communication-planning/)
+- [Team Management](../../templates/role-based/project-manager/team-management/)

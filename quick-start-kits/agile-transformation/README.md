@@ -203,7 +203,7 @@ This kit provides everything needed to successfully transition a team or organiz
 ### For Advanced Transformation
 - **[SAFe Implementation](../../methodology-frameworks/agile-scrum/scaling-frameworks/)** - Enterprise agile scaling
 - **[DevOps Integration](../../integration-toolkits/development-tools/)** - Technical agility
-- **[Agile Portfolio Management](../../role-based-toolkits/program-manager/)** - Strategic agility
+- **[Agile Portfolio Management](../../templates/role-based/program-manager/)** - Strategic agility
 
 ## 🆘 Support Resources
 

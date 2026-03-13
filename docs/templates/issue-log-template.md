@@ -15,7 +15,7 @@
 
 title: "Issue Log Template"
 
-[**➡️ View Template File**](/project-lifecycle/04-monitoring-control/issue-management/issue-log-template.md)
+[**➡️ View Template File**](/templates/project-lifecycle/04-monitoring-control/issue-management/issue-log-template.md)
 
 ## 📈 Quality Score
 

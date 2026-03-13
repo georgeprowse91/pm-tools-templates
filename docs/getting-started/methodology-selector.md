@@ -160,10 +160,10 @@ If you prefer a simpler approach, answer these key questions:
 **Recommended methodology:** **Traditional/Waterfall**
 
 **Your starting toolkit:**
-1. **[Project Charter Template](../../project-lifecycle/01-initiation/project-charter/)**
-2. **[Project Management Plan](../../project-lifecycle/02-planning/project-management-plan/)**
-3. **[Project Manager Essential Templates](../../role-based-toolkits/project-manager/essential-templates/)**
-4. **[Executive Reporting Suite](../../business-stakeholder-suite/executive-dashboards/)**
+1. **[Project Charter Template](../../templates/project-lifecycle/01-initiation/project-charter/)**
+2. **[Project Management Plan](../../templates/project-lifecycle/02-planning/project-management-plan/)**
+3. **[Project Manager Essential Templates](../../templates/role-based/project-manager/essential-templates/)**
+4. **[Executive Reporting Suite](../../templates/business-stakeholder/executive-dashboards/)**
 
 **Industry examples:**
 - Construction and engineering projects
@@ -185,10 +185,10 @@ If you prefer a simpler approach, answer these key questions:
 **Recommended methodology:** **Agile/Scrum**
 
 **Your starting toolkit:**
-1. **[Scrum Master Toolkit](../../role-based-toolkits/scrum-master/)**
-2. **[Product Owner Backlog Management](../../role-based-toolkits/product-owner/backlog-management/)**
-3. **[Agile Ceremonies Templates](../../role-based-toolkits/scrum-master/agile-ceremonies/)**
-4. **[Agile Metrics Dashboard](../../role-based-toolkits/scrum-master/agile-metrics/)**
+1. **[Scrum Master Toolkit](../../templates/role-based/scrum-master/)**
+2. **[Product Owner Backlog Management](../../templates/role-based/product-owner/backlog-management/)**
+3. **[Agile Ceremonies Templates](../../templates/role-based/scrum-master/agile-ceremonies/)**
+4. **[Agile Metrics Dashboard](../../templates/role-based/scrum-master/agile-metrics/)**
 
 **Industry examples:**
 - Software development
@@ -211,9 +211,9 @@ If you prefer a simpler approach, answer these key questions:
 
 **Your starting toolkit:**
 1. **[Hybrid Frameworks](../../methodology-frameworks/hybrid-approaches/)**
-2. **[Project Lifecycle Templates](../../project-lifecycle/)** (adapted for hybrid use)
-3. **[Program Manager Toolkit](../../role-based-toolkits/program-manager/)**
-4. **[Business Stakeholder Suite](../../business-stakeholder-suite/)**
+2. **[Project Lifecycle Templates](../../templates/project-lifecycle/)** (adapted for hybrid use)
+3. **[Program Manager Toolkit](../../templates/role-based/program-manager/)**
+4. **[Business Stakeholder Suite](../../templates/business-stakeholder/)**
 
 **Industry examples:**
 - Enterprise software implementations
@@ -271,11 +271,11 @@ Start Here
 - Predictable scope, schedule, and cost
 
 ### 🛠️ Core Templates You'll Use
-- [Project Charter](../../project-lifecycle/01-initiation/project-charter/)
-- [Work Breakdown Structure](../../project-lifecycle/02-planning/scope-management/)
-- [Project Schedule](../../project-lifecycle/02-planning/schedule-planning/)
-- [Risk Register](../../project-lifecycle/02-planning/risk-management/)
-- [Status Reports](../../role-based-toolkits/project-manager/reporting-dashboards/)
+- [Project Charter](../../templates/project-lifecycle/01-initiation/project-charter/)
+- [Work Breakdown Structure](../../templates/project-lifecycle/02-planning/scope-management/)
+- [Project Schedule](../../templates/project-lifecycle/02-planning/schedule-planning/)
+- [Risk Register](../../templates/project-lifecycle/02-planning/risk-management/)
+- [Status Reports](../../templates/role-based/project-manager/reporting-dashboards/)
 
 ---
 
@@ -297,11 +297,11 @@ Start Here
 - Embracing change over following a rigid plan
 
 ### 🛠️ Core Templates You'll Use
-- [Product Backlog](../../role-based-toolkits/product-owner/backlog-management/)
-- [Sprint Planning](../../role-based-toolkits/scrum-master/agile-ceremonies/)
-- [Daily Standup](../../role-based-toolkits/scrum-master/agile-ceremonies/)
-- [Sprint Review](../../role-based-toolkits/scrum-master/agile-ceremonies/)
-- [Retrospective](../../role-based-toolkits/scrum-master/agile-ceremonies/)
+- [Product Backlog](../../templates/role-based/product-owner/backlog-management/)
+- [Sprint Planning](../../templates/role-based/scrum-master/agile-ceremonies/)
+- [Daily Standup](../../templates/role-based/scrum-master/agile-ceremonies/)
+- [Sprint Review](../../templates/role-based/scrum-master/agile-ceremonies/)
+- [Retrospective](../../templates/role-based/scrum-master/agile-ceremonies/)
 
 ---
 
@@ -324,10 +324,10 @@ Start Here
 
 ### 🛠️ Core Templates You'll Use
 - [Hybrid Project Charter](../../methodology-frameworks/hybrid-approaches/)
-- [Program Management Plan](../../role-based-toolkits/program-manager/)
-- [Agile + Traditional Status Reports](../../business-stakeholder-suite/executive-dashboards/)
-- [Scaled Risk Management](../../project-lifecycle/02-planning/risk-management/)
-- [Multi-methodology Team Coordination](../../role-based-toolkits/program-manager/cross-project-coordination/)
+- [Program Management Plan](../../templates/role-based/program-manager/)
+- [Agile + Traditional Status Reports](../../templates/business-stakeholder/executive-dashboards/)
+- [Scaled Risk Management](../../templates/project-lifecycle/02-planning/risk-management/)
+- [Multi-methodology Team Coordination](../../templates/role-based/program-manager/cross-project-coordination/)
 
 ---
 
@@ -475,8 +475,8 @@ No methodology is one-size-fits-all. Consider these tailoring dimensions:
 ### Once You've Chosen Your Methodology
 
 1. **Get your templates:** Visit the [Template Selector](template-selector.md)
-2. **Set up your project:** Start with [Project Lifecycle](../../project-lifecycle/)
-3. **Choose your role toolkit:** Browse [Role-Based Toolkits](../../role-based-toolkits/)
+2. **Set up your project:** Start with [Project Lifecycle](../../templates/project-lifecycle/)
+3. **Choose your role toolkit:** Browse [Role-Based Toolkits](../../templates/role-based/)
 4. **Consider industry adaptations:** Check [Industry Specializations](../../industry-specializations/)
 
 ### Still Unsure?

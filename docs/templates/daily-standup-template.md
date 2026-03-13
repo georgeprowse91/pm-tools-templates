@@ -15,7 +15,7 @@
 
 title: "Daily Standup Template"
 
-[**➡️ View Template File**](/role-based-toolkits/scrum-master/agile-ceremonies/daily-standup-template.md)
+[**➡️ View Template File**](/templates/all/daily-standup-template.md)
 
 ## 📈 Quality Score
 

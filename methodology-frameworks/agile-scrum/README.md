@@ -239,8 +239,8 @@ The Agile-Scrum framework provides a structured yet flexible approach to project
 <a id="measurement-improvement"></a>
 ### Implementation Support
 1. **[Quick Start Kits](../../quick-start-kits/agile-transformation/)** - Transformation roadmap and tools
-2. **[Role-Based Toolkits](../../role-based-toolkits/)** - Specific guidance for Scrum roles
-3. **[Project Lifecycle](../../project-lifecycle/)** - Integration with traditional project phases
+2. **[Role-Based Toolkits](../../templates/role-based/)** - Specific guidance for Scrum roles
+3. **[Project Lifecycle](../../templates/project-lifecycle/)** - Integration with traditional project phases
 
 ### Advanced Topics
 <a id="success-factors"></a>
@@ -250,8 +250,8 @@ The Agile-Scrum framework provides a structured yet flexible approach to project
 
 ### Measurement & Improvement
 1. **[Analytics Platform](../../analytics-platform/)** - Agile metrics and dashboards
-2. **[Progress Tracking](../../project-lifecycle/04-monitoring-control/progress-tracking/)** - Performance monitoring
-3. **[Quality Management](../../project-lifecycle/02-planning/quality-management/)** - Quality assurance integration
+2. **[Progress Tracking](../../templates/project-lifecycle/04-monitoring-control/progress-tracking/)** - Performance monitoring
+3. **[Quality Management](../../templates/project-lifecycle/02-planning/quality-management/)** - Quality assurance integration
 
 ---
 

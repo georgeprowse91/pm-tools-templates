@@ -15,7 +15,7 @@
 
 title: "Meeting Templates"
 
-[**➡️ View Template File**](/role-based-toolkits/project-manager/essential-templates/meeting-templates.md)
+[**➡️ View Template File**](/templates/all/meeting-templates.md)
 
 ## 📈 Quality Score
 

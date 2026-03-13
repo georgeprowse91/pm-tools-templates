@@ -36,8 +36,8 @@ Guide to help project managers select the most appropriate methodology for their
 
 **Templates:**
 - [Traditional Framework](../methodology-frameworks/traditional/)
-- [Project Charter](../project-lifecycle/01-initiation/project-charter/)
-- [Work Breakdown Structure](../project-lifecycle/02-planning/scope-management/)
+- [Project Charter](../templates/project-lifecycle/01-initiation/project-charter/)
+- [Work Breakdown Structure](../templates/project-lifecycle/02-planning/scope-management/)
 
 ### Agile/Scrum Approach  
 **Best For:**
@@ -79,9 +79,9 @@ Guide to help project managers select the most appropriate methodology for their
 
 ### Getting Started with Selected Methodology
 **Traditional Approach:**
-1. Start with [Project Charter](../project-lifecycle/01-initiation/project-charter/)
+1. Start with [Project Charter](../templates/project-lifecycle/01-initiation/project-charter/)
 2. Complete detailed planning phase
-3. Use [WBS and Gantt charts](../project-lifecycle/02-planning/scope-management/)
+3. Use [WBS and Gantt charts](../templates/project-lifecycle/02-planning/scope-management/)
 4. Implement formal change control
 
 **Agile Approach:**
@@ -99,7 +99,7 @@ Guide to help project managers select the most appropriate methodology for their
 ### Methodology Transition Support
 - [Training Resources](../docs/training/)
 - [Change Management](../essential-templates/change-management/)
-- [Team Formation Guidance](../role-based-toolkits/project-manager/team-management/)
+- [Team Formation Guidance](../templates/role-based/project-manager/team-management/)
 
 ## Common Selection Mistakes to Avoid
 1. **Methodology bias** - Choosing based on personal preference rather than project needs

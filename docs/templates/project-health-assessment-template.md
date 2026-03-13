@@ -15,7 +15,7 @@
 
 title: "Project Health Assessment Template"
 
-[**➡️ View Template File**](/project-assessment-suite/project-health-assessment-template.md)
+[**➡️ View Template File**](/templates/all/project-health-assessment-template.md)
 
 ## 📈 Quality Score
 
